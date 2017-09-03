@@ -21,4 +21,4 @@ If there should be a relevant amount of interest in *Wahl-Helfer*, this might so
 ## Elections
 
 *Wahl-Helfer* currently supports the following election(s):
-- [Bundestagswahl 2017]()
+- [Bundestagswahl 2017](https://cdn.rawgit.com/oyooyo/wahl-helfer/master/html/wahl-helfer.html?wahl=bundestagswahl2017)
