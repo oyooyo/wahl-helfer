@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+		<title>Wahl-Helfer</title>
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous" />
+	</head>
+	<body>
+		<div id="app">
+			<nav id="navbar" class="navbar fixed-top navbar-dark bg-dark">
+				<ul class="nav nav-pills nav-fill" role="tablist">
+					<li class="nav-item">
+						<a id="help-tab" class="nav-link active" data-toggle="tab" href="#help-tabpanel" role="tab" aria-controls="help-tabpanel" aria-expanded="true">Hilfe</a>
+					</li>
+					<li class="nav-item">
+						<a id="theses-tab" class="nav-link" data-toggle="tab" href="#theses-tabpanel" role="tab" aria-controls="theses-tabpanel" aria-expanded="false">Thesen</a>
+					</li>
+					<li class="nav-item">
+						<a id="parties-tab" class="nav-link" data-toggle="tab" href="#parties-tabpanel" role="tab" aria-controls="parties-tabpanel" aria-expanded="false">Parteien</a>
+					</li>
+				</ul>
+			</nav>
+			<div id="tabpanels" class="tab-content container-fluid" style="margin-top:60px;">
+				<div id="help-tabpanel" class="tab-pane show active" role="tabpanel" aria-labelledby="help-tab">
+					<div id="help">
+						<div class="alert alert-primary">
+							Um den Fragebogen/Test zu starten, klicken Sie auf "<strong>Thesen</strong>" am oberen Bildschirmrand.
+						</div>
+						<div class="jumbotron py-2">
+							<h2><em>Wahl-Helfer</em></h2>
+						</div>
+						<p>Der "<em>Wahl-Helfer</em>" ist eine (auch für mobile Endgeräte geeignete) Alternative zum bekannten "<em>Wahl-O-Mat</em>".</p>
+						<p>Er benutzt die Original-Thesen und -Antworten des "<em>Wahl-O-Mat</em>", und kommt bei identischen Angaben daher auch zu identischen Ergebnissen.</p>
+						<p>"<em>Wahl-Helfer</em>" möchte lediglich einige Nachteile des "<em>Wahl-O-Mat</em>" eliminieren:</p>
+						<small class="text-muted">(Anklicken, um mehr zu erfahren)</small>
+						<ul>
+							<li>
+								<a data-toggle="collapse" href="#collapse-1" aria-expanded="false" aria-controls="collapse-1"><strong>Keine Beschränkung auf acht Parteien</strong></a>
+								<div class="collapse" id="collapse-1">
+									<p>Beim "<em>Wahl-O-Mat</em>" ist die Auswertung auf acht Parteien beschränkt; um zu sehen, mit welcher von allen Parteien man die grösste Übereinstimmung hat, muss die Auswertung daher mehrfach wiederholt werden. Begründet wird dies offiziell damit, dass der "<em>Wahl-O-Mat</em>" "keine Wahlempfehlung", sondern vielmehr "ein Angebot zur politischen Bildung und Information" sei. Es ist jedoch zu befürchten, dass diese Einschränkung in der Praxis speziell kleine und unbekannte Parteien benachteiligt, die dem Benutzer nicht geläufig sind.</p>
+									<p>Der "<em>Wahl-Helfer</em>" hingegen zeigt standardmässig immer die Ergebnisse für alle Parteien an.</p>
+								</div>
+							</li>
+							<li>
+								<a data-toggle="collapse" href="#collapse-2" aria-expanded="false" aria-controls="collapse-2"><strong>Mehr Möglichkeiten zur Gewichtung</strong></a>
+								<div class="collapse" id="collapse-2">
+									<p>Beim "<em>Wahl-O-Mat</em>" kann jede These immer nur wahlweise einfach oder doppelt gewichtet werden.</p>
+									<p>Beim "<em>Wahl-Helfer</em>" gibt es deutlich mehr Möglichkeiten zur Gewichtung.</p>
+								</div>
+							</li>
+							<li>
+								<a data-toggle="collapse" href="#collapse-3" aria-expanded="false" aria-controls="collapse-3"><strong>Keine Daten-Weitergabe an deutsche Behörden</strong></a>
+								<div class="collapse" id="collapse-3">
+									<p>Der "<em>Wahl-O-Mat</em>" wird von der Bundeszentrale für politische Bildung betrieben, einer dem Innenministerium unterstehenden Behörde. Wer den "<em>Wahl-O-Mat</em>" benutzt, der gibt seine persönliche Meinung zu dutzenden politischen Fragen an diese Behörde bzw. deren Server weiter.</p>
+									<p>Der "<em>Wahl-O-Mat</em>" wurde alleine bei der Bundestagswahl 2013 über 13 Millionen mal genutzt - ein derart massiver Datenschatz an Informationen über die politischen Einstellungen der Bundesbürger liesse sich leicht missbrauchen. Und was genau mit den Daten geschieht, die die Behörde auf diese Weise sammelt, darüber schweigt sich die offizielle FAQ des "<em>Wahl-O-Mat</em>" aus.</p>
+									<p>Beim "<em>Wahl-Helfer</em>" hingegen werden ihre Daten nicht an das Internet gesendet; die Auswertung etc. erfolgt rein lokal auf ihrem Computer/Smartphone.</p>
+								</div>
+							</li>
+						</ul>
+						<h2>Bedienung</h2>
+						<p>Über die Schaltflächen "Hilfe", "Thesen" und "Parteien" in der oberen Leiste kann jederzeit zwischen den drei Registerkarten des "<em>Wahl-Helfer</em>" hin- und hergewechselt werden.</p>
+						<p>Derzeit befinden Sie sich auf "<strong>Hilfe</strong>"-Seite</p>
+						<p>Auf der "<strong>Thesen</strong>"-Seite werden die diversen Thesen aufgelistet, zu denen der Benutzer seine Meinung angeben kann.</p>
+						<p>Auf der "<strong>Parteien</strong>"-Seite befindet sich eine Liste aller zur Wahl stehenden Parteien, zusammen mit und automatisch geordnet nach dem jeweiligen Grad der Übereinstimmung mit den Standpunkten des Benutzers.</p>
+					</div>
+				</div>
+				<div id="theses-tabpanel" class="tab-pane" role="tabpanel" aria-labelledby="theses-tab">
+					<div class="alert alert-primary">
+						<p><strong>Wichtige Tipps zum Ausfüllen:</strong></p>
+						<small class="text-muted">(Anklicken, um mehr zu erfahren)</small>
+						<ul>
+							<li>
+								<a data-toggle="collapse" href="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Das Wichtigste ist die Gewichtung</a>
+								<div class="collapse" id="collapse-4">
+									<p>Manche politische Themen werden Ihnen sehr wichtig, andere völlig unwichtig sein. Sie sollten eine Partei wählen, die speziell bei den Themen, die Ihnen besonders am Herzen liegen, ihren Standpunkt vertritt.</p>
+									<p>Noch wichtiger als die Beantwortung der Fragen ist daher deren Gewichtung: Geben Sie den Themen, die Ihnen besonders am Herz liegen, eine besonders hohe Gewichtung.</p>
+								</div>
+							</li>
+							<li>
+								<a data-toggle="collapse" href="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Im Zweifelsfall "Ignorieren" wählen</a>
+								<div class="collapse" id="collapse-5">
+									<p>Es ist nicht wichtig, zu allem eine klare Ja/Nein-Meinung zu haben. Wenn Sie bei einer These/Aussage unentschlossen sind, ihr nur unter bestimmten Bedingungen zustimmen würden o.Ä., dann wählen Sie im Zweifelsfall lieber die Option "Ignorieren".</p>
+									<p>Von der Option "neutral" hingegen wird grundsätzlich abgeraten - wählen sie "neutral" nur, wenn Sie wirklich wissen, was Sie da eigentlich tun, und wie sich dies auf die Ergebnisse auswirkt.</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+					<div id="theses">
+						Daten der Wahl werden geladen...
+					</div>
+					<div class="alert alert-primary">
+						<p>Sie sind am Ende der Thesen angekommen. Wechseln Sie zur Auswertung, indem Sie am oberen Rand auf "<strong>Parteien</strong>" klicken.</p>
+					</div>
+				</div>
+				<div id="parties-tabpanel" class="tab-pane" role="tabpanel" aria-labelledby="parties-tab">
+					<div class="alert alert-primary">
+						Durch einen Klick auf "<strong>Thesen</strong>" am oberen Bildschirmrand können Sie jederzeit ihre Angaben zu den Thesen verändern, und schauen, wie sich dies auf die Auswertung auf dieser Seite auswirkt.
+					</div>
+					<ul id="parties" class="list-group">
+						Daten der Wahl werden geladen...
+					</ul>
+				</div>
+			</div>
+		</div>
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+		<script src="wahl-helfer.js"></script>
+	</body>
+</html>
