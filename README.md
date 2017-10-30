@@ -64,4 +64,4 @@ If there should be a relevant amount of interest in *Wahl-Helfer*, this might so
 - [Landtagswahl Bayern 2003](https://cdn.rawgit.com/oyooyo/wahl-helfer/master/html/wahl-helfer.html?wahl=2003by)
 - [Bundestagswahl 2002](https://cdn.rawgit.com/oyooyo/wahl-helfer/master/html/wahl-helfer.html?wahl=2002de)
 
-Thanks a lot to [Qual-O-Mat-Data](https://github.com/gockelhahn/qual-o-mat-data) for providing the data of all the old elections!
+Thanks a lot to [gockelhahn](https://github.com/gockelhahn)'s [qual-o-mat-data](https://github.com/gockelhahn/qual-o-mat-data) for providing the data of all the old elections!
