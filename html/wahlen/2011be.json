@@ -1,0 +1,269 @@
+{
+	"name": "Abgeordnetenhauswahl Berlin",
+	"parties": [
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "++~+~+-+----++-++~~-++-+--+-~+++++++~~",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "--+-+--+-+-+---++-~--++--~++++-+-++-++",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "++++-+-+--~-+++-+++-~+-++-+---+-+-++--",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "B\u00fcndnis 90/Die GR\u00dcNEN",
+			"positions": "~+++-+-++-+--++-+++-++-++-+---+++-++-+",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "--+~---~-+-+-~-+~----+++-+++-+-+~++-++",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "+++-+++--+-+--++-+++--++++--++--++--+-",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+			"positions": "++-+-++++++++++~--+-++-++-+-~++-++++-~",
+			"short_name": "Tierschutzpartei"
+		},
+		{
+			"full_name": "Anarchistische Pogo-Partei Deutschlands",
+			"positions": "++++-+-++--~-++-+++-+++++-----+-+-++-+",
+			"short_name": "APPD"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "+---+--+++~~+--++-+--~+-+++-++-++-++--",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "-+~++-+++-++-++-++--+++++++--++++~++-+",
+			"short_name": "\u00f6dp"
+		},
+		{
+			"full_name": "Partei f\u00fcr Soziale Gleichheit, Sektion der Vierten Internationale",
+			"positions": "++~+-~+++-~-+++-+++-++-++-+-----+-++-~",
+			"short_name": "PSG"
+		},
+		{
+			"full_name": "Bergpartei, die \"\u00dcberPartei\"",
+			"positions": "++++---++-~--++-+++-++-++~+---+-+-++-+",
+			"short_name": "B"
+		},
+		{
+			"full_name": "B\u00fcndnis f\u00fcr Innovation & Gerechtigkeit",
+			"positions": "+++-+--+~--++++-++~--+-++-+--++++-++-~",
+			"short_name": "BIG"
+		},
+		{
+			"full_name": "B\u00fcrgerbewegung pro Deutschland",
+			"positions": "+++-+----+-+--+~--++-++-++--++--+~+-+~",
+			"short_name": "pro Deutschland"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtspartei f\u00fcr mehr Freiheit und Demokratie - DIE FREIHEIT",
+			"positions": "+-+--++~-+-++-++-~+--++-~+++++-+~++-+-",
+			"short_name": "DIE FREIHEIT"
+		},
+		{
+			"full_name": "Deutsche Demokratische Partei",
+			"positions": "+-+-+-++-+-++-++-+---++++++--+--+-++-+",
+			"short_name": "ddp"
+		},
+		{
+			"full_name": "Deutsche Kommunistische Partei",
+			"positions": "-+++-++++-+-+++-+++-++-++-+--++-+-++--",
+			"short_name": "DKP"
+		},
+		{
+			"full_name": "DEUTSCHE KONSERVATIVE PARTEI",
+			"positions": "+-+-+++--+-++-++-+-+-++-+++-++--+++-++",
+			"short_name": "Deutsche Konservative"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "-+++-+++-+-+-++-~----+~+++++-+-~++++~+",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "++++-+~~+---~-+-+++-~++++------++-++-+",
+			"short_name": "Die PARTEI"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "++~+-~~++~~~-++-++~-~+-+--+-----+-++-~",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "UNABH\u00c4NGIGE ...f\u00fcr b\u00fcrgernahe Demokratie",
+			"positions": "~+++---++--+-++~+-+-~+-+~-+--+-++-++-+",
+			"short_name": "UNABH\u00c4NGIGE"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Die Berliner S-Bahn soll als landeseigenes Unternehmen betrieben werden!",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Bei der Berliner Abgeordnetenhauswahl: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "H\u00e4rteres Vorgehen bei Verschmutzung durch Hundekot.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Eingetragene Lebenspartnerschaften sollen der Ehe gleichgestellt werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Der Alkoholkonsum auf \u00f6ffentlichen Pl\u00e4tzen soll weiter eingeschr\u00e4nkt werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "In Berlin soll es eine Steuer f\u00fcr Hotel\u00fcbernachtungen geben (\"City-Tax\").",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Das letzte Kita-Jahr vor der Einschulung soll f\u00fcr alle Kinder verpflichtend sein.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Berlin soll weiterhin Kulturprojekte von Menschen mit Migrationshintergrund f\u00f6rdern.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Die Bebauung des Spreeufers im Rahmen des Mediaspree-Projekts soll gestoppt werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Kriminelle Jugendliche sollen bei einer Verurteilung auf Bew\u00e4hrung auch f\u00fcr kurze Zeit inhaftiert werden k\u00f6nnen (\"Warnschussarrest\").",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Die Grunderwerbssteuer soll erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Projekte zur Bek\u00e4mpfung des Linksextremismus sollen gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die sechsj\u00e4hrige Grundschulzeit soll f\u00fcr alle Sch\u00fclerinnen und Sch\u00fcler verpflichtend sein.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Berlin soll sich daf\u00fcr einsetzen, dass sich Asylbewerber und Asylbewerberinnen in ganz Deutschland frei bewegen d\u00fcrfen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "In Berlin sollen die H\u00fcrden f\u00fcr Volksentscheide gesenkt werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die Stadtautobahn A100 soll verl\u00e4ngert werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen im \u00f6ffentlichen Dienst Berlins arbeiten.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Alle Bachelor-Absolventen Berliner Hochschulen sollen einen Rechtsanspruch auf einen Masterstudienplatz in Berlin haben.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Das Tempelhofer Feld soll komplett als Gr\u00fcnfl\u00e4che erhalten bleiben.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Kindergeld soll nur an deutsche Familien ausgezahlt werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Auf mehr Berliner Stra\u00dfen soll Tempo 30 gelten.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Projekte gegen Rechtsextremismus sollen weiterhin gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Das jahrgangs\u00fcbergreifende Lernen (\"J\u00fcL\") an Berliner Grundschulen soll abgeschafft werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Bei Gro\u00dfeins\u00e4tzen sollen alle Polizistinnen und Polizisten eine individuelle Kennung tragen m\u00fcssen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Berlin soll den sozialen Wohnungsbau wieder f\u00f6rdern.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Abschaffung der Umweltzone in Berlin!",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Alle Kinder sollen ungeachtet ihres kulturellen Hintergrundes gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Gesetzliche Mindestl\u00f6hne sollen weiterhin nur f\u00fcr einzelne Branchen gelten.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung im \u00f6ffentlichen Raum soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Alle Kinder im Vorschulalter sollen zus\u00e4tzliche Sprachtests absolvieren m\u00fcssen.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Das Land Berlin soll sich f\u00fcr die Einf\u00fchrung einer gesetzlichen Frauenquote in Aufsichtsr\u00e4ten und Vorst\u00e4nden einsetzen.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Berliner Lehrerinnen und Lehrer f\u00fcr islamischen Religionsunterricht sollen an deutschen Hochschulen ausgebildet worden sein.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Die Privatisierung der Berliner Wasserbetriebe soll r\u00fcckg\u00e4ngig gemacht werden.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Hartz IV-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen auch weiterhin Leistungen gek\u00fcrzt werden, wenn sie ein Jobangebot ablehnen.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die Berliner Gedenkst\u00e4tten f\u00fcr die Opfer des NS-Regimes sollen weiterhin vom Land Berlin finanziell gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Kommunales Wahlrecht f\u00fcr alle dauerhaft in Berlin wohnenden Ausl\u00e4nderinnen und Ausl\u00e4nder!",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "An Berliner Schulen soll f\u00fcr Berufe bei der Bundeswehr geworben werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Am Bahnhof Zoo sollen wieder Fernverkehrsz\u00fcge halten.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

@@ -1,0 +1,234 @@
+{
+	"name": "Landtagswahl Saarland",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "-+++---+--~-~~~+-+---~+~+-+~-~+-+~++-+",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "-+++---+++-+++-~~++-++++++++-~+++-++-+",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "-+-+++~~++++++-++-+-++++-~++-+++~+~++~",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "+--+-++-++++-+-+----++++-++++++++~-++-",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "-+-+-+--++++-+++~++-++++-++~-++++++-++",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "-+++++~++-~--~-~-+-~+~-~--+-~~+~+--+--",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "++-+++-~+++++++~-~----+---+----++-++++",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "+-+-~++++-+-+--+-+-+++-~---++++-+~++--",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER",
+			"positions": "-+++-+-~+-+---++-+-+-+~++-++-++-++++--",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "--+~++-++-+-+-++--------+-++++--+--+-+",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "B\u00fcndnis Grundeinkommen - Die Grundeinkommenspartei",
+			"positions": "~~~~~~+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+			"short_name": "BGE"
+		},
+		{
+			"full_name": "Demokratische B\u00fcrger Deutschland",
+			"positions": "++-+++-++-+-++-+-+-+++-++-++~++-+-++--",
+			"short_name": "DBD"
+		},
+		{
+			"full_name": "DIE EINHEIT",
+			"positions": "~-~~-~++~-+-+~-~~+~+-~~~+-+++++-+~+---",
+			"short_name": "DIE EINHEIT"
+		},
+		{
+			"full_name": "DIE REFORMER",
+			"positions": "--++-+-++-+-++++-+-+-++-+-+++++--++-++",
+			"short_name": "REFORMER"
+		},
+		{
+			"full_name": "Liberal-Konservative Reformer",
+			"positions": "--++++-++-+---+--+------+~+~++~~+--+-+",
+			"short_name": "LKR"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Im Saarland sollen Gesch\u00e4fte ihre \u00d6ffnungszeiten an Werktagen frei festlegen d\u00fcrfen.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "An Grundschulen im Saarland soll Franz\u00f6sischunterricht ab der ersten Klasse fl\u00e4chendeckend angeboten werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Das Tanzverbot an \"stillen Tagen\" (z.B. Karfreitag, Volkstrauertag) soll beibehalten werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Das Saarland soll Projekte zur Integration von Ausl\u00e4nderinnen und Ausl\u00e4ndern f\u00f6rdern.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Im Saarland sollen keine weiteren Fl\u00e4chen f\u00fcr Windkraftanlagen ausgewiesen werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die H\u00fcrden f\u00fcr Volksbegehren sollen gesenkt werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Das Saarland soll sich daf\u00fcr einsetzen, dass alle in Deutschland Lebenden ein bedingungsloses Grundeinkommen erhalten.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung im \u00f6ffentlichen Raum soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "An Gymnasien soll das Abitur wieder nach neun Jahren abgelegt werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Alle dauerhaft im Saarland wohnenden Ausl\u00e4nderinnen und Ausl\u00e4nder sollen an Kommunalwahlen teilnehmen d\u00fcrfen.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Im Saarland soll die Grunderwerbssteuer wieder gesenkt werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Das Saarland soll sich daf\u00fcr einsetzen, dass gleichgeschlechtliche Paare gemeinsam Kinder adoptieren d\u00fcrfen.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Das Land soll st\u00e4rker in den Saarbr\u00fccker Flughafen investieren.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Im saarl\u00e4ndischen Polizeidienst sollen mehr Menschen mit Migrationshintergrund arbeiten.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Die Anzahl der Landkreise im Saarland soll verringert werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die geisteswissenschaftlichen F\u00e4cher an der Universit\u00e4t des Saarlandes sollen mehr Landesmittel erhalten.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Die Saarbr\u00fccker Stadtautobahn soll in einen Tunnel verlegt werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "In \u00f6ffentlichen Geb\u00e4uden sollen weiterhin christliche Symbole (z.B. Kreuz) angebracht werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "F\u00fcr das Leitungspersonal in den saarl\u00e4ndischen Ministerien soll eine feste Frauenquote gelten.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Deutsche sollen bei der Vergabe von Sozialwohnungen bevorzugt werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Bei Landtagswahlen soll das Wahlalter abgesenkt werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Grundschullehrerinnen und -lehrer sollen beim Einstiegsgehalt den Lehrerinnen und Lehrern anderer Schulformen gleichgestellt werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Im H\u00e4rtefall soll es auch k\u00fcnftig Ausnahmen bei der R\u00fcckf\u00fchrung von abgelehnten Asylbewerbern und Asylbewerberinnen geben.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Das Land soll Jugendbeir\u00e4ten ein eigenes Budget zur Verf\u00fcgung stellen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Bei der Verfolgung von schweren Straftaten sollen die Datenschutzrechte der B\u00fcrger st\u00e4rker eingeschr\u00e4nkt werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Alle Kinder mit und ohne Behinderungen sollen gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Projekte gegen Rechtsextremismus sollen vom Land weiterhin gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Der Betrieb kommunaler Schwimmb\u00e4der soll durch Landesmittel sichergestellt werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "An saarl\u00e4ndischen Schulen soll kein islamischer Religionsunterricht angeboten werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "\u00d6kologische Landwirtschaft soll bei der staatlichen F\u00f6rderung Vorrang vor konventioneller Landwirtschaft haben.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Kitapl\u00e4tze sollen f\u00fcr alle Kinder ab null Jahren geb\u00fchrenfrei sein.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Fl\u00fcchtlinge sollen eine Gesundheitskarte f\u00fcr den direkten Zugang zur medizinischen Versorgung erhalten.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Die Hochschulen des Landes sollen st\u00e4rker mit der Wirtschaft kooperieren.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Auf dem heutigen Gebiet der \"Landschaft der Industriekultur Nord\" soll kein Gewerbe angesiedelt werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die M\u00f6glichkeit, im Saarland Bordelle zu er\u00f6ffnen, soll rechtlich st\u00e4rker eingeschr\u00e4nkt werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Im Saarland sollen weiterhin Kohlekraftwerke betrieben werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Der Anbau von Cannabis zum eigenen Bedarf soll legalisiert werden.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Die F\u00fcnfprozenth\u00fcrde bei Landtagswahlen soll beibehalten werden.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

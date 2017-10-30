@@ -1,0 +1,214 @@
+{
+	"name": "Landtagswahl Brandenburg",
+	"parties": [
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "+-~+++~---+++++---++----++-++-+~~--+-+",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "+++-++++--+~+-+-~-+----~++-+~+++~---~~",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "-+-+-+~---~++++-~+~+--+~++~+~+-~+-++~+",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "-+-++++-++++++--~--+---++-+++-+++--~--",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+-+-++---~+~~++-+-+--+---+-+~-+++---+~",
+			"short_name": "GR\u00dcNE/B 90"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "++++--++-+--+-++-++~++-+~-~--+--+++-+~",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Brandenburger Vereinigte B\u00fcrgerbewegungen / Freie W\u00e4hler",
+			"positions": "-+++++-++++++++--+++-~--+--+-+~++-+-+-",
+			"short_name": "BVB / FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "++++--+-++-+++++~+++~-++--+~-+--+++-+-",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "Deutsche Kommunistische Partei",
+			"positions": "+++++-++-++---+---+--+-+-+-+-+++----+-",
+			"short_name": "DKP"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "++++----++~------++~-~-++-++-+--~~+~+-",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "~++++~+++++~~++---+--+-+~-~+-~+++-+-+~",
+			"short_name": "PIRATEN"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Das Tempolimit auf brandenburgischen Alleen soll beibehalten werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Das Land Brandenburg soll den Stellenabbau bei der Polizei r\u00fcckg\u00e4ngig machen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Das Land soll ein uneingeschr\u00e4nktes Nachtflugverbot zwischen 22 und 6 Uhr am Flughafen Berlin-Brandenburg durchsetzen.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Das Land soll die Ansiedlung von \u00c4rzten im l\u00e4ndlichen Raum durch finanzielle Anreize f\u00f6rdern.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Das Land soll sich daf\u00fcr einsetzen, dass gleichgeschlechtliche Paare gemeinsam Kinder adoptieren d\u00fcrfen.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Brandenburg soll Fachkr\u00e4fte aus dem Ausland anwerben.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Kostenfreies Mittagessen f\u00fcr alle Sch\u00fclerinnen und Sch\u00fcler an Ganztagsschulen.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Der Verfassungsschutz Brandenburg soll aufgel\u00f6st werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Landesw\u00e4lder sollen weiterhin an Privatinvestoren verkauft werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Gro\u00dfbauprojekte nur nach Zustimmung durch Volksbefragung!",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Asylbewerberinnen und Asylbewerber sollen in Wohnungen statt in zentralen Sammelunterk\u00fcnften untergebracht werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Das Schulsystem aus Oberschulen, Gesamtschulen und Gymnasien soll erhalten bleiben.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Potsdam soll an das ICE-Streckennetz angeschlossen werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Zum Schutz von Schafsherden vor W\u00f6lfen soll das Land Gelder f\u00fcr die Errichtung von Schutzz\u00e4unen bereitstellen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Leiharbeiterinnen und Leiharbeiter sollen ab dem ersten Arbeitstag mindestens den gleichen Lohn erhalten wie regul\u00e4r Besch\u00e4ftigte.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Rechtsextremistische Organisationen sollen auch an Kriegsgr\u00e4berst\u00e4tten demonstrieren d\u00fcrfen.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Berlin und Brandenburg sollen sich langfristig zu einem Bundesland zusammenschlie\u00dfen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Auch der Besitz geringer Mengen Cannabis soll strafrechtlich verfolgt werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Die Wasserversorgung in Brandenburg soll wieder vollst\u00e4ndig in \u00f6ffentlicher Hand sein.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Die Bundeswehr soll an brandenburgischen Schulen f\u00fcr den Soldatenberuf werben d\u00fcrfen.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Wohngeld soll nur an Deutsche gezahlt werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Nur \u00f6kologische Landwirtschaft soll finanziell gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung im \u00f6ffentlichen Raum!",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "F\u00fcr alle Kinder ab drei Jahren: geb\u00fchrenfreier Kita-Besuch!",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Die A 14 soll weiter in Richtung Schwerin ausgebaut werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "In brandenburgischen Landesunternehmen soll weiterhin eine Frauenquote f\u00fcr F\u00fchrungspositionen gelten.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Die Grunderwerbssteuer in Brandenburg soll wieder gesenkt werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Das Land soll deutsch-polnische Kulturprojekte st\u00e4rker f\u00f6rdern.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Das Land Brandenburg soll sich an weiteren Neukosten f\u00fcr den Bau des Flughafens Berlin-Brandenburg beteiligen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Brandenburg soll sich f\u00fcr bundesweit einheitliche Abiturpr\u00fcfungen einsetzen.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "In Brandenburg sollen weitere Fl\u00e4chen f\u00fcr Windkraftanlagen ausgewiesen werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Brandenburg soll mehr Fl\u00fcchtlinge aufnehmen.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Die finanzielle F\u00f6rderung von Schulen in freier Tr\u00e4gerschaft soll wieder erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "An der deutsch-polnischen Grenze sollen wieder st\u00e4ndige Grenzkontrollen eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die Zusammenlegung der Technischen Universit\u00e4t Cottbus und der Fachhochschule Lausitz soll zur\u00fcckgenommen werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "F\u00fcr den Abbau von Braunkohle sollen Ortschaften umgesiedelt werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Das Land soll keine weiteren Anlagen zur Massentierhaltung genehmigen.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Das Land Brandenburg soll die Bewerbung Berlins f\u00fcr die Olympischen Spiele unterst\u00fctzen.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

@@ -1,0 +1,319 @@
+{
+  "name": "Bundestagswahl 2017",
+  "theses": [
+    {
+      "topic": "Bundeswehr im Inneren",
+      "statement": "Bei der Terrorismusbek\u00e4mpfung soll die Bundeswehr im Inland eingesetzt werden d\u00fcrfen."
+    },
+    {
+      "topic": "Besteuerung von Pkw-Diesel",
+      "statement": "Dieselkraftstoff f\u00fcr Pkw soll h\u00f6her besteuert werden."
+    },
+    {
+      "topic": "Obergrenze f\u00fcr Asylsuchende",
+      "statement": "F\u00fcr die Aufnahme von neuen Asylsuchenden soll eine j\u00e4hrliche Obergrenze gelten."
+    },
+    {
+      "topic": "Ausbau erneuerbarer Energien",
+      "statement": "Der Ausbau erneuerbarer Energien soll vom Bund dauerhaft finanziell gef\u00f6rdert werden."
+    },
+    {
+      "topic": "Sozialer Wohnungsbau",
+      "statement": "Der Bund soll mehr Mittel f\u00fcr den sozialen Wohnungsbau bereitstellen."
+    },
+    {
+      "topic": "Elternunabh\u00e4ngiges BAf\u00f6G",
+      "statement": "BAf\u00f6G soll generell unabh\u00e4ngig vom Einkommen der Eltern gezahlt werden."
+    },
+    {
+      "topic": "Ausweitung der Video\u00fcberwachung",
+      "statement": "Die Video\u00fcberwachung im \u00f6ffentlichen Raum soll ausgeweitet werden."
+    },
+    {
+      "topic": "Schuldenschnitt f\u00fcr Griechenland",
+      "statement": "Deutschland soll einem Schuldenschnitt f\u00fcr Griechenland zustimmen."
+    },
+    {
+      "topic": "Tempolimit",
+      "statement": "Generelles Tempolimit auf Autobahnen!"
+    },
+    {
+      "topic": "Erh\u00f6hung der Verteidigungsausgaben",
+      "statement": "Die Verteidigungsausgaben Deutschlands sollen erh\u00f6ht werden."
+    },
+    {
+      "topic": "Falschinformationen im Internet",
+      "statement": "Betreiber von Internetseiten sollen gesetzlich dazu verpflichtet sein, Falschinformationen (\u201cFake News\u201d) zu l\u00f6schen, auf die sie hingewiesen wurden."
+    },
+    {
+      "topic": "\u00d6kologische Landwirtschaft",
+      "statement": "\u00d6kologische Landwirtschaft soll st\u00e4rker gef\u00f6rdert werden als konventionelle Landwirtschaft."
+    },
+    {
+      "topic": "Kindergeld f\u00fcr Deutsche",
+      "statement": "Kindergeld soll nur an deutsche Familien ausgezahlt werden."
+    },
+    {
+      "topic": "Sachgrundlose Befristung",
+      "statement": "Arbeitsvertr\u00e4ge sollen weiterhin ohne Angabe von Gr\u00fcnden befristet sein d\u00fcrfen."
+    },
+    {
+      "topic": "Impfpflicht",
+      "statement": "Kinder sollen gegen ansteckende Krankheiten geimpft werden m\u00fcssen."
+    },
+    {
+      "topic": "Verstaatlichung von Banken",
+      "statement": "Alle Banken sollen verstaatlicht werden."
+    },
+    {
+      "topic": "Erinnerungskultur",
+      "statement": "Der V\u00f6lkermord an den europ\u00e4ischen Juden soll weiterhin zentraler Bestandteil der deutschen Erinnerungskultur sein."
+    },
+    {
+      "topic": "Abbau von Staatsschulden",
+      "statement": "Haushalts\u00fcbersch\u00fcsse sollen \u00fcberwiegend zum Abbau von Staatsschulden verwendet werden."
+    },
+    {
+      "topic": "Begrenzung der Nutztierhaltung",
+      "statement": "Die Gesamtzahl der Nutztiere in den landwirtschaftlichen Betrieben einer Gemeinde soll begrenzt werden k\u00f6nnen."
+    },
+    {
+      "topic": "Braunkohleabbau",
+      "statement": "In Deutschland soll auch zuk\u00fcnftig Braunkohle abgebaut werden d\u00fcrfen."
+    },
+    {
+      "topic": "Leiharbeit",
+      "statement": "Unternehmen sollen weiterhin Leiharbeiterinnen und Leiharbeiter besch\u00e4ftigen d\u00fcrfen."
+    },
+    {
+      "topic": "Doppelte Staatsb\u00fcrgerschaft",
+      "statement": "In Deutschland geborene und aufgewachsene Kinder ausl\u00e4ndischer Eltern sollen weiterhin neben der deutschen ihre zweite Staatsangeh\u00f6rigkeit behalten d\u00fcrfen."
+    },
+    {
+      "topic": "Vorgezogener Renteneintritt",
+      "statement": "Bereits nach 40 Beitragsjahren soll der Renteneintritt abschlagsfrei m\u00f6glich sein."
+    },
+    {
+      "topic": "Nationale W\u00e4hrung",
+      "statement": "Deutschland soll zu einer nationalen W\u00e4hrung zur\u00fcckkehren."
+    },
+    {
+      "topic": "Abschaffung der Frauenquote",
+      "statement": "Die Frauenquote f\u00fcr die Aufsichtsr\u00e4te b\u00f6rsennotierter Unternehmen soll abgeschafft werden."
+    },
+    {
+      "topic": "Verm\u00f6genssteuer",
+      "statement": "Hohe Verm\u00f6gen sollen besteuert werden."
+    },
+    {
+      "topic": "Verurteilung von Kindern unter 14 Jahren",
+      "statement": "F\u00fcr begangene Straftaten sollen auch Kinder unter 14 Jahren verurteilt werden k\u00f6nnen."
+    },
+    {
+      "topic": "Gesetzliche Krankenversicherung",
+      "statement": "Alle B\u00fcrgerinnen und B\u00fcrger sollen bei gesetzlichen Krankenkassen versichert sein m\u00fcssen."
+    },
+    {
+      "topic": "Projekte gegen Rechtsextremismus",
+      "statement": "Der Bund soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern."
+    },
+    {
+      "topic": "Freibetrag bei der Grunderwerbssteuer",
+      "statement": "Der Erwerb von selbstgenutztem Wohneigentum soll bis zu einer bestimmten H\u00f6he steuerfrei sein."
+    },
+    {
+      "topic": "Verbot von R\u00fcstungsexporten",
+      "statement": "R\u00fcstungsexporte aus Deutschland sollen ausnahmslos verboten werden."
+    },
+    {
+      "topic": "Verkauf von Cannabis",
+      "statement": "Der kontrollierte Verkauf von Cannabis soll generell erlaubt sein."
+    },
+    {
+      "topic": "Abschaffung des Solidarit\u00e4tszuschlags",
+      "statement": "Der Solidarit\u00e4tszuschlag soll Ende 2019 vollst\u00e4ndig abgeschafft werden."
+    },
+    {
+      "topic": "Leistungsk\u00fcrzungen f\u00fcr Fl\u00fcchtlinge",
+      "statement": "Anerkannten Fl\u00fcchtlingen, die sich Integrationsma\u00dfnahmen verweigern, sollen die Leistungen gek\u00fcrzt werden k\u00f6nnen."
+    },
+    {
+      "topic": "Rechtsanspruch auf Ganztagsbetreuung",
+      "statement": "Eltern sollen f\u00fcr ihre Kinder bis zum Ende der Grundschulzeit einen Rechtsanspruch auf Ganztagsbetreuung erhalten."
+    },
+    {
+      "topic": "Gottesbezug im Grundgesetz",
+      "statement": "Der Gottesbezug im Grundgesetz soll bestehen bleiben."
+    },
+    {
+      "topic": "Bedingungsloses Grundeinkommen",
+      "statement": "In Deutschland soll es ein bedingungsloses Grundeinkommen geben."
+    },
+    {
+      "topic": "St\u00e4rkere Zusammenarbeit in der EU",
+      "statement": "Die Zusammenarbeit der Mitgliedstaaten in der Europ\u00e4ischen Union soll verst\u00e4rkt werden."
+    }
+  ],
+  "parties": [
+    {
+      "short_name": "AfD",
+      "full_name": "Alternative f\u00fcr Deutschland",
+      "positions": "--+--++--+-+-~--+++-~-~++-+--+--++-+--"
+    },
+    {
+      "short_name": "Allianz Deutscher Demokraten",
+      "full_name": "Allianz Deutscher Demokraten",
+      "positions": "---++-+---+-----~+-++++-++--++-~++-+-+"
+    },
+    {
+      "short_name": "B*",
+      "full_name": "bergpartei, die \u00fcberpartei",
+      "positions": "-~-+++-+~-~+-~~++++-~++~-+-++++~--+-++"
+    },
+    {
+      "short_name": "BGE",
+      "full_name": "B\u00fcndnis Grundeinkommen",
+      "positions": "-+-+++-++--+--~~+-+--++-~~-++~++~-+-++"
+    },
+    {
+      "short_name": "BP",
+      "full_name": "Bayernpartei",
+      "positions": "--++++---~-~~+--+++-+-+++-~+++--++~+-~"
+    },
+    {
+      "short_name": "B\u00fcSo",
+      "full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+      "positions": "----+--+--+---+-+-~+-+~+-+--++~---++--"
+    },
+    {
+      "short_name": "CDU/CSU",
+      "full_name": "Christlich Demokratische Union Deutschlands / Christlich-Soziale Union in Bayern e.V.",
+      "positions": "+-~-+-+--++~-++-+~~~+~---~--++--~+++-+"
+    },
+    {
+      "short_name": "DIE LINKE",
+      "full_name": "DIE LINKE",
+      "positions": "-+-+++-++--+----+-+--++--+-++-++--+-~~"
+    },
+    {
+      "short_name": "DIE RECHTE",
+      "full_name": "DIE RECHTE",
+      "positions": "+-+++++--+-+++-+-+-+--+++-++-+--+++++-"
+    },
+    {
+      "short_name": "DKP",
+      "full_name": "DKP Deutsche Kommunistische Partei",
+      "positions": "-+-+++-++--+---++-+--++--+-++-+++-+---"
+    },
+    {
+      "short_name": "DM",
+      "full_name": "Deutsche Mitte",
+      "positions": "--+++--+--++-+--~+--++++-++-++++++++++"
+    },
+    {
+      "short_name": "DiB",
+      "full_name": "DEMOKRATIE IN BEWEGUNG",
+      "positions": "-+-++~-++-++--+-+-+-~++--+-++++++-+-++"
+    },
+    {
+      "short_name": "Die Grauen",
+      "full_name": "Die Grauen - F\u00fcr alle Generationen",
+      "positions": "+--++++---++--+-+--+~-++++-++++~+++-~~"
+    },
+    {
+      "short_name": "Die Humanisten",
+      "full_name": "Partei der Humanisten",
+      "positions": "-~-+++-~+----++-+++-++~-~~-++~-+~-+-++"
+    },
+    {
+      "short_name": "Die PARTEI",
+      "full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+      "positions": "-+++++-++--+--+-+----++--+-++++++++-++"
+    },
+    {
+      "short_name": "FDP",
+      "full_name": "Freie Demokratische Partei",
+      "positions": "-----+~--+---++-++-+++~-+---++-+++~~-+"
+    },
+    {
+      "short_name": "FREIE W\u00c4HLER",
+      "full_name": "FREIE W\u00c4HLER",
+      "positions": "+--+++++-++-----++--+-+-~---++--++++-+"
+    },
+    {
+      "short_name": "GR\u00dcNE",
+      "full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+      "positions": "-+-+++-++-++----+-+-++---+-++--+~~++~+"
+    },
+    {
+      "short_name": "Gesundheitsforschung",
+      "full_name": "Partei f\u00fcr Gesundheitsforschung",
+      "positions": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "short_name": "MENSCHLICHE WELT",
+      "full_name": "Menschliche Welt",
+      "positions": "-+-++--++-++----~~+--++--+-++-++~+-+++"
+    },
+    {
+      "short_name": "MLPD",
+      "full_name": "Marxistisch-Leninistische Partei Deutschlands",
+      "positions": "---++--++-~+--+++-+--++~~+-++-~~+-+-~-"
+    },
+    {
+      "short_name": "NPD",
+      "full_name": "Nationaldemokratische Partei Deutschlands",
+      "positions": "+-+++++--~-++-~--+~---++++++-+~--~++--"
+    },
+    {
+      "short_name": "PDV",
+      "full_name": "Partei der Vernunft",
+      "positions": "--+--~---~--++--~~-+++~-+-~--+-+++---~"
+    },
+    {
+      "short_name": "PIRATEN",
+      "full_name": "Piratenpartei Deutschland",
+      "positions": "-+--++-+---+----+-+-+++-++-++~+++-+-++"
+    },
+    {
+      "short_name": "SGP",
+      "full_name": "Sozialistische Gleichheitspartei, Vierte Internationale",
+      "positions": "---+++-++--+--+++-~+-++-~+-++++++-+-+-"
+    },
+    {
+      "short_name": "SPD",
+      "full_name": "Sozialdemokratische Partei Deutschlands",
+      "positions": "---++~+~-~+-----+-++++---~-++-~--+++-+"
+    },
+    {
+      "short_name": "Tierschutzallianz",
+      "full_name": "Allianz f\u00fcr Menschenrechte, Tier- und Naturschutz",
+      "positions": "-~-~+-++~-++--~-+~+--~+--~--++~+~~+~~+"
+    },
+    {
+      "short_name": "Tierschutzpartei",
+      "full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+      "positions": "-+-++~-++-++---~+~+-~++--+~++~+~+++-++"
+    },
+    {
+      "short_name": "V-Partei\u00b3",
+      "full_name": "V-Partei\u00b3 - Partei f\u00fcr Ver\u00e4nderung, Vegetarier und Veganer",
+      "positions": "-+-+++-~+-++----+~+-+++--+-++++++++-++"
+    },
+    {
+      "short_name": "Volksabstimmung",
+      "full_name": "Ab jetzt...Demokratie durch Volksabstimmung",
+      "positions": "+-+++-+++--++++-+-++----++-+-+--++--++"
+    },
+    {
+      "short_name": "du.",
+      "full_name": "Die Urbane. Eine HipHop Partei",
+      "positions": "-~-++~-++-++----+~+--++--+-++~++~-+~++"
+    },
+    {
+      "short_name": "\u00d6DP",
+      "full_name": "\u00d6kologisch-Demokratische Partei",
+      "positions": "-+-+++~++--+--+-+++-+++-++-+++~--+-+-+"
+    }
+  ]
+}

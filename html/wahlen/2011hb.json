@@ -1,0 +1,239 @@
+{
+	"name": "B\u00fcrgerschaftswahl Bremen",
+	"parties": [
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "+++-++~+-~-+-+~--++~+-++--++-~+--+-~+~",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "++++~+-+--+-+---++-+-+-++-~-----~++~~+",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+~+-+--+-+-+--+--++~~-+-+-++-++--+--++",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "+-+-+-++-+++-++--++-+-+--+-+-++--+-++-",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "-+-+++~+++-------+++~+++--+-~~--+++-~+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "B\u00fcrger in Wut",
+			"positions": "-+-+-+++-+--++---~-+-+-+--~++~-+-+++~+",
+			"short_name": "BIW"
+		},
+		{
+			"full_name": "Bremer & Bremerhavener B\u00fcrger Liste",
+			"positions": "++++-+-++-+--+---+++++-++--+-----+++++",
+			"short_name": "BBL"
+		},
+		{
+			"full_name": "Bremer Dialog - Freiheit, Gleichheit, Grundeinkommen",
+			"positions": "+---+-++~+-~+++--++-+-+-~--+-+~-~++++-",
+			"short_name": "Dialog Grundeinkommen"
+		},
+		{
+			"full_name": "Bremer und Bremerhavener W\u00e4hlergemeinschaft",
+			"positions": "-+-+~++~+-+-~--~~+~+~++------+-+~++~+-",
+			"short_name": "B+B"
+		},
+		{
+			"full_name": "Bremische Integrations-Partei Deutschlands",
+			"positions": "-++--+~++-+~~~+-~+-~+-++--~+--~--+++++",
+			"short_name": "BIP"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER BREMEN",
+			"positions": "++-+--+++++~+++++-~-++~++--++--+~+++++",
+			"short_name": "FREIE W\u00c4HLER BREMEN"
+		},
+		{
+			"full_name": "F\u00fcr Bremerhaven",
+			"positions": "+-+-+--+-++++++-+++-+-+--+++-----++++-",
+			"short_name": "F\u00fcr Bremerhaven"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "++---++-+--+-+~++--~-+-+++-++--+--+-+-",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "+~--++++-~~+-++-+++---+----+-+---+++++",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "Protest der B\u00fcrger",
+			"positions": "-+-+-++-+~~+++-++--~++-+-+-+~+----++--",
+			"short_name": "PdB"
+		},
+		{
+			"full_name": "Rentnerinnen und Rentner Partei",
+			"positions": "++--~+++~+++++--++++~+~++~-~~-++-++++~",
+			"short_name": "RRP"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Bremen und Bremerhaven sollen ausschlie\u00dflich mit erneuerbaren Energien versorgt werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Das Gymnasium soll in Bremen als Schulform erhalten bleiben.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "In Vorst\u00e4nden und Aufsichtsr\u00e4ten der Bremer Eigenbetriebe soll eine Frauenquote gelten.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Abschaffung des generellen Tempolimits auf den Bremer Autobahnen!",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Bremen soll Fl\u00fcchtlinge aus Nordafrika aufnehmen.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die Bremer Au\u00dfenweser soll f\u00fcr gro\u00dfe Containerschiffe weiter vertieft werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Das Land Bremen soll Bremerhaven st\u00e4rker finanziell f\u00f6rdern.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Bremen soll Projekte zur Integration von Migrantinnen und Migranten f\u00f6rdern.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "In Bremen soll die Gewerbesteuer gesenkt werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Das Nachtflugverbot auf dem Bremer Flughafen soll versch\u00e4rft werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Das letzte Kindergartenjahr vor der Einschulung soll verpflichtend sein.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Jede B\u00fcrgerin und jeder B\u00fcrger soll in einer gesetzlichen Krankenkasse versichert sein m\u00fcssen.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die christlichen Kirchen sollen evangelischen und katholischen Religionsunterricht an Bremer Schulen anbieten d\u00fcrfen.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Der Eintritt in die Kultureinrichtungen des Landes soll f\u00fcr einkommensschwache B\u00fcrgerinnen und B\u00fcrger kostenfrei sein.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Kein Umschlag von R\u00fcstungsg\u00fctern in den bremischen H\u00e4fen.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Kindergeld soll nur an deutsche Familien ausgezahlt werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Bremen soll sich f\u00fcr ein bundesweites Zentralabitur einsetzen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Im Bremer Polizeidienst sollen mehr Menschen mit Migrationshintergrund besch\u00e4ftigt werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Eingetragene Partnerschaften (\"Homo-Ehen\") sollen der Ehe gleichgestellt werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "ALG-II-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen auch weiterhin Leistungen gek\u00fcrzt werden, wenn sie Jobangebote ablehnen.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Alle Bremer Bachelor-Absolventen sollen einen Rechtsanspruch auf einen Master-Studienplatz in Bremen haben.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Die Umweltzone in Bremen soll abgeschafft werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Kommunales Wahlrecht f\u00fcr alle dauerhaft in Bremen wohnenden Ausl\u00e4nderinnen und Ausl\u00e4nder!",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "In die Bremer Landesverfassung soll eine \"Schuldenbremse\" aufgenommen werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Die Polizei Bremen und die Polizei Bremerhaven sollen zu einer gemeinsamen Landespolizei zusammengef\u00fchrt werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "In Bremen und Bremerhaven sollen die verkaufsoffenen Sonntage abgeschafft werden.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Arbeitsgelegenheiten f\u00fcr ALG-II-Empf\u00e4ngerinnen und -Empf\u00e4nger (\"1-Euro-Jobs\") sollen weiterhin gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "In Bremen sollen vor einem Verkauf \u00f6ffentlicher Unternehmen die B\u00fcrgerinnen und B\u00fcrger befragt werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Der Bau der Fatih-Moschee in Bremerhaven soll gestoppt werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Bremen soll sich f\u00fcr ein elternunabh\u00e4ngiges BAf\u00f6G einsetzen.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "In Bremen soll eine \"Bettensteuer\" f\u00fcr das Hotelgewerbe eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "In Bremen und Bremerhaven soll eine \"B\u00fcrgerstreife\" eingerichtet werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Die GEWOBA soll privatisiert werden.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Bremen soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die verpflichtende Mitgliedschaft in der Arbeitnehmerkammer Bremen soll abgeschafft werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Die Jugendfreizeitheime sollen mehr Finanzmittel erhalten.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Das Land Bremen soll sich daf\u00fcr einsetzen, dass die Laufzeitverl\u00e4ngerung f\u00fcr alle Kernkraftwerke r\u00fcckg\u00e4ngig gemacht wird.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Die Stadtbibliothek Bremen soll auch sonntags ge\u00f6ffnet werden.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

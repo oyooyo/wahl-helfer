@@ -1,0 +1,140 @@
+{
+	"name": "Bundestagswahl",
+	"parties": [
+		{
+			"full_name": "SPD",
+			"positions": "----+-+--+-++--+++-+---++--",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "CDU/CSU",
+			"positions": "-+--+----+~+~++~--~+---~+--",
+			"short_name": "CDU/CSU"
+		},
+		{
+			"full_name": "PDS",
+			"positions": "+--~-~++-------+-~--++++-++",
+			"short_name": "PDS"
+		},
+		{
+			"full_name": "B\u00fcndnis 90/ Die Gr\u00fcnen",
+			"positions": "+---+-++---+---+--~++-++-~+",
+			"short_name": "B\u00fcndnis 90/ Die Gr\u00fcnen"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "--+---+-++++++++---+--+-+--",
+			"short_name": "FDP"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Haschisch und Marihuana sollen legalisiert werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die Bundeswehr soll die Polizei innerhalb Deutschlands unterst\u00fctzen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Die Gesch\u00e4fte sollen am Sonntag ge\u00f6ffnet sein.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Die humane Genomforschung soll verboten werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Kampfhunde sollten verboten werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Sterbehilfe sollte in Deutschland legalisiert werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Volksinitiativen, Volksbegehren und Volksentscheide werden auf Bundesebene eingef\u00fchrt.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Das aktive Wahlrecht wird auf 16 Jahre gesenkt.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Der Bundespr\u00e4sident sollte vom Volk direkt gew\u00e4hlt werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "F\u00fcr Zuwanderer soll es verpflichtende staatliche Integrationsangebote und -kurse geben.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Der K\u00fcndigungsschutz wird gelockert.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die Lohnnebenkosten m\u00fcssen gesenkt werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Eine private Arbeitsvermittlung sollte fl\u00e4chendeckend eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Mehr Eigenbeteiligung im Gesundheitsbereich.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "\u00d6kosteuer abschaffen.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Ganztagsschulen m\u00fcssen fl\u00e4chendeckend eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Der Bund sollte f\u00fcr Schulpolitik zust\u00e4ndig sein.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Die Gemeinschaftsschulzeit sollte von vier auf acht Jahre erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Das Tilgen von Staatsschulden hat Vorrang gegen\u00fcber Mehrausgaben im Bildungsbereich.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Der h\u00f6chste Einkommensteuersatz wird gesenkt.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Die Verm\u00f6genssteuer soll eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Die NATO muss aufgel\u00f6st werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Berufsarmee statt Wehrpflicht.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Den \u00e4rmsten L\u00e4ndern der Welt m\u00fcssen die Schulden erlassen werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Der Verteidigungsetat muss erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Frauen m\u00fcssen auch ohne vorherige Beratung straffrei abtreiben d\u00fcrfen.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Homo-Ehen erhalten die gleichen Rechte wie Hetero-Ehen (z.B. Kinder adoptieren).",
+			"topic": "Aussage Nr. 26"
+		}
+	]
+}

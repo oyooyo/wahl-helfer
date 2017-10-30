@@ -1,0 +1,152 @@
+{
+	"name": "B\u00fcrgerschaftswahl Bremen",
+	"parties": [
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+-+-~+++++-+--+~--+-++++-~++-+",
+			"short_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN"
+		},
+		{
+			"full_name": "CDU",
+			"positions": "-++++-+-++---+-+++++~---+++-+-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "DIE LINKE.",
+			"positions": "+-+~-+-+--++--++--+-++~+---+-+",
+			"short_name": "DIE LINKE."
+		},
+		{
+			"full_name": "FDP",
+			"positions": "-+-++-~+++++~~+--+-+-+~~+++++-",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "-~++++-+-+-++-+++-+-+~++--++-+",
+			"short_name": "SPD"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Generelles Tempolimit auf Autobahnen in Bremen!",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "In Bremen soll ein weiteres Kohlekraftwerk gebaut werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Das Erststudium an staatlichen Hochschulen im Land Bremen soll geb\u00fchrenfrei bleiben.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Die Verschmutzung \u00f6ffentlicher Pl\u00e4tze (z. B. durch M\u00fcll oder Hundekot) soll mit h\u00f6heren Bu\u00dfgeldern geahndet werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "F\u00fcr alle Vierj\u00e4hrigen soll ein verpflichtender Deutschtest eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Alle Kinder sollen bis zur 10. Klasse gemeinsam in einer Schule unterrichtet werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Geduldete Migranten/innen, die straff\u00e4llig geworden sind, sollen konsequent ausgewiesen werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Das Land Bremen soll allen Familien Kindergartenpl\u00e4tze mit Ganztagsbetreuung zusichern.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Das letzte Kindergartenjahr vor der Einschulung soll verpflichtend werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Veranstalter/innen von kommerziellen Gro\u00dfereignissen sollen sich an den Kosten f\u00fcr den Polizeischutz beteiligen.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Alle Bremer Polizeireviere sollen wieder rund um die Uhr besetzt sein.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die H\u00fcrden f\u00fcr direkte B\u00fcrgerbeteiligung (Volksbegehren, Volksentscheid) sollen gesenkt werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Lehrkr\u00e4ften soll das Tragen von jeglichen religi\u00f6sen Symbolen an \u00f6ffentlichen Schulen verboten werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Schulnoten sollen bereits ab der 3. Klasse vergeben werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "F\u00fcr alle Klassen f\u00fcnf bis zehn: Ganztagsschulen mit verpflichtendem Nachmittagsangebot!",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Das Land Bremen soll allen Kindern und Jugendlichen aus einkommensschwachen Familien einen Zuschuss f\u00fcr die Mitgliedschaft in einem Sportverein gew\u00e4hren.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Bremen soll sich daf\u00fcr einsetzen, dass die Herstellung und der Vertrieb besonders gewalthaltiger Computerspiele verboten werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "In Bremen muss jeder Arbeitnehmer und jede Arbeitnehmerin zahlendes Mitglied in der Arbeitnehmerkammer sein: Diese Mitgliedschaft soll freiwillig werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Bremen soll sich f\u00fcr die generelle Einf\u00fchrung von Mindestl\u00f6hnen einsetzen.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Die Wasserversorgung im Land Bremen soll vollst\u00e4ndig privatisiert werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Bremen soll sich daf\u00fcr einsetzen, dass das Kernkraftwerk \"Unterweser\" schon vor 2012 stillgelegt wird.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Staatlich kontrollierte Abgabe von Heroin an Schwerstabh\u00e4ngige!",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "F\u00fcr Dieselfahrzeuge ohne Ru\u00dfpartikelfilter soll die Innenstadt gesperrt werden, wenn in Bremen die Feinstaubgrenze \u00fcberschritten wird.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Empf\u00e4nger/innen von Arbeitslosengeld sollen g\u00fcnstiger mit Bus und Stra\u00dfenbahn fahren k\u00f6nnen (\"Sozialticket\").",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Junge Erwachsene zwischen 18 und 21 Jahren sollen verst\u00e4rkt nach Erwachsenenstrafrecht verurteilt werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Das Abschneiden der einzelnen Bremer Schulen bei Vergleichsarbeiten soll ver\u00f6ffentlicht werden.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Sozial benachteiligte Familien sollen vor und nach der Geburt eines Kindes intensiver vom Jugendamt begleitet werden (\"Familienhebammen\").",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Das Land Bremen soll sich daf\u00fcr einsetzen, dass gleichgeschlechtliche Partnerschaften mit Ehen gleichgestellt werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Bremen soll sich f\u00fcr die Lockerung des K\u00fcndigungsschutzes einsetzen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Bei B\u00fcrgerschaftswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 29"
+		}
+	]
+}

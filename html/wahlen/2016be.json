@@ -1,0 +1,264 @@
+{
+	"name": "Abgeordnetenhauswahl Berlin",
+	"parties": [
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "-+--+++-+++--++-++---+-+----+++-++-+-+",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "-+~-++-+~--~-+-+-~--+--++--+-+~+++-+-+",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "B\u00fcndnis 90/DIE GR\u00dcNEN",
+			"positions": "-++-~-+-+~+~~-++++-+++-+-++-+++-+-+-++",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "-+----+-+~+-~-+-++-+-+-++++-+++-+-+-+~",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "-++---+-+++++-+-++-+-+-+-++-+++-+-+-++",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "--++++-+++-+-+-++-+--++-+-++--++-+++-+",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "+++++--+------+--+-++--++---++-+++-+-+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+			"positions": "~++~~-+-++~++-+~++-~-+-+-++~~++-+-+-+-",
+			"short_name": "Tierschutzpartei"
+		},
+		{
+			"full_name": "B\u00fcrgerbewegung pro Deutschland",
+			"positions": "+-++++~+-+---+-+--+--++~+~-+--~~~---+-",
+			"short_name": "pro Deutschland"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "-+++--++~+~++++-++-+-+-+-++++++-+-+-++",
+			"short_name": "Die PARTEI"
+		},
+		{
+			"full_name": "Deutsche Kommunistische Partei",
+			"positions": "-+++--+-+++~-~+-++-+-+~~-+~~+++-+-+-++",
+			"short_name": "DKP"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "~+~~+~+-+++++~++++---+~+~-++-+~-+-+~++",
+			"short_name": "\u00d6DP"
+		},
+		{
+			"full_name": "Partei f\u00fcr Soziale Gleichheit, Sektion der Vierten Internationale",
+			"positions": "-++---+-+++++-+-++-+-+-+-++++++-+-+-+-",
+			"short_name": "PSG"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "-+++++--+++--+-++-~--+~-+--+-++-++--+-",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "Bergpartei, die \"\u00dcberPartei\"",
+			"positions": "~++---+-+++~+-+-++-+-+-+~++~+++-+-+-++",
+			"short_name": "B"
+		},
+		{
+			"full_name": "Allianz f\u00fcr Fortschritt und Aufbruch",
+			"positions": "~-+~++-+---+-+++~~-++--++++--++++~-+-~",
+			"short_name": "ALFA"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "~-~+++-+~~---+-+--~-+-+-+-++-~-+~+-+-+",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "Die Violetten - f\u00fcr spirituelle Politik",
+			"positions": "-++~~+--+++++-++++-++~~+-++~+++-+-+-++",
+			"short_name": "DIE VIOLETTEN"
+		},
+		{
+			"full_name": "Graue Panther",
+			"positions": "--++++-+++--++~++++-+++~+++--++--+-++-",
+			"short_name": "Graue Panther"
+		},
+		{
+			"full_name": "Menschliche Welt - f\u00fcr das Wohl und Gl\u00fccklich-Sein aller",
+			"positions": "-+-+~~~-+~++~--+++-~-+-+~++~+++-+-~~~-",
+			"short_name": "MENSCHLICHE WELT"
+		},
+		{
+			"full_name": "Partei f\u00fcr Gesundheitsforschung",
+			"positions": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+			"short_name": "Gesundheitsforschung"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Private Wohnungen sollen vollst\u00e4ndig als Ferienwohnung vermietet werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Berlin soll weitere Fl\u00fcchtlinge aufnehmen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Alle Sp\u00e4tverkaufsstellen (\"Sp\u00e4tis\") sollen auch sonntags \u00f6ffnen d\u00fcrfen.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Der Flughafen Tegel soll nach Er\u00f6ffnung des BER in Betrieb bleiben.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "In Berlin sollen F\u00f6rderschulen f\u00fcr Kinder und Jugendliche mit Behinderungen langfristig erhalten bleiben.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die Polizei soll weiterhin Orte als kriminalit\u00e4tsbelastet einstufen d\u00fcrfen, an denen sie anlasslos kontrollieren kann.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Freier Eintritt in allen staatlichen Museen Berlins!",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Asylbewerberinnen und -bewerber sollen verst\u00e4rkt Sachleistungen statt Geldleistungen erhalten.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "In weiteren Gebieten Berlins soll die Umwandlung von Mietsh\u00e4usern in Eigentumswohnungen erschwert werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Es soll ein kostenfreies Mittagessen f\u00fcr alle Sch\u00fclerinnen und Sch\u00fcler an Berliner Schulen geben.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Alle dauerhaft in Berlin wohnenden Ausl\u00e4nderinnen und Ausl\u00e4nder sollen an den Wahlen zu Bezirksverordnetenversammlungen teilnehmen d\u00fcrfen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Elektroautos sollen auf \u00f6ffentlichen Parkpl\u00e4tzen in der Berliner Innenstadt geb\u00fchrenfrei parken d\u00fcrfen.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Berlin soll sich f\u00fcr ein bedingungsloses Grundeinkommen einsetzen.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "An Berliner Grundschulen sollen ab der dritten Klasse Schulnoten vergeben werden m\u00fcssen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Das Land Berlin soll sich daf\u00fcr einsetzen, dass homosexuelle Lebenspartnerschaften vollst\u00e4ndig der Ehe gleichgestellt werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die Berliner Polizei soll den Einsatz von Kameras, die am K\u00f6rper getragen werden, erproben.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Berlin soll sich f\u00fcr die Einf\u00fchrung einer Verm\u00f6gensteuer einsetzen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "In Berliner Schulb\u00fcchern sollen unterschiedliche Familienformen (Patchwork-, Regenbogenfamilien, Alleinerziehende u.a.) vorkommen.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Deutsche sollen bei der Vergabe von Berliner Sozialwohnungen bevorzugt werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Der Anbau von Cannabis f\u00fcr den Eigenbedarf soll generell erlaubt sein.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Eltern sollen sich an den Kosten f\u00fcr die Betreuung ihrer Kinder in den Berliner Kitas beteiligen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Berlin soll sich daf\u00fcr einsetzen, dass es keine Ausnahmen vom Mindestlohn gibt.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "In Berlin sollen keine weiteren Moscheen mit Minaretten gebaut werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "An Berliner Hochschulen soll es weiterhin Geschlechterstudien (Gender Studies) geben.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Die Steuer auf den Erwerb von Wohneigentum f\u00fcr die eigene Nutzung soll gesenkt werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Alle Berliner U-Bahnh\u00f6fe sollen nachts f\u00fcr Obdachlose ge\u00f6ffnet werden.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Die Anzahl der erforderlichen Stimmen bei Volksentscheiden soll gesenkt werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "In Berlin sollen Lehrerinnen und Lehrer wieder verbeamtet werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Das Land Berlin soll mobile Drogenpr\u00fcfst\u00e4nde errichten, die auch illegale Drogen vor dem Konsum auf gef\u00e4hrliche Verunreinigungen testen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Das Land Berlin soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Bei der Ausweisung neuer Wohngebiete soll ein h\u00f6herer Anteil von Sozialwohnungen vorgeschrieben werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "An den Berliner Hochschulen soll zu milit\u00e4rischen Zwecken geforscht werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Die Anerkennung von im Ausland erworbenen Berufsabschl\u00fcssen soll vereinfacht werden.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Die Autobahn A100 soll bis zur Frankfurter Allee verl\u00e4ngert werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Bei Wahlen zum Berliner Abgeordnetenhaus: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Hartz-IV-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie ein Job-Angebot ablehnen.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "In Berlin soll die Nutzung des \u00f6ffentlichen Personennahverkehrs entgeltfrei sein.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "F\u00fcr Clubs in der Berliner Innenstadt soll es Ausnahmen bei der Einhaltung der Nachtruhe geben k\u00f6nnen.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

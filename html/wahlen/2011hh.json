@@ -1,0 +1,219 @@
+{
+	"name": "B\u00fcrgerschaftswahl Hamburg",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "++-+--~-++--+++--~~~~++---+-+-++--+++~",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "++~+--~-+---~+++-~-~++-+--++++-+--+++-",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN, Landesverband Hamburg, Gr\u00fcn-Alternative-Liste",
+			"positions": "-+-+-++~++-+-~-+-+-++--+-+~+-+-+----+~",
+			"short_name": "GR\u00dcNE/GAL"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "-+-+~++-+-+--~-+-+-++--+-~-+-+---+--+~",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "~++++--+++--+++++---+++---+++~-+--+~++",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "~+-++~+~+-++-+~+-+-+++-+-~-+-~-+-+~-+-",
+			"short_name": "Die PARTEI"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "-+-++++-+-+++~-+++-++--+-+-+-+-+-+--+-",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "\u00d6KOLOGISCH-DEMOKRATISCHE PARTEI - Die gr\u00fcne Alternative",
+			"positions": "-+-+-++-+-++--++-+-++--+-+-~-+++-+~+++",
+			"short_name": "\u00d6DP"
+		},
+		{
+			"full_name": "B\u00fcrgerliche Mitte",
+			"positions": "+++++-~-+++-+~++~+--++~~--~~+-~+~~+++-",
+			"short_name": "B\u00fc-Mi"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER Hamburg",
+			"positions": "~+++---~+++-+++~++~++~~~-~~~~~~+~~-+++",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "+++-+-++--+---+--++--+-++---~~-++++---",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Rentner Partei Deutschland",
+			"positions": "+-+++++-++~-+-++++-+++-++--++-+-+-+~++",
+			"short_name": "RENTNER"
+		}
+	],
+	"theses": [
+		{
+			"statement": "In der Hamburger Wirtschaftspolitik soll der Hafen stets Vorrang haben.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die Erh\u00f6hung der Kita-Geb\u00fchren soll zur\u00fcckgenommen werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "In Hamburg soll keine Stadtbahn gebaut werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Es sollen mehr Integrationskurse f\u00fcr in Hamburg lebende Zuwanderer/innen angeboten werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Wirte sollen selbst entscheiden d\u00fcrfen, ob in ihren Gastst\u00e4tten und Restaurants geraucht wird.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Abschaffung von Schulnoten in der Grundschule!",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Am Hamburger Flughafen sollen keine Ganzk\u00f6rper-Scanner (\"Nackt-Scanner\") mehr eingesetzt werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Die Gewerbesteuer soll gesenkt werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen im Polizeidienst eingestellt werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Die HSH Nordbank soll vollst\u00e4ndig privatisiert werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "An Hamburger Gymnasien: Wiedereinf\u00fchrung des Abiturs nach Klasse 13!",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die Parkgeb\u00fchren in der Hamburger City sollen erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "F\u00fcr B\u00fcrgerentscheide auf Bezirksebene soll eine Mindestbeteiligung (\"Quorum\") eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Hamburg soll verst\u00e4rkt hochqualifizierte Fachkr\u00e4fte aus dem Ausland anwerben.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Kinder sollen weiterhin nach der vierten Grundschulklasse auf weiterf\u00fchrende Stadtteilschulen und Gymnasien wechseln.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Alle Ausl\u00e4nder/innen, die dauerhaft in Hamburg leben, sollen das kommunale Wahlrecht erhalten.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Mehr verkaufsoffene Sonntage in Hamburg!",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Die Stadt Hamburg soll die Strom-, Fernw\u00e4rme- und Gasnetze vollst\u00e4ndig zur\u00fcckkaufen.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Nur Deutsche sollen Anspruch auf Sozialleistungen haben.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Das Hamburger Stadtgebiet soll komplett mit erneuerbaren Energien versorgt werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Hamburg soll weiterhin Kulturprojekte von Zuwanderern/innen f\u00f6rdern.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Die Elbe in Hamburg soll f\u00fcr gro\u00dfe Containerschiffe weiter vertieft werden (\"Fahrrinnenanpassung\").",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Die Studiengeb\u00fchren an Hamburger Hochschulen sollen beibehalten werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Hamburg soll sich f\u00fcr einen fl\u00e4chendeckenden Mindestlohn einsetzen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "In Hamburg soll der Bau von weiteren Moscheen verboten werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Nur abgasarme Autos sollen in die Hamburger City fahren d\u00fcrfen (\"Umweltzone\").",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Hamburg soll Arbeitsgelegenheiten f\u00fcr ALG-II-Empf\u00e4nger/innen ausweisen (\"1-Euro-Jobs\").",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Homosexuelle Paare sollen ein gemeinsames Adoptionsrecht erhalten.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Die Ausnahmeregelungen bei Umweltauflagen f\u00fcr den Hamburger Hafen sollen erhalten bleiben (\"Hafenprivileg\").",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Das Wahlalter bei B\u00fcrgerschaftswahlen soll auf 16 Jahre gesenkt werden.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Bei Fu\u00dfball-Bundesligaspielen sollen Polizei-Eins\u00e4tze von den Veranstaltern bezahlt werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Zus\u00e4tzliche Steuereinnahmen sollen \u00fcberwiegend zum Schuldenabbau verwendet werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Hamburg soll sich daf\u00fcr einsetzen, die Strafm\u00fcndigkeit von 14 auf 12 Jahre herabzusetzen.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Hamburg soll die Landeskrankenh\u00e4user (\"Asklepios-Kliniken\") zur\u00fcckkaufen.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die Verbindung der Autobahnen A1 und A7 (\"Hafenquerspange\") soll gebaut werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Der Konsum von alkoholischen Getr\u00e4nken in Hamburger Bussen und Bahnen soll verboten werden.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Programme gegen Rechtsextremismus sollen  weiterhin von der Stadt gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Hamburg soll mit anderen norddeutschen Bundesl\u00e4ndern ein gemeinsames Bundesland bilden (\"Nordstaat\").",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

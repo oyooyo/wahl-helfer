@@ -1,0 +1,284 @@
+{
+	"name": "Landtagswahl Nordrhein-Westfalen",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "-+~+++-+~+-+--~---+++++~--~+-++---++--",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "~-++--+~-++-+++-++-+---+-+-+-+--~-~+++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+-++--+--+~-+++-++-+~--+-+~+-+-++-+++-",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "-+-+-+-+-+-+-+-----++++-+-++++----++--",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "++--++++~-+-+-+++-+--~---+--~+--++--++",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "+-++--+--++-+++-++-~---+-+-+---++---+~",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "-+---+--+--++-~---+-+++--++-++---+-+--",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "+-+++-+--++-+~+-+-++-+-+-~-+-+-+----+-",
+			"short_name": "\u00d6DP"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "++-~-~+-++++-++---++~--+-+-+-+-~---+-+",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "Partei Bibeltreuer Christen",
+			"positions": "+~+++++++~+-+++-+-+-~+-+-+-+-~~--++-~+",
+			"short_name": "PBC"
+		},
+		{
+			"full_name": "Mensch Umwelt Tierschutz",
+			"positions": "+-++--+-+++-+++-++-+-+-+-+-+--+++---+-",
+			"short_name": "Die Tierschutzpartei"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "++~++++--++-++--+-++~+-+-+-+~+-++---+~",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initative",
+			"positions": "~~---++--++-+++-++---+-+-+-+~~+++~~++-",
+			"short_name": "Die PARTEI"
+		},
+		{
+			"full_name": "Deutsche Zentrumspartei - \u00c4lteste Partei Deutschlands  gegr\u00fcndet 1870",
+			"positions": "++--+++++-+-+-+~+-++-++-+-+~++---+~+++",
+			"short_name": "ZENTRUM"
+		},
+		{
+			"full_name": "Bund f\u00fcr Gesamtdeutschland",
+			"positions": "+++-+++~-~+-+-++--+-~----+--+++-+~---+",
+			"short_name": "BGD"
+		},
+		{
+			"full_name": "AUF - Partei f\u00fcr Arbeit, Umwelt und Familie Christen f\u00fcr Deutschland",
+			"positions": "+~~~++-~-+--+-+---++~+++-~-+--+-+-++--",
+			"short_name": "AUF"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "~-~+--+--+~-~+~-~--~-~-+~+~+-~-~~-~~+-",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "Deutsche Demokratische Partei",
+			"positions": "+-~---++--+-+---++-+-----+-+-~-++~--+~",
+			"short_name": "ddp"
+		},
+		{
+			"full_name": "Freie Union",
+			"positions": "---~-++-+-+-+-+-+~~+~+~-~+-+-++-+~----",
+			"short_name": "Freie Union"
+		},
+		{
+			"full_name": "Rentner-Partei-Deutschland",
+			"positions": "++++-~+++++++-++++++-+~~-+-++++~+~~+--",
+			"short_name": "RENTNER"
+		},
+		{
+			"full_name": "B\u00fcrgerbewegung pro Nordrhein-Westfalen",
+			"positions": "-+--++++--+++-+++-+-+++--+--++++++~-++",
+			"short_name": "pro NRW"
+		},
+		{
+			"full_name": "Die Violetten f\u00fcr spirituelle Politik",
+			"positions": "---~-++-+++-+++-++-+~+-+-+~+-+--+-~++-",
+			"short_name": "DIE VIOLETTEN"
+		},
+		{
+			"full_name": "B\u00fcndnis f\u00fcr Innovation und Gerechtigkeit",
+			"positions": "--~+-~-~++~-~++-+-+++~~+-+++~+~-~-~~+~",
+			"short_name": "BIG"
+		},
+		{
+			"full_name": "Ab jetzt... B\u00fcndnis f\u00fcr Deutschland, f\u00fcr Demokratie durch Volksabstimmung",
+			"positions": "~+~~+++~+~+~+-+--++-+++--+-~-~~+-~--~+",
+			"short_name": "Volksabstimmung"
+		},
+		{
+			"full_name": "Freie B\u00fcrger-Initiative",
+			"positions": "+~++++-++-+++-+---++~+~~-+-+++++++----",
+			"short_name": "FBI Freie W\u00e4hler"
+		}
+	],
+	"theses": [
+		{
+			"statement": "In Nordrhein-Westfalen sollen die verkaufsoffenen Sonntage abgeschafft werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Das dreigliedrige Schulsystem (Hauptschule, Realschule, Gymnasium) soll erhalten bleiben.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Absolutes Rauchverbot in Gastst\u00e4tten und Restaurants!",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Es sollen mehr Menschen mit Zuwanderungsgeschichte im \u00f6ffentlichen Dienst besch\u00e4ftigt werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Eltern, die f\u00fcr ihre Kinder unter drei Jahren keinen Kita-Platz in Anspruch nehmen, sollen eine zus\u00e4tzliche finanzielle Unterst\u00fctzung erhalten.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die Kopfnoten f\u00fcr Sch\u00fclerinnen und Sch\u00fcler sollen beibehalten werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Die Geb\u00fchren f\u00fcr das Erststudium an den Hochschulen in Nordrhein-Westfalen sollen wieder abgeschafft werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Das Autobahnnetz in Nordrhein-Westfalen soll ausgebaut werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Der Staat soll Internetseiten mit strafbaren Inhalten sperren d\u00fcrfen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Das Land soll Kulturprojekte von Menschen mit Zuwanderungsgeschichte weiterhin f\u00f6rdern.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Wenn das Land Unternehmen mit Geld direkt hilft, soll es auch Mitspracherechte bei Unternehmensentscheidungen erhalten.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die Laufzeiten der Kernkraftwerke sollen verl\u00e4ngert werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die Landwirtschaft in Nordrhein-Westfalen soll ausnahmslos gentechnikfrei sein.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Alle Menschen, die dauerhaft in Nordrhein-Westfalen leben, sollen bei Kommunalwahlen w\u00e4hlen d\u00fcrfen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Die Gewerbesteuer der Kommunen soll erhalten bleiben.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Nur Deutsche sollen einen Anspruch auf Sozialleistungen haben.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Es soll ein fl\u00e4chendeckender gesetzlicher Mindestlohn eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Einf\u00fchrung einer gesetzlichen Frauenquote f\u00fcr Aufsichtsr\u00e4te!",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Die Ehe zwischen Mann und Frau soll weiterhin mit mehr Rechten verbunden sein als andere Lebenspartnerschaften.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "An den Schulen Nordrhein-Westfalens soll islamischer Religionsunterricht in deutscher Sprache angeboten werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "An Gymnasien soll das Abitur weiterhin nach 12 Jahren abgelegt werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "In der Landesverfassung Nordrhein-Westfalens soll eine Begrenzung staatlicher Schulden (\"Schuldenbremse\") verankert werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Die universit\u00e4re Forschung soll sich st\u00e4rker am Bedarf der Wirtschaft orientieren.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Ausl\u00e4nderinnen und Ausl\u00e4nder, die bereits seit vielen Jahren geduldet in Nordrhein-Westfalen leben, sollen ein dauerhaftes Bleiberecht erhalten.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Der Spitzensteuersatz soll gesenkt werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Die kommunale Grundversorgung (Wasser, Strom, Gas, Abfall) soll in \u00f6ffentlicher Hand sein.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Weitere Privatisierung von Krankenh\u00e4usern!",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Das Land soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Wenn Arbeitslose ein Jobangebot ablehnen, sollen ihnen die Sozialleistungen st\u00e4rker gek\u00fcrzt werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Die Polizeipr\u00e4senz in der \u00d6ffentlichkeit soll erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Das Jugendstrafrecht soll nur bis zum 18. Lebensjahr angewendet werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Generelles Nachtflugverbot auf allen Flugh\u00e4fen in Nordrhein-Westfalen!",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Unternehmen, die keine Ausbildungspl\u00e4tze anbieten, sollen eine Abgabe zahlen.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "In Nordrhein-Westfalen soll der Bau von Minaretten verboten werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die Gr\u00fcndung weiterer Privatschulen in Nordrhein-Westfalen soll gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Unternehmen sollen auch weiterhin an Parteien spenden d\u00fcrfen.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Jugendliche ab 16 Jahren sollen bei Landtagswahlen w\u00e4hlen d\u00fcrfen.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Das Land soll den Steinkohle-Bergbau in Nordrhein-Westfalen weiterhin finanziell unterst\u00fctzen.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

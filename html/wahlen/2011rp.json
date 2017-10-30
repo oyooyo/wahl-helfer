@@ -1,0 +1,219 @@
+{
+	"name": "Landtagswahl Rheinland-Pfalz",
+	"parties": [
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "-~--+-+-+-+-++--+-----++--+-+~--++-+~+",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "++-+-+~--++-++--++-++-+--++-~---++++-~",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "+~-+-~---+++-+-++~-~~-++--+++---~+~+--",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "--~-+-+-+-+-+++-++~+-+-+--++++-+---+~+",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "--+-+-+~+-+-+~~-+++--+-++++~+~++---+++",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "--++-+-+-+-++-------+-+-++-+----+~+--+",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "--+++--+++--+----+-++++--------+--+-++",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "--~++---+-+-+++-++---+~++-++~+-++-++++",
+			"short_name": "\u00f6dp"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "--~~----+~+-~+-+~+-+~~++-++--~---+~++-",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "Deutsche Demokratische Partei",
+			"positions": "~-+++-~~+++++++-+~--++-+-++++~~~---+++",
+			"short_name": "ddp"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER Rheinland-Pfalz",
+			"positions": "---++-~-+-+--+--++-+~~+~+-+-++-~+~-++~",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "~---+---~~~~++~-~++~-~-+--+~+--+-~++~+",
+			"short_name": "PIRATEN"
+		}
+	],
+	"theses": [
+		{
+			"statement": "In Rheinland-Pfalz sollen Gesch\u00e4fte an Werktagen l\u00e4nger \u00f6ffnen d\u00fcrfen.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Das Land Rheinland-Pfalz soll auch zuk\u00fcnftig in den N\u00fcrburgring investieren.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Das Konzept \"Realschule plus\" soll r\u00fcckg\u00e4ngig gemacht werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Verpflichtende Sprachtests im Kindergartenalter.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Das Land Rheinland-Pfalz soll sich daf\u00fcr einsetzen, dass die Laufzeitverl\u00e4ngerung f\u00fcr Kernkraftwerke r\u00fcckg\u00e4ngig gemacht wird.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung auf \u00f6ffentlichen Pl\u00e4tzen.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "In Aufsichtsr\u00e4ten von Unternehmen soll eine gesetzliche Frauenquote gelten.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "In Rheinland-Pfalz sollen keine neuen Moscheen gebaut werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Das Land soll sich f\u00fcr einen fl\u00e4chendeckenden gesetzlichen Mindestlohn einsetzen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Einf\u00fchrung des Zentralabiturs in Rheinland-Pfalz.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Das Land soll Projekte zur Integration von Ausl\u00e4ndern f\u00f6rdern.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die Gewerbesteuer soll abgeschafft werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Praktikanten mit abgeschlossener Schulausbildung sollen eine gesetzlich garantierte Mindestbezahlung erhalten.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "An \u00f6ffentlichen Schulen in Rheinland-Pfalz soll islamischer Religionsunterricht in deutscher Sprache angeboten werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Die Landesmittel f\u00fcr den Flughafen Frankfurt/Hahn sollen gestrichen werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die Beschr\u00e4nkungen f\u00fcr den Anbau von gentechnisch ver\u00e4nderten Pflanzen sollen in Rheinland-Pfalz gelockert werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen im Polizeidienst arbeiten.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Alle Bachelor-Absolventen rheinland-pf\u00e4lzischer Hochschulen sollen einen Rechtsanspruch auf einen Master-Studienplatz in Rheinland-Pfalz erhalten.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Aus der rheinland-pf\u00e4lzischen Landesverfassung sollen religi\u00f6se Bez\u00fcge entfernt werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Die \u00f6ffentlich-rechtlichen Medien sollen sich weiterhin auch \u00fcber Werbung finanzieren d\u00fcrfen.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Asylbewerber sollen sich weiterhin nur innerhalb ihres Landkreises bewegen d\u00fcrfen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Alle B\u00fcrger und B\u00fcrgerinnen sollen in gesetzlichen Krankenkassen versichert sein m\u00fcssen.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Die Bundeswehr soll weiterhin an Schulen Veranstaltungen f\u00fcr Sch\u00fclerinnen und Sch\u00fcler durchf\u00fchren d\u00fcrfen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Alle Ausl\u00e4nderinnen und Ausl\u00e4nder, die dauerhaft in Rheinland-Pfalz wohnen, sollen bei Kommunalwahlen w\u00e4hlen d\u00fcrfen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Das Land soll sich daf\u00fcr einsetzen, dass Spenden von Unternehmen an Parteien verboten werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Das letzte Kindergartenjahr vor der Einschulung soll verpflichtend sein.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Alle Kinder sollen ungeachtet ihres kulturellen Hintergrundes gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Das Land soll sich daf\u00fcr einsetzen, dass alle Studierenden BAf\u00f6G unabh\u00e4ngig vom Einkommen ihrer Eltern erhalten k\u00f6nnen.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Rheinland-Pfalz soll sich daf\u00fcr einsetzen, dass eingetragene Lebenspartnerschaften (\"Homo-Ehe\") der Ehe rechtlich gleichgestellt werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Ausnahmsloses Rauchverbot in allen Gastst\u00e4tten und Restaurants.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "An den Schulen in Rheinland-Pfalz soll Religionsunterricht durch ein Pflichtfach Ethik ersetzt werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Bei Gro\u00dfeins\u00e4tzen sollen Polizisten und Polizistinnen eine deutliche individuelle Kennung tragen m\u00fcssen.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Das Zweitstudium an \u00f6ffentlichen Universit\u00e4ten in Rheinland-Pfalz soll geb\u00fchrenpflichtig bleiben.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Der Hochmosel\u00fcbergang (Br\u00fccke bei Wittlich und Rheinb\u00f6llen) soll gebaut werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Eltern, die ihre Kinder ausschlie\u00dflich zu Hause erziehen, sollen eine finanzielle Unterst\u00fctzung (\"Betreuungsgeld\") erhalten.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Das Land soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Die kommunale Grundversorgung (Gas, Wasser, Strom und Abfall) soll ausschlie\u00dflich in \u00f6ffentlicher Hand sein.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Bei Landtagswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

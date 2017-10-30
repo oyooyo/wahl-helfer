@@ -1,0 +1,143 @@
+{
+	"name": "Landtagswahl Nordrhein-Westfalen",
+	"parties": [
+		{
+			"full_name": "CDU",
+			"positions": "-+++--+---~--~-+--++~--+++-++",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "--+~--+~----~-~-~~--~~--~-~~-",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+			"positions": "++--+++++-+-+-+~++-++++-----+",
+			"short_name": "B\u00fcndnis 90/Die Gr\u00fcnen"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "-+++---~-+++-+++-+~~-~+++-+--",
+			"short_name": "FDP"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Mehr Fl\u00e4che f\u00fcr den Bau weiterer Windkraftanlagen!",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Subventionen f\u00fcr die Steinkohle streichen!",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Ausbau der wichtigsten Autobahnen in NRW auf sechs Spuren.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Die Flugh\u00e4fen in NRW sollen ausgebaut werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Mehr Landesmittel f\u00fcr die \u00f6kologische Landwirtschaft!",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Der Anbau von genver\u00e4nderten Pflanzen in NRW soll verboten werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Landesauftr\u00e4ge nur an Unternehmen, die nach Tarif bezahlen.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Auch Betriebe ohne Meister/innen sollen ausbilden d\u00fcrfen.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Unternehmen, die nicht ausbilden, sollen zahlen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Das Ladenschlussgesetz soll abgeschafft werden (Einkaufen auch am Sonntag).",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Es m\u00fcssen mehr Gelder aus der Umsatzsteuer an die Gemeinden gehen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Abschaffung der Hundesteuer in NRW!",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Menschen mit Behinderungen sollen einen Rechtsanspruch auf einen Ausbildungsplatz erhalten.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Der Elternbeitrag f\u00fcr Kinderg\u00e4rten soll abgeschafft werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Einrichtung von Jugendbeir\u00e4ten auf kommunaler Ebene.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Fremdsprachenunterricht ab der 1. Klasse.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Kein Sitzenbleiben bis Klasse 8.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Die Verbeamtung von Lehrern/innen soll abgeschafft werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Studiengeb\u00fchren ab dem ersten Semester!",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Mehr Sportstunden in Grund- und weiterf\u00fchrenden Schulen!",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Verkaufsverbot von Junkfood (Cola, Chips, Riegel) an den Schulen NRWs.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Haschisch soll legalisiert werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Schwangerschaftsabbr\u00fcche auch ohne Beratungszwang!",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Mehr Theater sollen privatisiert werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Kopftuchverbot bei Lehrerinnen!",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Von allen Straft\u00e4tern/innen sollen DNA-Daten erfasst werden (\"genetischer Fingerabdruck\").",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Veranstalter/innen von Gro\u00dfsportereignissen sollen die Einsatzkosten der Polizei selbst tragen.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung von \u00f6ffentlichen Orten.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Politiker/innen sollen ihre gesamten Nebeneink\u00fcnfte offen legen.",
+			"topic": "Aussage Nr. 28"
+		}
+	]
+}

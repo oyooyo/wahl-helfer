@@ -1,0 +1,214 @@
+{
+	"name": "Landtagswahl Schleswig-Holstein",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "~-+-+-+--+--+-+-+-+---+-+--++++++--++-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "~+++++~+-+++~+++---+-+-+~+-++~++-+~+--",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "~-+--~++~+--+-+---+--+++-~-+~+++~~-+~-",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+--+++--++++~+~+---~---+~+~-++++-+-+++",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "++-+++-+++++-+-+---+-+-+-++++--+-+++-+",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "S\u00fcdschleswigscher W\u00e4hlerverband",
+			"positions": "-+~+++-+-+++-+++-+~+-+-+-+---+-+-+-++-",
+			"short_name": "SSW"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "~+-+~+-+~++--~-~~-++-~~+~~~+~-~~-+++~~",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER Schleswig-Holstein",
+			"positions": "-++++++++++-+~-+--++-+++-+-++-++-+++--",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "++-++-~+--+-+--+~-+++++-+++~--+---+-+-",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "~++++~++++--+~--+-+--++~++~++++~-++++~",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "Maritime Union Deutschland",
+			"positions": "+++-----+++-+--+-~+++++++--~-+-+---++-",
+			"short_name": "MUD"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Bei der Errichtung von Windkraftanlagen in Schleswig-Holstein sollen Standorte auf dem Festland Vorrang haben.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Der Besuch einer Kita soll geb\u00fchrenfrei sein.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Die \"Feste Fehmarnbeltquerung\" soll gebaut werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Das Land Schleswig-Holstein soll sich f\u00fcr einen fl\u00e4chendeckenden gesetzlichen Mindestlohn einsetzen.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "F\u00fcr die Zulassung von Gl\u00fccksspielanbietern sollen strengere Regeln gelten.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die Zusch\u00fcsse f\u00fcr die d\u00e4nischen Schulen in Schleswig-Holstein sollen wieder erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Hartz-IV-Empf\u00e4ngern und -Empf\u00e4ngerinnen sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie Jobangebote ablehnen.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "F\u00fcr den Bau von Studentenwohnheimen sollen mehr Landesmittel bereitgestellt werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Es soll eine feste Obergrenze f\u00fcr die Anzahl der Landtagsabgeordneten geben.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Alle Kinder sollen ungeachtet ihres kulturellen Hintergrundes gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Das Kernkraftwerk Brokdorf soll sofort abgeschaltet werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "In Aufsichtsr\u00e4ten und Vorst\u00e4nden von Unternehmen soll eine gesetzliche Frauenquote gelten.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Bei Demonstrationen soll die Polizei weiterhin Videoaufnahmen machen d\u00fcrfen.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Auch Freiberufler (z.B. Rechtsanw\u00e4lte und \u00c4rzte) sollen Gewerbesteuer zahlen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "An den Schulen Schleswig-Holsteins soll islamischer Religionsunterricht in deutscher Sprache angeboten werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die \u00f6kologische Landwirtschaft soll st\u00e4rker finanziell gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Kriminelle Jugendliche sollen bei einer Verurteilung auf Bew\u00e4hrung auch f\u00fcr kurze Zeit inhaftiert werden k\u00f6nnen (\"Warnschussarrest\").",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Die Direktwahl der B\u00fcrgermeisterinnen und B\u00fcrgermeister in Schleswig-Holstein soll abgeschafft werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "In Schleswig-Holstein sollen an ausgew\u00e4hlten Schulen Hochbegabtenklassen eingerichtet werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "In Schleswig-Holstein soll die kommunale Grundversorgung (Wasser, Strom, Gas, Abfall) vollst\u00e4ndig in \u00f6ffentlicher Hand sein.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Kindergeld soll nur an deutsche Familien ausgezahlt werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Schleswig-Holstein soll die Niederlassung von \u00c4rzten und \u00c4rztinnen im l\u00e4ndlichen Raum durch finanzielle Anreize unterst\u00fctzen.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "An Schulen soll f\u00fcr Berufe bei der Bundeswehr geworben werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Ausl\u00e4nderinnen und Ausl\u00e4nder, die bereits seit vielen Jahren geduldet in Schleswig-Holstein leben, sollen ein dauerhaftes Bleiberecht erhalten.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Das Landestheater und die Theater in Kiel und L\u00fcbeck sollen unter Beibehaltung der Spielst\u00e4tten organisatorisch zusammengelegt werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Die Landesmittel f\u00fcr Frauenh\u00e4user sollen wieder aufgestockt werden.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Der Landesverfassungsschutz soll abgeschafft werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Das Land soll den Anschluss regionaler Verkehrsverb\u00fcnde an den Hamburger Verkehrsverbund (HVV) finanziell f\u00f6rdern.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Schleswig-Holstein soll sich f\u00fcr ein NPD-Verbot einsetzen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "An der Sanierung des Universit\u00e4tsklinikums Schleswig-Holstein (UKSH) sollen auch private Investoren beteiligt werden.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "In Schleswig-Holstein soll das Gymnasium als Schulform langfristig erhalten bleiben.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen im Polizeidienst arbeiten.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Eltern sollen sich weiterhin an den Kosten f\u00fcr die Bef\u00f6rderung ihrer Kinder zur Schule beteiligen m\u00fcssen.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Bei Landtagswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Alle Sch\u00fclerinnen und Sch\u00fcler an Ganztagsschulen sollen ein kostenloses Mittagessen bekommen.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Das Land Schleswig-Holstein soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "F\u00fcr alle Kreise, St\u00e4dte und Gemeinden Schleswig-Holsteins soll eine Schuldenbremse eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Im Nationalpark Wattenmeer soll die Fischerei st\u00e4rker eingeschr\u00e4nkt werden.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

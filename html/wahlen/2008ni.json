@@ -1,0 +1,152 @@
+{
+	"name": "Landtagswahl Niedersachsen",
+	"parties": [
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "-+-+-+--+-+++-++--+-++++---+-+",
+			"short_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN"
+		},
+		{
+			"full_name": "CDU",
+			"positions": "+-+-+-++-+-+-+--+--+----+-+-+-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "-+-+-+--+-+---+---+-+~-++--+-+",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "+-+-+----+-+-+--+++-~-+--++++-",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "++~--+-~+-+-+---+-+-+++++-+++~",
+			"short_name": "SPD"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Es sollen neue Autobahnen in Niedersachsen gebaut werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die Laden\u00f6ffnungszeiten sollen vom Land st\u00e4rker begrenzt werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Staatliche Aufgaben sollen verst\u00e4rkt in die Hand von privaten Unternehmen gelegt werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Unternehmen sollen gesetzlich dazu verpflichtet werden, Ausbildungspl\u00e4tze anzubieten.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Das dreigliedrige Schulsystem (Gymnasium, Realschule, Hauptschule) soll beibehalten werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Keine Noten in der Grundschulzeit!",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Das Land soll sich daf\u00fcr einsetzen, dass der Vertrieb von extrem gewalthaltigen Computerspielen (\"Killerspiele\") verboten wird.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Der Verfassungsschutz soll mit richterlicher Genehmigung Onlinedurchsuchungen von privaten Computern durchf\u00fchren k\u00f6nnen.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Es soll ein bundesweites Tempolimit auf Autobahnen geben.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Beim Klimaschutz: Freiwillige Abmachungen zwischen Politik und Wirtschaft statt verpflichtender Vorgaben!",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Der Anbau gentechnisch manipulierter Pflanzen in Niedersachsen soll verboten werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Neue Schulden des Landes sollen durch die nieders\u00e4chsische Verfassung verboten werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Verdienstausf\u00e4lle durch ehrenamtliche T\u00e4tigkeiten in der Jugendarbeit sollen durch Landesmittel ausgeglichen werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Die Studienbeitr\u00e4ge f\u00fcr das Erststudium sollen beibehalten werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "B\u00fcrgerinnen und B\u00fcrger sollen direkt mitentscheiden d\u00fcrfen, wof\u00fcr St\u00e4dte und Gemeinden Geld ausgeben (\"B\u00fcrgerhaushalt\").",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Kleine Landkreise sollen zu gr\u00f6\u00dferen Landkreisen zusammengeschlossen werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Der Verkauf von Cannabis soll illegal bleiben.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Das Land soll einen Teil seiner Volkswagen-Aktien verkaufen.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Eingetragene homosexuelle Partnerschaften (\"Homo-Ehen\") sollen im Adoptionsrecht mit Ehen gleichgestellt werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung von \u00f6ffentlichen Pl\u00e4tzen soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Die Kinderbetreuung von 0- bis 3-J\u00e4hrigen soll geb\u00fchrenfrei sein.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Die \u00e4rztlichen Vorsorgeuntersuchungen von Kleinkindern sollen verpflichtend werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Schulen sollen selbst \u00fcber ihr gesamtes Budget entscheiden d\u00fcrfen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "F\u00fcr Sch\u00fclerinnen und Sch\u00fcler: Angebot eines kostenlosen Mittagessens in der Schule!",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Niedersachsen soll sich auf Bundesebene f\u00fcr eine l\u00e4ngere Bezugszeit von Arbeitslosengeld I (ALG I) f\u00fcr \u00e4ltere Menschen einsetzen.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Die Universit\u00e4ten sollen alle ihre Studierenden selbst ausw\u00e4hlen d\u00fcrfen.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Die Gr\u00fcndung privater Hochschulen soll erleichtert werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Fl\u00fcchtlinge, die schon lange in Niedersachsen leben, sollen leichter als bisher ein Bleiberecht erhalten.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "In Niedersachsen sollen neue Kohlekraftwerke gebaut werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Bei Landtagswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 29"
+		}
+	]
+}

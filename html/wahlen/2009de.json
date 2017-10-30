@@ -1,0 +1,279 @@
+{
+	"name": "Bundestagswahl",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands / Christlich-Soziale Union in Bayern e.V.",
+			"positions": "+---~-~+-+~-+-+------~+-+~--+----+--++",
+			"short_name": "CDU/CSU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "-+--+-++~+-+-+-+-++--+~+-~+~------+~-+",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "+---++-+-+~-++--+--+-----++-+~+~-++--+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "-++--++~+--+-+-+-+++-+-+--++-++-+-++-+",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "-+--~+++++~+-+-~-+++-+-+--+~-+++~-++-+",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "-+++-+++~-~-++++--++++~++--+--+~++-~--",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "++++-+++++--++++---++-++~-----+--+--~~",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "-++-++++~++-~+++-~++--~~---+~~~+-++--~",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "Mensch Umwelt Tierschutz",
+			"positions": "-++--++++~++-+-+--+--+-+--~++~+~+~++--",
+			"short_name": "Die Tierschutzpartei"
+		},
+		{
+			"full_name": "Partei Bibeltreuer Christen",
+			"positions": "-++-++-~-+~-~++~------++----+~+~~+-+-+",
+			"short_name": "PBC"
+		},
+		{
+			"full_name": "Marxistisch-Leninistische Partei Deutschlands",
+			"positions": "-+++-++~-~~~-+-+-~+--+-+~-++~++---++--",
+			"short_name": "MLPD"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "++++~+++~+-~++~+-~-++-+++~--+++--+++-+",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "Bayernpartei",
+			"positions": "--+-++++~++-+++----+-+++----+-++++---+",
+			"short_name": "BP"
+		},
+		{
+			"full_name": "Partei f\u00fcr Soziale Gleichheit, Sektion der Vierten Internationale",
+			"positions": "-++~-++---~~-+-+-~~+-+-+~~++~++-+-++--",
+			"short_name": "PSG"
+		},
+		{
+			"full_name": "Deutsche Zentrumspartei - \u00c4lteste Partei Deutschlands gegr\u00fcndet 1870",
+			"positions": "+++~+-+++++-+++~+--+~-+++---~-+--+-+++",
+			"short_name": "ZENTRUM"
+		},
+		{
+			"full_name": "Allianz der Mitte",
+			"positions": "-++~+++++++-++-+--+--+~---------~--+--",
+			"short_name": "ADM"
+		},
+		{
+			"full_name": "Die Violetten; f\u00fcr spirituelle Politik",
+			"positions": "--+~+++++----+-----+-+~+--+-+~+-+-++-~",
+			"short_name": "DIE VIOLETTEN"
+		},
+		{
+			"full_name": "Deutsche Kommunistische Partei",
+			"positions": "-++--+++~+++-+++--+--+-+--++-++-+-++--",
+			"short_name": "DKP"
+		},
+		{
+			"full_name": "DEUTSCHE VOLKSUNION",
+			"positions": "~++++++--+--++++----+++++---+-++-+-+-+",
+			"short_name": "DVU"
+		},
+		{
+			"full_name": "Freie W\u00e4hler Deutschland",
+			"positions": "~++--++++~~~++~+-~-~~++~~--+-~+~~+~+++",
+			"short_name": "FWD"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "-+---++++++--++--~++-++++-~-+++-~~~~-+",
+			"short_name": "\u00f6dp"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "-~~-+++--+---+--~~-+-~-+--+~-~++--+~-+",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "Rentner-Partei-Deutschland",
+			"positions": "-++-++++-+---+++--+--+~+--++--+---++--",
+			"short_name": "RENTNER"
+		},
+		{
+			"full_name": "Rentnerinnen und Rentner Partei",
+			"positions": "-+~-+~++-++-+++-~~+--+-+~~-+--+--++~~-",
+			"short_name": "RRP"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Die Laufzeit der Atomkraftwerke soll verl\u00e4ngert werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Einf\u00fchrung eines fl\u00e4chendeckenden gesetzlichen Mindestlohnes.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Die Bundeswehr soll sofort aus Afghanistan abgezogen werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Deutschland soll aus der EU austreten.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Unternehmen sollen \u00fcber die H\u00f6he von Managergeh\u00e4ltern frei entscheiden k\u00f6nnen.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die verdeckte Online-Durchsuchung privater Computer durch Sicherheitsbeh\u00f6rden soll verboten werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Das Erststudium soll geb\u00fchrenfrei sein.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "In allen Bundesl\u00e4ndern: Einf\u00fchrung verbindlicher Sprachtests f\u00fcr alle Kinder im Vorschulalter.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Ausnahmsloses Verbot von Tierversuchen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Die staatliche Beteiligung an privaten Banken darf nur eine vor\u00fcbergehende Notl\u00f6sung sein.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Handelsbeziehungen mit Staaten, die Menschenrechte missachten, sollen eingestellt werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Bei der Besetzung von F\u00fchrungspositionen soll eine gesetzliche Frauenquote gelten.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die Steuern f\u00fcr Unternehmen sollen gesenkt werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Einf\u00fchrung von Volksentscheiden auch auf Bundesebene!",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Eltern, die f\u00fcr ihre Kinder keinen Krippenplatz in Anspruch nehmen, sollen ein Betreuungsgeld erhalten.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Jedem Jugendlichen soll ein Ausbildungsplatz gesetzlich garantiert werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Der betriebliche K\u00fcndigungsschutz soll gelockert werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Die T\u00fcrkei soll die Vollmitgliedschaft in der EU erhalten.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Generelles Tempolimit auf deutschen Autobahnen.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Studierende, Sch\u00fcler/-innen und Auszubildende sollen unabh\u00e4ngig vom Einkommen der Eltern einen Anspruch auf BAf\u00f6G haben.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Die D-Mark soll wieder eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Die \u00f6kologische Landwirtschaft soll vom Staat finanziell st\u00e4rker gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Christliche Werte sollen das Leitbild deutscher Politik sein!",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Die Bahn soll vollst\u00e4ndig in staatlicher Hand sein.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Die Wehrpflicht soll in ihrer jetzigen Form beibehalten werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "In Deutschland sollen gentechnisch ver\u00e4nderte Lebensmittel produziert werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Vollst\u00e4ndiges Adoptionsrecht f\u00fcr gleichgeschlechtliche Lebenspartnerschaften.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Die Verm\u00f6genssteuer soll wieder eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Bildungspolitik soll L\u00e4ndersache bleiben.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Die M\u00f6glichkeit, in Deutschland Asyl zu erhalten, soll erleichtert werden.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Die Praxisgeb\u00fchr soll abgeschafft werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Wenn die L\u00f6hne sinken, m\u00fcssen die gesetzlichen Renten entsprechend gek\u00fcrzt werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Generelles Verbot von R\u00fcstungsexporten deutscher Firmen.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Das gegliederte Schulsystem (Haupt- /Realschulen und Gymnasien) soll beibehalten werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Kommunales Wahlrecht f\u00fcr alle, die dauerhaft in Deutschland leben.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Die Regels\u00e4tze f\u00fcr das Arbeitslosengeld II (\"Hartz-IV\") sollen deutlich angehoben werden.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Zur Terrorismusbek\u00e4mpfung soll die Bundeswehr auch im Innern eingesetzt werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Die Demokratie, die wir in der Bundesrepublik haben, ist die beste Staatsform.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

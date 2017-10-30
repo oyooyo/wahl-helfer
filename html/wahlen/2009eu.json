@@ -1,0 +1,304 @@
+{
+	"name": "Europawahl",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "--+-+----+++-----+~--~-~+-----++-+-+-~",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "+--+~+---+++++--++---++++~----+~+-~+++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+--+-~-+-+-++-~-++---++++~+-~-+-+-~+++",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Christlich-Soziale Union in Bayern e.V.",
+			"positions": "+++-+-----++---+-+----+--~----++-++++~",
+			"short_name": "CSU"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "+--+-+-+-+-++--~++---+++----+-~-+---++",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "-~---~~~--~+~+---+~+-~-++--+--++--+-+-",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "+++-+-++++---+-+----+----+-+++-+-+-+--",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "Mensch Umwelt Tierschutz",
+			"positions": "+~-+~+-~-+~+++~+++---+++-+--+--++~++~+",
+			"short_name": "Die Tierschutzpartei"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "++--~+-+-+-+-++--++--++++++-~-+----+++",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "++-+~+-+-+-++~+++++--+++++-----+++-+++",
+			"short_name": "\u00f6dp"
+		},
+		{
+			"full_name": "Feministische Partei DIE FRAUEN",
+			"positions": "++-+-+-+-+-++~+-++---+++~~+-+-~-+-~++-",
+			"short_name": "DIE FRAUEN"
+		},
+		{
+			"full_name": "Ab jetzt...B\u00fcndnis f\u00fcr Deutschland, f\u00fcr Demokratie durch Volksabstimmung",
+			"positions": "+++-+--~++~--+++-+----++-~--+-++-++~+-",
+			"short_name": "Volksabstimmung"
+		},
+		{
+			"full_name": "Partei Bibeltreuer Christen",
+			"positions": "++~~+----+-+~~++-+---+++-+--~--+++++++",
+			"short_name": "PBC"
+		},
+		{
+			"full_name": "CHRISTLICHE MITTE - F\u00fcr ein Deutschland nach GOTTES Geboten",
+			"positions": "~+++++~--++++-++++-~++~+-+-~~~-+~+++++",
+			"short_name": "CM"
+		},
+		{
+			"full_name": "Bayernpartei",
+			"positions": "++--+---++--++++-++--+-+++--+-++++-++-",
+			"short_name": "BP"
+		},
+		{
+			"full_name": "Partei f\u00fcr Soziale Gleichheit, Sektion der Vierten Internationale",
+			"positions": "~+-+-+-+-+-~+-~-~---~+++----+-~~+--~+~",
+			"short_name": "PSG"
+		},
+		{
+			"full_name": "50Plus Das Generationen-B\u00fcndnis",
+			"positions": "-++-+-++~+~+----+++~--++-~----+++++++-",
+			"short_name": "50Plus"
+		},
+		{
+			"full_name": "AUF - Partei f\u00fcr Arbeit, Umwelt und Familie, Christen f\u00fcr Deutschland",
+			"positions": "+-~-+--+~+-++-++~+---+++++-~+--+-+~+-+",
+			"short_name": "AUF"
+		},
+		{
+			"full_name": "DEUTSCHE VOLKSUNION",
+			"positions": "+++++-++++-~--~+----+-~--+--++-+++-++-",
+			"short_name": "DVU"
+		},
+		{
+			"full_name": "Die Grauen Generationspartei",
+			"positions": "+++-++-++~+-~-+~-+---+++~+-~--~++++++-",
+			"short_name": "Die Grauen"
+		},
+		{
+			"full_name": "Die Violetten, f\u00fcr spirituelle Politik",
+			"positions": "++---+-+++-+++++--+--++++++-+-+----++-",
+			"short_name": "DIE VIOLETTEN"
+		},
+		{
+			"full_name": "Europa - Demokratie - Esperanto",
+			"positions": "+~-~~+-+-+~+~~~~+--~-+++~~~-+-~-~~~~+~",
+			"short_name": "EDE"
+		},
+		{
+			"full_name": "Freie B\u00fcrger-Initiative",
+			"positions": "++++++-+~++-+++++++--++++---+-+-++++++",
+			"short_name": "FBI"
+		},
+		{
+			"full_name": "F\u00dcR VOLKSENTSCHEIDE (W\u00e4hlergemeinschaft), Gerechtigkeit braucht B\u00fcrgerrechte - Wir danken f\u00fcr Ihr Vertrauen",
+			"positions": "~++~~~-~~+~+~~++~~~~-~~+~~~~~-~~~~+~+~",
+			"short_name": "VOLKSENTSCHEIDE"
+		},
+		{
+			"full_name": "FW FREIE W\u00c4HLER",
+			"positions": "++-+++~+~++~+--+++~--++++-+~---+~~+++~",
+			"short_name": "FW FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Newropeans",
+			"positions": "++-+---+-+~++--+-+---++---+---+++--++-",
+			"short_name": "Newropeans"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "++---~-+-+-~+~+--+---+~+~---+-~+~-~~+-",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "Rentnerinnen und Rentner Partei ",
+			"positions": "~+~+~+--~+++~~~-++~~-~+~+~~-~-+-+~-~++",
+			"short_name": "RRP"
+		},
+		{
+			"full_name": "Rentner-Partei-Deutschland",
+			"positions": "+++~++---+~+--+~+++--++~+-----++++-++-",
+			"short_name": "RENTNER"
+		}
+	],
+	"theses": [
+		{
+			"statement": "In der EU sollen keine gentechnisch ver\u00e4nderten Lebensmittel produziert werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "K\u00fcnftig sollen alle EU-B\u00fcrger/-innen \u00fcber die Aufnahme von neuen Mitgliedsstaaten abstimmen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Die Einwanderungspolitik der EU soll versch\u00e4rft werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "In der EU soll die H\u00f6he von Managergeh\u00e4ltern gesetzlich begrenzt werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Die traditionelle Familie aus Mann, Frau und Kind/Kindern soll st\u00e4rker als andere Lebensgemeinschaften gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "In der EU sollen einheitliche Qualit\u00e4tsstandards in der Gesundheitsversorgung eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Die EU-Entwicklungshilfe soll abgeschafft werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Wahlrecht ab 16 Jahren bei Europawahlen!",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Der Zugang zum deutschen Arbeitsmarkt soll f\u00fcr Menschen aus den \u00f6stlichen EU-Staaten dauerhaft beschr\u00e4nkt  bleiben.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "In der EU soll der Anteil von Fett, Zucker und Salz in Lebensmitteln durch ein Symbol deutlich gekennzeichnet werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Biometrische Daten (z.B. Fingerabdruck) sollen weiterhin im Reisepass erfasst werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die Beitragszahlungen an die EU sollen sich an der jeweiligen Wirtschaftsleistung der Mitgliedsl\u00e4nder orientieren.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Alle Atomkraftwerke innerhalb der EU sollen abgeschaltet werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Die EU-Subventionen f\u00fcr die Landwirtschaft sollen abgeschafft werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Die B\u00fcrger/-innen sollen den EU-Kommissionspr\u00e4sidenten zuk\u00fcnftig selbst w\u00e4hlen.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Einheimische Unternehmen sollen bei \u00f6ffentlichen, europaweiten Ausschreibungen bevorzugt werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "In der EU soll auf allen Autobahnen  ein einheitliches Tempolimit gelten.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Die parlamentarische Demokratie ist die beste Regierungsform.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Die nationalen Streitkr\u00e4fte sollen durch eine EU-Armee ersetzt werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Die EU-Mitgliedsstaaten sollen ihre \u00f6ffentlichen Banken (z.B. Landesbanken, Sparkassen) privatisieren.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Deutschland soll aus der EU austreten.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Die Staaten der EU sollen vollst\u00e4ndig  auf erneuerbare Energien umstellen.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Die Unternehmenssteuern sollen EU-weit angeglichen werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "In der Europ\u00e4ischen Union soll es keine Atomwaffen mehr geben.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll einen gemeinsamen Au\u00dfenminister berufen.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Striktes Verbot von embryonaler Stammzellenforschung in der EU!",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Die EU soll die M\u00f6glichkeit erhalten, eigene Steuern zu erheben.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Der K\u00fcndigungsschutz in den EU-Mitgliedsstaaten soll gelockert werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Die USA sollen ihre milit\u00e4rischen St\u00fctzpunkte innerhalb der Europ\u00e4ischen Union aufgeben.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Deutschland soll aus der W\u00e4hrungsunion austreten und die D-Mark wieder einf\u00fchren.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Ein einziger st\u00e4ndiger Sitz f\u00fcr alle EU-Mitgliedsl\u00e4nder im UNO-Sicherheitsrat!",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Es sollen wieder mehr Gesetzgebungskompetenzen auf die nationale Ebene verlagert werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Jeder EU-Staat soll einen gesetzlichen Mindestlohn einf\u00fchren.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Die EU soll sich als christliche Wertegemeinschaft verstehen.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Auch w\u00e4hrend der Wirtschaftskrise muss eine zu hohe Neuverschuldung der Staaten in der Euro-Zone bestraft werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Europaweites Klonverbot von Tieren!",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Es sollen EU-weite B\u00fcrgerentscheide eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "EU-weit: striktes Rauchverbot in der Gastronomie!",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

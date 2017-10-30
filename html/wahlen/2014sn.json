@@ -1,0 +1,229 @@
+{
+	"name": "Landtagswahl Sachsen",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "+--~~+--+----+--+--+++~----++---+---+-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "-++--+++---++-++-+-+-+++++++-+---+--~-",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "~++--+-+---++~~--+++-++--+++----~+--+-",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "+-+-++-------+----++++-+---+++--++-+--",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "-++--++++--+-~-+-+~+-++--+++-----+--+-",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "+~-+-----++-+~-++-~---++--~-+-+--+++-~",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+			"positions": "-++--+++-+-~--++-+~+-+++-+++-+-+~+--~-",
+			"short_name": "Tierschutzpartei"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "-~+--+-~-+-++-++-+~+-+++~+++-+---+--~-",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "~~--++-~-~--~~+--~-+-+~~~+-++-~~---+~+",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "Deutsche Soziale Union",
+			"positions": "++~+-~-+~+~-~~--+++~--+++-~~+++++-+~-~",
+			"short_name": "DSU"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "+--+----+~~--+--+-++---~--~-+-~~+--+-+",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "B\u00fcrgerbewegung pro Deutschland",
+			"positions": "++-+-----++-+++++-----+-+-+-+-+-+-+--+",
+			"short_name": "pro Deutschland"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER",
+			"positions": "~++--+---+~-++~+~++~-++-~~-++-+++-~~++",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "+-+--+++-~--+-~~-+-+-+++++~+-+---+--+-",
+			"short_name": "Die PARTEI"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Im Freistaat soll weiterhin Braunkohle abgebaut werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die gemeinsame Grundschulzeit soll \u00fcber die vierte Klasse hinaus ausgeweitet werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Sachsen soll sich daf\u00fcr einsetzen, dass homosexuelle Paare gemeinsam Kinder adoptieren d\u00fcrfen.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung im \u00f6ffentlichen Raum!",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Der Anbau von gentechnisch ver\u00e4nderten Pflanzen soll in Sachsen erlaubt sein.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Der Freistaat soll mehr Geld f\u00fcr die Unterbringung von Fl\u00fcchtlingen zur Verf\u00fcgung stellen.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Einf\u00fchrung eines generellen Tempolimits auf Autobahnen in Sachsen.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Freiberufler (z.B. \u00c4rzte, Rechtsanw\u00e4lte oder Steuerberater) sollen zuk\u00fcnftig Gewerbesteuer zahlen m\u00fcssen.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Eltern sollen sich an den Kosten f\u00fcr die Bef\u00f6rderung ihrer Kinder zur Schule beteiligen m\u00fcssen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Im Rundfunkrat des MDR sollen keine Vertreter der Landtagsparteien sitzen.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Der Bau von Minaretten soll in Sachsen verboten werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Sitzenbleiben an s\u00e4chsischen Schulen abschaffen!",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Das Landeserziehungsgeld soll auch an Eltern gezahlt werden, deren Kinder eine Kindertagesst\u00e4tte besuchen.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Das Tanzverbot an \"stillen Tagen\" (z.B. Karfreitag, Bu\u00df- und Bettag) soll beibehalten werden!",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Der \u00f6ffentliche Personennahverkehr soll in ganz Sachsen entgeltfrei sein.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Der s\u00e4chsische Verfassungsschutz soll abgeschafft werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Asylbewerberinnen und Asylbewerber in Sachsen sollen sich weiterhin nur innerhalb des Freistaats frei bewegen d\u00fcrfen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "In Sachsen soll ein gesetzlicher Anspruch auf Bildungsurlaub eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Steuermehreinnahmen sollen vorrangig f\u00fcr die Tilgung der Schulden verwendet werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Sch\u00fclerinnen und Sch\u00fcler mit Migrationshintergrund sollen mit allen Sch\u00fclern gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "\u00dcberlange Lkw (\"Gigaliner\") sollen in Sachsen fahren d\u00fcrfen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Projekte gegen Rechtsextremismus sollen weiterhin gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Vermieter sollen sich in Sachsen an regionale Mietobergrenzen halten m\u00fcssen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Staatliche Zahlungen an Kirchen sollen reduziert werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Das letzte Kindergartenjahr vor der Einschulung soll verpflichtend sein.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Bei Kommunalwahlen sollen alle dauerhaft in Sachsen wohnenden Ausl\u00e4nderinnen und Ausl\u00e4nder w\u00e4hlen d\u00fcrfen.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "\u00d6kologische Landwirtschaft soll bei der staatlichen F\u00f6rderung Vorrang vor konventioneller Landwirtschaft haben.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Sachsen soll weiterhin Kulturprojekte von Migrantinnen und Migranten f\u00f6rdern.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Langzeitstudierende sollen weiterhin Studiengeb\u00fchren zahlen m\u00fcssen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Abschaffung des Religionsunterrichts an staatlichen Schulen in Sachsen!",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Sozialwohnungen sollen vorrangig an Deutsche vergeben werden!",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Im Profi-Fu\u00dfball sollen die Vereine an den Kosten f\u00fcr Polizeieins\u00e4tze beteiligt werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Hartz-IV-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie Jobangebote ablehnen.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Bei s\u00e4chsischen Landtagswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "An den Grenzen zu Polen und Tschechien sollen wieder st\u00e4ndige Grenzkontrollen eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "In Sachsen sollen keine weiteren Fl\u00e4chen f\u00fcr Windkraftanlagen ausgewiesen werden.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Das Land Sachsen soll verst\u00e4rkt \u00c4rzte aus dem Ausland anwerben.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "In Sachsen sollen W\u00f6lfe gejagt werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

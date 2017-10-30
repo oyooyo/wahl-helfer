@@ -1,0 +1,284 @@
+{
+	"name": "Europawahl",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "+-~--~--~++--++~-+++-+---+-+-~+-----+-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "++-++~-~-+~+++++-+++~+++~+-+~++++----+",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "++-++-++-+-~+--+-+-+~+++-+-++++++~---+",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "++++---~~--~-+++--++-+---+-+~+----~-++",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "++-++-~+-+--+--+-+-+++++-~~+++++------",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Christlich-Soziale Union in Bayern e.V.",
+			"positions": "++---+--~++-~+-~-~++-+-~-+--+-+-----+-",
+			"short_name": "CSU"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER",
+			"positions": "++---+-~-++--+---+-+-+---+-+++-+-+--+-",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "-----+-~+-++--~------~--+---+----++++-",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+			"positions": "++-++-++-+-+++-+~+-+-~-+-+-++++++~---~",
+			"short_name": "Tierschutzpartei"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "++-~+~-+-++~-+-~-+~+-+~+-+-+++++-+--~-",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "++-++-++-+-+~-~+++-+++~+-+-+++++++--~+",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "++-++-++-++~--+~-+-+-+~+++~++++~------",
+			"short_name": "\u00d6DP"
+		},
+		{
+			"full_name": "Partei Bibeltreuer Christen",
+			"positions": "++-+~-+++++~--+--+-+-+--+--++++~--~~+-",
+			"short_name": "PBC"
+		},
+		{
+			"full_name": "Ab jetzt...Demokratie durch Volksabstimmung - Politik f\u00fcr die Menschen",
+			"positions": "-+--+~++++++-++---~--+~+-+-+++----~~++",
+			"short_name": "Volksabstimmung"
+		},
+		{
+			"full_name": "Bayernpartei",
+			"positions": "-+---~++++++-+~-~~-~-+-+-~-++-+--~+-~-",
+			"short_name": "BP"
+		},
+		{
+			"full_name": "CHRISTLICHE MITTE - F\u00fcr ein Deutschland nach GOTTES Geboten",
+			"positions": "+--~+++++++-----~--~-+--+--++++~---++-",
+			"short_name": "CM"
+		},
+		{
+			"full_name": "AUF - Partei f\u00fcr Arbeit, Umwelt und Familie, Christen f\u00fcr Deutschland",
+			"positions": "--~~-+~~+~++------~--~--+---+~~---+++-",
+			"short_name": "AUF"
+		},
+		{
+			"full_name": "Deutsche Kommunistische Partei",
+			"positions": "~+-+++~+-+-~~-~+~+-+~+-~~-+++++~~----~",
+			"short_name": "DKP"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "--++++----~-~--~---~-+-~~--++-------+-",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "Partei f\u00fcr Soziale Gleichheit, Sektion der Vierten Internationale",
+			"positions": "-+++++-+-+----~+-+-+-+-+--+++~~--+----",
+			"short_name": "PSG"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "-+~--+-+-+~+---~---+-+---+-++----+--+-",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "B\u00fcrgerbewegung PRO NRW",
+			"positions": "-+~-~+-++++----~+------+---++-----++--",
+			"short_name": "PRO NRW"
+		},
+		{
+			"full_name": "Marxistisch-Leninistische Partei Deutschlands",
+			"positions": "~+-+++~+-+-~~-~+-+-+~+-++-+-++~+-~---~",
+			"short_name": "MLPD"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "-~--~~++++~+--+-+------+~~~-++---+++~-",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz,  Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "+~-+++++-+-+~-++~+-+-+-+---++++-----++",
+			"short_name": "Die PARTEI"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Deutschland soll den Euro als W\u00e4hrung behalten.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Es sollen EU-weite gemeinsame B\u00fcrgerentscheide eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Der Anbau von gentechnisch ver\u00e4nderten Pflanzen soll in der Europ\u00e4ischen Union erlaubt sein.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Die EU-Mitgliedsstaaten sollen mehr Fl\u00fcchtlinge aufnehmen.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Einf\u00fchrung eines EU-weiten Mindestlohns, dessen H\u00f6he abh\u00e4ngig vom Durchschnittseinkommen im jeweiligen Mitgliedsstaat ist!",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll keine neuen Mitgliedsstaaten aufnehmen.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll ausschlie\u00dflich \u00f6kologische Tierhaltung f\u00f6rdern.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Edward Snowden soll in einem EU-Mitgliedsstaat Asyl gew\u00e4hrt werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "EU-B\u00fcrger sollen Sozialleistungen nur von ihrem Heimatland empfangen k\u00f6nnen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Einf\u00fchrung einer Steuer auf den Handel mit Finanzprodukten!",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll sich als christliche Wertegemeinschaft verstehen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll die finanzielle Unterst\u00fctzung der Landwirtschaft deutlich verringern.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "In der Europ\u00e4ischen Union: Einf\u00fchrung einer verbindlichen Frauenquote in den Aufsichtsr\u00e4ten b\u00f6rsennotierter Unternehmen!",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Die EU-Mitgliedsstaaten sollen eine gemeinsame Armee schaffen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Der Pr\u00e4sident der Europ\u00e4ischen Kommission soll von den B\u00fcrgerinnen und B\u00fcrgern der Europ\u00e4ischen Union direkt gew\u00e4hlt werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "In der Europ\u00e4ischen Union geschlossene gleichgeschlechtliche Ehen sollen von allen Mitgliedsstaaten anerkannt werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll zum Schutz heimischer Produkte verst\u00e4rkt Z\u00f6lle erheben.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll sich h\u00f6here Ziele zur Reduzierung des CO2-Aussto\u00dfes setzen.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll ein Freihandelsabkommen mit den USA abschlie\u00dfen.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Alle Staaten der Eurozone sollen f\u00fcr die Kreditaufnahme der anderen Staaten haften k\u00f6nnen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "In der Europ\u00e4ischen Union erworbene Berufsabschl\u00fcsse sollen EU-weit anerkannt werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Deutschland soll sich f\u00fcr einen Beitritt der T\u00fcrkei zur Europ\u00e4ischen Union einsetzen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Einf\u00fchrung eines EU-weiten Mindestsatzes f\u00fcr die Besteuerung von Unternehmen!",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Die Inanspruchnahme sexueller Dienstleistungen gegen Bezahlung soll strafbar sein.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Die gemeinsame Au\u00dfenpolitik der Europ\u00e4ischen Union soll ausgebaut werden.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Alle Banken sollen verstaatlicht werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "In allen L\u00e4ndern der Europ\u00e4ischen Union sollen gleiche Regeln f\u00fcr die Aufnahme von Asylsuchenden gelten.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "\u00dcber \u00c4nderungen der EU-Vertr\u00e4ge soll auch in Deutschland per Volksabstimmung entschieden werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Bei der Infrastrukturf\u00f6rderung durch die Europ\u00e4ische Union: Schiene vor Stra\u00dfe!",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll mehr Geld f\u00fcr die Entwicklungshilfe bereitstellen.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll weiterhin Produkte mit niedriger Energieeffizienz verbieten d\u00fcrfen.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll durch die Einf\u00fchrung eigener Steuern Teile ihres Haushaltes decken k\u00f6nnen.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "In der Europ\u00e4ischen Union soll jeder Erwachsene Organspender sein, wenn er keinen Widerspruch eingelegt hat.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die finanziellen Mittel f\u00fcr wirtschaftlich schw\u00e4chere Regionen in der Europ\u00e4ischen Union sollen reduziert werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "An deutschen Grenzen sollen wieder generelle Ausweiskontrollen eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "\u00dcber die H\u00f6he von Managergeh\u00e4ltern sollen Unternehmen frei entscheiden k\u00f6nnen.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Die Europ\u00e4ische Union soll sich langfristig zu einem europ\u00e4ischen Bundesstaat entwickeln.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

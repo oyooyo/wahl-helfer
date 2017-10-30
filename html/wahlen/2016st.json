@@ -1,0 +1,229 @@
+{
+	"name": "Landtagswahl Sachsen-Anhalt",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "+-++--+-++~++--++--+--~-++-++-+++-+-~-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "++-+++-+--+--++~----+-++--+--++-++-+-+",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "-+++++----+++++----+~-++---++++-++++++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "++-++--+--++-+++----+-++~-+~-++--+-+++",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "+-~-++--++---+-+-+-+-++--++---+++-+-++",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "++++----+-+++~+-+--++--+++--+++-~~++--",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER",
+			"positions": "++~+++--+-~-~-++~--~+-++-+-~+--~++-~++",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+			"positions": "+~++++--+-+--+++--+-~-++++--~---+~-~++",
+			"short_name": "Tierschutzpartei"
+		},
+		{
+			"full_name": "Allianz f\u00fcr Fortschritt und Aufbruch",
+			"positions": "-~+++-+-+++~+--+--++~-~--+-~~--+-+-~++",
+			"short_name": "ALFA"
+		},
+		{
+			"full_name": "Allianz f\u00fcr Menschenrechte, Tier- und Naturschutz",
+			"positions": "+~-++~+~~-+--+-+--+-+-++++~++++-~+~+++",
+			"short_name": "Tierschutzallianz"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "~~+-+~~-+~--~+++++-+-++-++~~+--~+~+-++",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "DIE RECHTE",
+			"positions": "+-~-+++-++--~+++++++-++-~+++---++++-++",
+			"short_name": "DIE RECHTE"
+		},
+		{
+			"full_name": "Freie B\u00fcrger Mitteldeutschland",
+			"positions": "+-+++---+---++-+--++-+++-+-+---++~---+",
+			"short_name": "FBM"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "++++++-+--+---+---+-+-++--+~-+---+-+++",
+			"short_name": "Die PARTEI"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Das Land soll den fl\u00e4chendeckenden Ausbau des Mobilfunks finanziell unterst\u00fctzen.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Asylbewerberinnen und -bewerber sollen dezentral in Wohnungen untergebracht werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "In Sachsen-Anhalt soll weiterhin Braunkohle abgebaut werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Das Land soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Der Anbau von gentechnisch ver\u00e4nderten Pflanzen soll in Sachsen-Anhalt verboten sein.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Alle Bachelorabsolventinnen und -absolventen in Sachsen-Anhalt sollen einen Rechtsanspruch auf einen Masterstudienplatz im Land erhalten.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung im \u00f6ffentlichen Raum soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Sachsen-Anhalt soll sich daf\u00fcr einsetzen, dass die Erbschaftssteuer erh\u00f6ht wird.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Abgelehnte Asylbewerberinnen und -bewerber sollen weiterhin ohne Vorank\u00fcndigung abgeschoben werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Beim Wechsel auf die weiterf\u00fchrende Schule soll die Empfehlung der Grundschullehrerinnen und -lehrer wieder verbindlich sein.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "F\u00fcr l\u00e4ndliche Regionen sollen verst\u00e4rkt \u00c4rztinnen und \u00c4rzte aus dem Ausland angeworben werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die F\u00fcnfprozenth\u00fcrde bei Landtagswahlen soll beibehalten werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Hartz-IV-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie ein Job-Angebot ablehnen.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "G\u00fcterz\u00fcge ohne \"Fl\u00fcsterbremsen\" sollen nachts langsamer fahren m\u00fcssen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Bei Gro\u00dfeins\u00e4tzen sollen alle Polizistinnen und Polizisten eine individuelle Kennung tragen m\u00fcssen.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Das letzte Kindergartenjahr vor der Einschulung soll beitragsfrei sein.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Saale und Elbe sollen durch einen Kanal f\u00fcr die Schifffahrt miteinander verbunden werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Wohngeld soll nur an Deutsche gezahlt werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Im Profifu\u00dfball sollen die Veranstalter an den Kosten f\u00fcr Polizeieins\u00e4tze bei Risikospielen beteiligt werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Langzeitstudierende sollen weiterhin Studiengeb\u00fchren zahlen m\u00fcssen.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "In Sachsen-Anhalt sollen weitere Fl\u00e4chen f\u00fcr Windkraftanlagen ausgewiesen werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "B\u00fcrgerwehren sollen die Polizei unterst\u00fctzen d\u00fcrfen.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Keine weiteren Privatisierungen von Krankenh\u00e4usern in Sachsen-Anhalt!",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Sachsen-Anhalt soll sich daf\u00fcr einsetzen, dass homosexuelle Paare gemeinsam Kinder adoptieren d\u00fcrfen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Die Schuldenbremse soll in die Landesverfassung von Sachsen-Anhalt aufgenommen werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "In Sachsen-Anhalt sollen F\u00f6rderschulen f\u00fcr Kinder und Jugendliche mit Behinderungen langfristig erhalten bleiben.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Der Verfassungsschutz des Landes Sachsen-Anhalt soll abgeschafft werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Einf\u00fchrung einer Impfpflicht f\u00fcr alle Kinder in Sachsen-Anhalt!",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Konfessioneller Religionsunterricht soll weiterhin an allen Schulen Sachsen-Anhalts angeboten werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Alle dauerhaft in Sachsen-Anhalt lebenden Ausl\u00e4nderinnen und Ausl\u00e4nder sollen an Kommunalwahlen teilnehmen d\u00fcrfen.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Zur Aufarbeitung der SED-Diktatur sollen mehr Landesmittel zur Verf\u00fcgung gestellt werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Auch der Besitz von nur geringen Mengen Cannabis soll strafrechtlich verfolgt werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Sachsen-Anhalt soll sich daf\u00fcr einsetzen, dass die Wirtschaftssanktionen gegen Russland aufgehoben werden.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Leiharbeiterinnen und -arbeiter sollen ab dem ersten Arbeitstag mindestens den gleichen Lohn erhalten wie regul\u00e4r Besch\u00e4ftigte.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die Bundeswehr soll an den Schulen Sachsen-Anhalts f\u00fcr den Soldatenberuf werben d\u00fcrfen.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Fl\u00fcchtlingen soll der Zugang zu medizinischer Versorgung erleichtert werden.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Das Land soll Auszubildende, die f\u00fcr ihre erste Berufsausbildung Geld bezahlen m\u00fcssen, finanziell unterst\u00fctzen.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Landwirtschaftliche Betriebe sollen zu Ma\u00dfnahmen verpflichtet werden, die zum Schutz der Bienen beitragen.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

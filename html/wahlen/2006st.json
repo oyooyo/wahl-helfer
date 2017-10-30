@@ -1,0 +1,152 @@
+{
+	"name": "Landtagswahl Sachsen-Anhalt",
+	"parties": [
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "--++++-+--+++-++----+++-+++++-",
+			"short_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN"
+		},
+		{
+			"full_name": "CDU",
+			"positions": "+---+-+++---~----++-+--+---~--",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "DIE LINKE.PDS",
+			"positions": "-+++-+-+~--+++++-----+++++-++-",
+			"short_name": "DIE LINKE.PDS"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "-+---+--++++----+-+++~+~-----+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "-~-+~+-++-~++-++---+-+++-+-++-",
+			"short_name": "SPD"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Weiterer Ausbau der Elbe f\u00fcr den G\u00fctertransport!",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "PKW-F\u00fchrerschein ab 17 Jahren!",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Unternehmen, die trotz vorhandener M\u00f6glichkeiten nicht ausbilden, sollen eine Abgabe leisten.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Die gemeinsame Schulzeit soll bis zur achten Klasse ausgeweitet werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Gesetzliches Rauchverbot an Schulen!",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Volksentscheide auf Landesebene sollen erleichtert werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Video\u00fcberwachung \u00f6ffentlicher Pl\u00e4tze weiter ausbauen!",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Ausbau eines fl\u00e4chendeckenden Radwegenetzes in Sachsen-Anhalt durch Landesmittel!",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Den Anbau von gentechnisch ver\u00e4nderten Pflanzen in Sachsen-Anhalt f\u00f6rdern.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Die Gewerbesteuer soll abgeschafft werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Ausbildungsrecht auch f\u00fcr Betriebe ohne Meister/-innen!",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Zur Berufsvorbereitung: Mehr verpflichtende Betriebspraktika w\u00e4hrend der Schulzeit!",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Fl\u00e4chendeckende Einf\u00fchrung von Ganztagsschulen in Sachsen-Anhalt!",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Stopp des Stellenabbaus im \u00f6ffentlichen Dienst!",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Weitere Zusammenlegung von Landkreisen, auch nach der Gebietsreform 2006.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Anstatt neue Deiche zu bauen sollen die nat\u00fcrlichen Flussauen wieder als \u00dcberschwemmungsgebiete genutzt werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Keine neuen Windkraftanlagen in Sachsen-Anhalt!",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Einf\u00fchrung von ehrenamtlichen B\u00fcrgerwehren zur Unterst\u00fctzung der Polizei.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Einf\u00fchrung von Geb\u00fchren f\u00fcr das Erststudium in Sachsen-Anhalt!",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Verpflichtende Sprachtests vor der Einschulung!",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Die Gr\u00fcndung von Privatschulen soll erleichtert werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "W\u00e4hlen ab 16 Jahren bei Landtagswahlen!",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Homosexuelle Partnerschaften sollen der Ehe gleichgestellt werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Strom soll auch in Zukunft aus der heimischen Braunkohle erzeugt werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Legalisierung von \"weichen\" Drogen (Haschisch, Marihuana)!",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Sachsen-Anhalt soll sich f\u00fcr die Einf\u00fchrung eines Mindestlohns einsetzen.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Fremdsprachlicher Unterricht im Kindergarten soll verpflichtend werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Mehr Landesmittel f\u00fcr die \u00f6kologische Landwirtschaft!",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Jedes Kind soll einen Anspruch auf \u00f6ffentliche Ganztagsbetreuung von acht Stunden haben.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "V\u00f6llige Freigabe der Laden\u00f6ffnungszeiten in Sachsen-Anhalt!",
+			"topic": "Aussage Nr. 29"
+		}
+	]
+}

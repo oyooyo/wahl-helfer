@@ -1,0 +1,229 @@
+{
+	"name": "Landtagswahl Rheinland-Pfalz",
+	"parties": [
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "~+-+~+++~--++-++-~+++-~+++--~+-+-+++++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "-++++---+-+-+-~--~+++-++++~+-+++--++++",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+--+-+++---+~-++-++++---+---++-++++--+",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "-+--+---+-++---~+-+++~++-+~--~++-++-++",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "---+-+-+--++-~++-+++---~+---++~+++---+",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER",
+			"positions": "++--++----+~-+---++---++-+-++~+++-++++",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "+~-~-+~+--++~+~+-+-+--------+++++++-+~",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "+~-+++--+++---+--+---+-+---++-+-+-+-+-",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "+-++++-+-++--++--+-+-+-+--+++-+---+++-",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "+-++++-+--++-++--++~--~+----++-++++~-+",
+			"short_name": "\u00d6DP"
+		},
+		{
+			"full_name": "Allianz f\u00fcr Fortschritt und Aufbruch",
+			"positions": "++--+---+~+~+-+-~----~++-+++--++--++++",
+			"short_name": "ALFA"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "-++-+----++--+--++---+++-+~++-~+--++++",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "DER DRITTE WEG",
+			"positions": "+-~+++-+-++--+~~-+-+-+++-~-++-+-+-+-+-",
+			"short_name": "III. Weg"
+		},
+		{
+			"full_name": "DIE EINHEIT",
+			"positions": "~--+++-+--~-++---+-++~-+-~++++~~-+++++",
+			"short_name": "DIE EINHEIT"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Das Land soll vorrangig \u00f6kologischen Weinbau f\u00f6rdern.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Im Oberen Mittelrheintal soll eine Rheinbr\u00fccke gebaut werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Kommunen sollen sozial gestaffelte Geb\u00fchren f\u00fcr Kita-Pl\u00e4tze einf\u00fchren d\u00fcrfen.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Rheinland-Pfalz soll die W\u00e4rmed\u00e4mmung von H\u00e4usern mit Landesmitteln f\u00f6rdern.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Asylbewerberinnen und Asylbewerber sollen verst\u00e4rkt Sachleistungen statt Geldleistungen erhalten.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Keine weitere Privatisierung von Krankenh\u00e4usern!",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "In der ersten und zweiten Klasse der Grundschule soll weiterhin nach der Methode \"Schreiben nach Geh\u00f6r\" unterrichtet werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Polizistinnen und Polizisten sollen bei Gro\u00dfeins\u00e4tzen weiterhin eine individuelle Kennung tragen m\u00fcssen.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Lang-LKW (\"Gigaliner\") sollen in Rheinland-Pfalz versuchsweise fahren d\u00fcrfen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Deutsche sollen bei der Vergabe von Sozialwohnungen bevorzugt werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Zusammenlegung von Verbandsgemeinden nur mit deren Zustimmung!",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Rheinland-Pfalz soll sich daf\u00fcr einsetzen, dass gleichgeschlechtliche Paare gemeinsam Kinder adoptieren d\u00fcrfen.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Rheinland-Pfalz soll verst\u00e4rkt \u00c4rztinnen und \u00c4rzte aus dem Ausland anwerben.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Im Profifu\u00dfball sollen die Veranstalter an den Kosten f\u00fcr Polizeieins\u00e4tze beteiligt werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Die Entscheidung \u00fcber die Standorte f\u00fcr Windkraftanlagen sollen weiterhin die Kommunen treffen.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Muslimische Frauen sollen sich in der \u00d6ffentlichkeit voll verschleiern d\u00fcrfen.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "In rheinland-pf\u00e4lzischen St\u00e4dten soll keine Mietpreisbremse gelten.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Der Anbau von gentechnisch ver\u00e4nderten Pflanzen soll in Rheinland-Pfalz verboten werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "An rheinland-pf\u00e4lzischen Schulen soll fl\u00e4chendeckend islamischer Religionsunterricht angeboten werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Eine abgeschlossene Berufsausbildung soll als Zugangsberechtigung f\u00fcr ein Studium anerkannt werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Die F\u00fcnfprozenth\u00fcrde bei Landtagswahlen soll beibehalten werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Rheinland-Pfalz soll keine weiteren Fl\u00fcchtlinge aufnehmen.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Die Bundeswehr soll an Schulen f\u00fcr den Soldatenberuf werben d\u00fcrfen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Ausgeglichener Landeshaushalt: Rheinland-Pfalz soll bereits vor dem Jahr 2020 nicht mehr Geld ausgeben als einnehmen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Bei der Besetzung von F\u00fchrungspositionen in landeseigenen Betrieben soll eine verbindliche Frauenquote gelten.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Hartz IV-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie ein Jobangebot ablehnen.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Das Land soll weniger Mittel f\u00fcr den Nationalpark Hunsr\u00fcck-Hochwald zur Verf\u00fcgung stellen.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Asylbewerberinnen und Asylbewerber sollen sich nur in dem Landkreis aufhalten d\u00fcrfen, in dem sie untergebracht sind.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Rheinland-Pfalz soll sich f\u00fcr den Stopp der Verhandlungen \u00fcber das transatlantische Freihandelsabkommen (TTIP) einsetzen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen im Polizeidienst arbeiten.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "In Rheinland-Pfalz soll ein landesweites Zentralabitur eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Projekte gegen Rechtsextremismus sollen vom Land weiterhin gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Am Flughafen Hahn soll es ein Nachtflugverbot geben.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Bei Kommunalwahlen sollen alle dauerhaft in Rheinland-Pfalz wohnenden Ausl\u00e4nderinnen und Ausl\u00e4nder w\u00e4hlen d\u00fcrfen.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Das Gymnasium soll in Rheinland-Pfalz langfristig als Schulform erhalten bleiben.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung im \u00f6ffentlichen Raum soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Die B10 zwischen Landau und Pirmasens soll vierspurig ausgebaut werden.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Das Land soll sich weiterhin daf\u00fcr einsetzen, dass Worms, Speyer und Mainz als ehemalige Zentren j\u00fcdischen Lebens in das UNESCO-Welterbe aufgenommen werden.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

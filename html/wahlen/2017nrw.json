@@ -1,0 +1,304 @@
+{
+	"name": "Landtagswahl Nordrhein-Westfalen",
+	"parties": [
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "--+++-++-~~--+-+-+++--+---++-----~~-++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "--+++-++-+~-++-+~~+-+-+---+-+++-~++~+-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "--~+~+++-~++-+++-+++--+~-~++---+----++",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "-++++----++-++-++-+-+-+---+-+-+-++-+++",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "-+~+-+-+--++~+-+-+++--~+-~++-------+++",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "+--+-+++--++-+++-+++---+-+++--~+----++",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "+--++-++~-+-+---~+-+-++~+--+-++--+~+-+",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "-+~+-~++~~++~+~+~+++~-~+-+++~-~+~-~++~",
+			"short_name": "Die PARTEI"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER Nordrhein-Westfalen",
+			"positions": "-++-+~+++~--++-~-~+~+-+---+-~+--~++-++",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "B\u00fcndnis f\u00fcr Innovation & Gerechtigkeit",
+			"positions": "-+-+--~++-++++++-++++-+-~~+++-+---+-++",
+			"short_name": "BIG"
+		},
+		{
+			"full_name": "Freie B\u00fcrger-Initiative/ Freie W\u00e4hler",
+			"positions": "---++++++--+------~---+------++-+++--+",
+			"short_name": "FBI/FWG"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "+--+-+++++++++-+-+++~-+--~++~+~---~-++",
+			"short_name": "\u00d6DP"
+		},
+		{
+			"full_name": "Ab jetzt...Demokratie durch Volksabstimmung",
+			"positions": "+++++-+++--++--+-+-+-++++-----+-++---+",
+			"short_name": "Volksabstimmung"
+		},
+		{
+			"full_name": "Aktion Partei f\u00fcr Tierschutz",
+			"positions": "++~+--+-++++++-+-+++--~~-~+~+++---+~++",
+			"short_name": "TIERSCHUTZliste"
+		},
+		{
+			"full_name": "Allianz Deutscher Demokraten",
+			"positions": "++-++++++--++++---++----+++--++--+++++",
+			"short_name": "AD-Demokraten NRW"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "+~+++-~-++--+---+~-~-~~-------+-++-+~+",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "AUFBRUCH C",
+			"positions": "+--+++-++-~~++~+-~+---+-+-+---+--+~+++",
+			"short_name": "AUFBRUCH C"
+		},
+		{
+			"full_name": "B\u00fcndnis Grundeinkommen",
+			"positions": "~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~-~~~+",
+			"short_name": "BGE"
+		},
+		{
+			"full_name": "Demokratische B\u00fcrger Deutschland",
+			"positions": "+--+++-++~++++--~+++--+---+--+---+++++",
+			"short_name": "DBD"
+		},
+		{
+			"full_name": "Deutsche Kommunistische Parte",
+			"positions": "+--+-++++-++-+++-+++-----+++---+----++",
+			"short_name": "DKP"
+		},
+		{
+			"full_name": "Deutsche Zentrumspartei - \u00c4lteste Partei Deutschlands gegr\u00fcndet 1870",
+			"positions": "+++++--+-+--+~+-+--++-+---+-~+--+~++-+",
+			"short_name": "ZENTRUM"
+		},
+		{
+			"full_name": "DIE RECHTE",
+			"positions": "+-+~+-++---~+--------+--++-+--+----+-+",
+			"short_name": "DIE RECHTE"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "+-+++--+-++++--~---~+++~++---+--~~++-+",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "Die Violetten - f\u00fcr spirituelle Politik",
+			"positions": "+~-+~++++-++-++~-+++---+-+++~-++--++++",
+			"short_name": "DIE VIOLETTEN"
+		},
+		{
+			"full_name": "Jugend- und Entwicklungspartei Deutschlands",
+			"positions": "+-~++--++-+-++-+-++~--+---+++-++-+--++",
+			"short_name": "JED"
+		},
+		{
+			"full_name": "Marxistisch-Leninistische Partei Deutschlands",
+			"positions": "~--+-++++-++~++~-+++---+-+++~-+++---++",
+			"short_name": "MLPD"
+		},
+		{
+			"full_name": "Partei f\u00fcr Gesundheitsforschung",
+			"positions": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+			"short_name": "Gesundheitsforschung"
+		},
+		{
+			"full_name": "Sch\u00f6ner Leben",
+			"positions": "-+++~~+++~+~++++-+++-~-+-+++--++~~-+++",
+			"short_name": "Sch\u00f6ner Leben"
+		},
+		{
+			"full_name": "V-Partei\u00b3 - Partei f\u00fcr Ver\u00e4nderung, Vegetarier und Veganer",
+			"positions": "++-+~+++++++++-+-+++-----++++-+-----++",
+			"short_name": "V-Partei\u00b3"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Das Abitur soll an allen Gymnasien in Nordrhein-Westfalen wieder ausschlie\u00dflich nach neun Jahren (G9) abgelegt werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Gesch\u00e4fte sollen frei \u00fcber ihre \u00d6ffnungszeiten an Sonntagen entscheiden k\u00f6nnen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Der Rhein soll in Nordrhein-Westfalen f\u00fcr die Schifffahrt vertieft werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Die Kita-Geb\u00fchren sollen vollst\u00e4ndig abgeschafft werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Das Land soll abgelehnte Asylbewerberinnen und -bewerber konsequent abschieben.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Sofortiger Ausstieg aus dem Braunkohleabbau!",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Nordrhein-Westfalen soll Daten \u00fcber Steuervergehen kaufen, auch wenn diese Informationen gestohlen wurden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Das Land Nordrhein-Westfalen soll mehr Geld in den sozialen Wohnungsbau investieren.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Bei Fu\u00dfball-Bundesligaspielen sollen sich die Veranstalter an den Kosten f\u00fcr die Polizei-Eins\u00e4tze beteiligen m\u00fcssen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "F\u00fcr Pflichtpraktika soll weiterhin kein Mindestlohn gezahlt werden m\u00fcssen.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "In allen Kommunen in Nordrhein-Westfalen soll es Kinder- und Jugendr\u00e4te geben m\u00fcssen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "In Nordrhein-Westfalen sollen nur noch \u00f6kologische Tierhaltungsbetriebe zugelassen werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die Grunderwerbssteuer soll wieder gesenkt werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Das Land soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Alle Sch\u00fclerinnen und Sch\u00fcler sollen bis zur 10. Klasse gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Nordrhein-Westfalen soll die Wiedereingliederung von Straft\u00e4terinnen und Straft\u00e4tern st\u00e4rker finanziell unterst\u00fctzen.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Die Mietpreisbremse in nordrhein-westf\u00e4lischen St\u00e4dten soll abgeschafft werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Nordrhein-Westfalen soll die Landesmittel zur Einrichtung von Radschnellwegen deutlich erh\u00f6hen.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Alle Fl\u00fcchtlinge sollen Zugang zum deutschen Bildungssystem haben.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Auf dem Gebiet des Truppen\u00fcbungsplatzes Senne im Teutoburger Wald soll ein Nationalpark eingerichtet werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Private Investoren sollen an der Finanzierung des Ausbaus der Verkehrswege in Nordrhein-Westfalen beteiligt werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Wohngeld soll nur an Deutsche gezahlt werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Die Hochschulen des Landes sollen enger mit privaten Unternehmen zusammenarbeiten.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Das Land soll die Schulden \u00fcberschuldeter Kommunen vollst\u00e4ndig \u00fcbernehmen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "In den Schulb\u00fcchern soll nur das traditionelle Familienbild (Vater, Mutter und Kinder) vermittelt werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Nordrhein-Westfalen soll sich daf\u00fcr einsetzen, dass die Wochenarbeitszeit bei vollem Lohnausgleich langfristig auf 30 Stunden verk\u00fcrzt wird.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Das Land soll Projekte zur Integration von Migrantinnen und Migranten f\u00f6rdern.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Bei Landtagswahlen soll das Wahlalter auf 16 Jahre gesenkt werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Nordrhein-Westfalen soll verst\u00e4rkt Pflegekr\u00e4fte aus dem Ausland anwerben.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Die Polizei in Nordrhein-Westfalen soll verdachtsunabh\u00e4ngige Personenkontrollen durchf\u00fchren k\u00f6nnen.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "In Waldgebieten sollen keine Fl\u00e4chen f\u00fcr Windkraftanlagen ausgewiesen werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Alle Sch\u00fclerinnen und Sch\u00fcler mit Behinderungen sollen ausschlie\u00dflich an Regelschulen unterrichtet werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "J\u00e4gerinnen und J\u00e4ger sollen in Nordrhein-Westfalen wildernde Katzen wieder abschie\u00dfen d\u00fcrfen.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Hartz-IV-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie Jobangebote ablehnen.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung auf Stra\u00dfen und Pl\u00e4tzen soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Die Betreiber von Gastst\u00e4tten sollen selbst entscheiden d\u00fcrfen, ob Rauchen in ihrem Lokal erlaubt ist.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen im Polizeidienst arbeiten.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Die H\u00fcrden f\u00fcr Volksbegehren sollen gesenkt werden.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

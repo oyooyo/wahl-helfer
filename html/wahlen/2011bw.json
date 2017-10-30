@@ -1,0 +1,254 @@
+{
+	"name": "Landtagswahl Baden-W\u00fcrttemberg",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "+---+--~+~--+-------+-+-+---~--+--+-+-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "+-+---+-+++++--+--+-++--+~++++-+-+-++-",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "-+++----+++++--+-++-++---+++++-~-+-++-",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "+--~---++++-++~---+++----+-----+----+-",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "-++---+-+-+++-++--+-++-++++~+++-~+-+++",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "----++--~+--~~--++-~-++++-~-+-+++-++-~",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "~-++-+---+-+----++---+-++---+--+++-+-+",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Partei Bibeltreuer Christen",
+			"positions": "~-++++--++--+----++-+++--+-+--++-~-+++",
+			"short_name": "PBC"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei / Familie und Umwelt",
+			"positions": "-++---+-+++++--+-++-++++++++++++-+-+++",
+			"short_name": "\u00f6dp"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "-+++--+-+++++-++-+++++++++--++++--+-++",
+			"short_name": "Die PARTEI"
+		},
+		{
+			"full_name": "Revolution\u00e4r Sozialistischer Bund / Vierte Internationale",
+			"positions": "-++~--+-+-+++-+~-++-++~+~+~++~+-++-+~+",
+			"short_name": "RSB"
+		},
+		{
+			"full_name": "AUF - Partei f\u00fcr Arbeit, Umwelt und Familie, Christen f\u00fcr Deutschland",
+			"positions": "~-+--~+-++-++----+--+-+++~+++-++-+-+++",
+			"short_name": "AUF"
+		},
+		{
+			"full_name": "B\u00fcndnis f\u00fcr Innovation und Gerechtigkeit",
+			"positions": "+++-+-+-++-++--+--+-+-+-+------+-+-++-",
+			"short_name": "BIG"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "+-----~-+-~++~------++~--+~-+-~----++~",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "Die Violetten - f\u00fcr spirituelle Politik",
+			"positions": "-++~--+-+++++-++-+++++++-+--+~~-++-++-",
+			"short_name": "DIE VIOLETTEN"
+		},
+		{
+			"full_name": "Deutsche Kommunistische Partei",
+			"positions": "-++---+-+-+++-+--++-++-++++-++--++-+++",
+			"short_name": "DKP"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "--+---+-+++++--+-++-++++++~+-~~~++-+~+",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "-~++--~-+++++-++-++-++-++~-++-+~~+-++-",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "Ab jetzt... B\u00fcndnis f\u00fcr Deutschland, f\u00fcr Demokratie durch Volksabstimmung",
+			"positions": "~~~-~~-~~++--~-~-++--~++~-+~+-+-++++-~",
+			"short_name": "Volksabstimmung"
+		}
+	],
+	"theses": [
+		{
+			"statement": "In Stuttgart soll der unterirdische Durchgangsbahnhof (\"Stuttgart 21\") zu Ende gebaut werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "In Baden-W\u00fcrttemberg soll die Hauptschule abgeschafft werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Das Land soll sich daf\u00fcr einsetzen, dass die Laufzeitverl\u00e4ngerung f\u00fcr Kernkraftwerke wieder r\u00fcckg\u00e4ngig gemacht wird.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "In Baden-W\u00fcrttemberg soll der Verkauf von alkoholischen Getr\u00e4nken in Gesch\u00e4ften und an Tankstellen nach 22 Uhr wieder erlaubt sein.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll sich f\u00fcr die Einf\u00fchrung einer Pkw-Maut auf Autobahnen einsetzen.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Der Bau von Moscheen soll in Baden-W\u00fcrttemberg verboten werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Betriebe, die keine Ausbildungspl\u00e4tze anbieten, sollen eine Abgabe zahlen m\u00fcssen.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "In Baden-W\u00fcrttemberg sollen weitere Krankenh\u00e4user privatisiert werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Alle Kinder sollen ungeachtet ihres kulturellen Hintergrundes gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll eine Begrenzung staatlicher Schulden (\"Schuldenbremse\") in der Landesverfassung verankern.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Eingetragene Partnerschaften (\"Homo-Ehen\") sollen auch in Baden-W\u00fcrttemberg auf dem Standesamt geschlossen werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll sich f\u00fcr einen fl\u00e4chendeckenden gesetzlichen Mindestlohn einsetzen.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Das Land soll Projekte zur Integration von Ausl\u00e4ndern und Ausl\u00e4nderinnen f\u00f6rdern.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "In Baden-W\u00fcrttemberg soll der Anbau von gentechnisch ver\u00e4nderten Pflanzen erleichtert werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Religi\u00f6se Bez\u00fcge sollen aus der baden-w\u00fcrttembergischen Landesverfassung gestrichen werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die gemeinsame Grundschulzeit soll mindestens bis zur sechsten Klasse ausgeweitet werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Nur Deutsche sollen einen Anspruch auf Sozialleistungen haben.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "In den Aufsichtsgremien der \u00f6ffentlich-rechtlichen Medien sollen keine Mitglieder der Landesregierung mehr vertreten sein.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Polizisten und Polizistinnen sollen bei Gro\u00dfeins\u00e4tzen eine gut lesbare, individuelle Kennung tragen m\u00fcssen.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Die Gewerbesteuer soll abgeschafft werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Das Land soll weiterhin Projekte und Programme gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Wiedereinf\u00fchrung des 9-j\u00e4hrigen Gymnasiums (\"G9\") in Baden-W\u00fcrttemberg.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Eltern, die ihre Kinder ausschlie\u00dflich zu Hause erziehen, sollen eine finanzielle Unterst\u00fctzung (\"Betreuungsgeld\") erhalten.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll sich f\u00fcr ein Verbot von Unternehmensspenden an Parteien einsetzen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Das letzte Kindergartenjahr vor der Einschulung soll in Baden-W\u00fcrttemberg verpflichtend sein.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Asylbewerber und Asylbewerberinnen sollen eine uneingeschr\u00e4nkte Arbeitserlaubnis erhalten.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll Informationen \u00fcber Steuerhinterzieher und Steuerhinterzieherinnen  kaufen, auch wenn diese Daten gestohlen worden sind.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Absolutes Rauchverbot in allen Gastst\u00e4tten und Restaurants in Baden-W\u00fcrttemberg!",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "In Baden-W\u00fcrttemberg soll die kommunale Grundversorgung (Wasser, Strom, Gas, Abfall)  vollst\u00e4ndig in \u00f6ffentlicher Hand sein.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "In Aufsichtsr\u00e4ten von Unternehmen soll eine gesetzliche Frauenquote gelten.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Bei gro\u00dfen Sportereignissen soll der Veranstalter die Kosten f\u00fcr den Polizei-Einsatz komplett selbst tragen.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "\"Hartz IV\"-Empf\u00e4ngern/innen sollen auch weiterhin Leistungen gek\u00fcrzt werden, wenn sie ein Jobangebot ablehnen.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Der baden-w\u00fcrttembergische Landesverfassungsschutz soll abgeschafft werden.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "In Baden-W\u00fcrttemberg: W\u00e4hlen ab 16 Jahren bei Landtagswahlen!",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung auf \u00f6ffentlichen Pl\u00e4tzen!",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "An \u00f6ffentlichen Universit\u00e4ten in Baden-W\u00fcrttemberg: Abschaffung der Geb\u00fchren f\u00fcr das Erststudium.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen im Polizeidienst arbeiten.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "In Baden-W\u00fcrttemberg sollen verkaufsoffene Sonntage ausnahmslos abgeschafft werden.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

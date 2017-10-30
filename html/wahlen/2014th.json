@@ -1,0 +1,219 @@
+{
+	"name": "Landtagswahl Th\u00fcringen",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "-+-+-++++++++---+++~++++~+-+--++--~++-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "+--++-+-+-+++++++-------+++------+--++",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "-~-++-++~~+~+++-+---+-~-+++---+-++--++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "---+-+++~+++++--+-++-+++-++~-++--~+-+~",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+-+++-+-~~+~+~+++----~+-+++---+-~~+-++",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "-+---+-+++-+-+++-++++-++~-+++-+-+--+-+",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER in Th\u00fcringen",
+			"positions": "--+--++-++++++++~-~-+--+++++--+++----+",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "-+-~-+--++-+~--+-++++-+++--++-++--+++-",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "-~---+-+~+~~~--~-~+~+~~+--~+~-+-+-++~-",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "Kommunistische Partei Deutschlands",
+			"positions": "---+--+-~-+-++++---~---++++------+-+-+",
+			"short_name": "KPD"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "-+-+++++---++-+-+-+~+---++-+-+++-+-+-+",
+			"short_name": "Die PARTEI"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "--~~--+~+-+-++~+~--~-~-~+++--~+-~-+--+",
+			"short_name": "PIRATEN"
+		}
+	],
+	"theses": [
+		{
+			"statement": "An allen Schulen im Freistaat: Sitzenbleiben abschaffen!",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Das Land Th\u00fcringen soll sich weiterhin am Betrieb des Flughafens Erfurt-Weimar beteiligen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Rauchen soll in allen th\u00fcringischen Gastst\u00e4tten und Diskotheken ausnahmslos verboten werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Th\u00fcringen soll Fanprojekte gegen Gewalt im Fu\u00dfball mit Landesmitteln unterst\u00fctzen.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Einf\u00fchrung einer verpflichtenden Frauenquote f\u00fcr die Aufsichtsr\u00e4te landeseigener Unternehmen.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "In den W\u00e4ldern Th\u00fcringens sollen keine Windkraftr\u00e4der errichtet werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Fl\u00fcchtlingen soll der Zugang zu medizinischer Versorgung erleichtert werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Auch in Th\u00fcringen sollen Lehrerinnen und Lehrer verbeamtet werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "In der Tourismusf\u00f6rderung des Freistaats soll der l\u00e4ndliche Raum gegen\u00fcber den St\u00e4dten st\u00e4rker ber\u00fccksichtigt werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Hartz-IV-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie Jobangebote ablehnen.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Gleichgeschlechtliche Lebenspartnerschaften sollen in Th\u00fcringen weiterhin auf dem Standesamt geschlossen werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Wer eine Meisterpr\u00fcfung besteht, soll vom Land eine Pr\u00e4mie erhalten.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Rechtsextremistische Vereinigungen sollen in Th\u00fcringen verboten werden!",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "In Th\u00fcringen soll der Besuch von Kindertagesst\u00e4tten beitragsfrei sein.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Speicherung von Strom: In Th\u00fcringen sollen weitere Pumpspeicherkraftwerke gebaut werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Das Th\u00fcringer Landesamt f\u00fcr Verfassungsschutz soll aufgel\u00f6st werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Th\u00fcringen soll verst\u00e4rkt Pflegekr\u00e4fte aus dem Ausland anwerben.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Schon der Besitz geringer Mengen Cannabis soll in Th\u00fcringen strafrechtlich verfolgt werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "An Th\u00fcringer Hochschulen soll f\u00fcr milit\u00e4rische Zwecke geforscht werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Die Grunderwerbssteuer soll wieder gesenkt werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Die Th\u00fcringer Polizei soll weiterhin selbst entscheiden, an welchen Orten sie verdachtsunabh\u00e4ngige Personenkontrollen durchf\u00fchrt.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Im Einzelhandel soll Samstagsarbeit \u00f6fter als zweimal im Monat erlaubt sein.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Eltern sollen sich weiterhin an den Kosten f\u00fcr das Schulessen ihrer Kinder beteiligen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "In Th\u00fcringen sollen keine weiteren Landkreise zusammengelegt werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Im Freistaat sollen alle Besch\u00e4ftigten Anspruch auf Bildungsurlaub haben.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Th\u00fcringen soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Th\u00fcringen soll sich f\u00fcr ein elternunabh\u00e4ngiges BAf\u00f6G f\u00fcr alle Studierenden einsetzen.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Die Lehrpl\u00e4ne an th\u00fcringischen Schulen sollen sich am traditionellen Familienbild (Vater, Mutter, Kind) orientieren.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Bei der Vergabe von Sozialwohnungen in Th\u00fcringen sollen Deutsche bevorzugt werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Mehr verkaufsoffene Sonntage in Th\u00fcringen!",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Steuermehreinnahmen sollen vorrangig f\u00fcr den Schuldenabbau verwendet werden!",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung im \u00f6ffentlichen Raum soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Unternehmen, die im l\u00e4ndlichen Raum Ausbildungspl\u00e4tze anbieten, sollen vom Freistaat eine staatliche Unterst\u00fctzung erhalten.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Im Freistaat sollen Fl\u00fcchtlinge ausschlie\u00dflich in Wohnungen und nicht in Gemeinschaftsunterk\u00fcnften untergebracht werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Schulen in freier Tr\u00e4gerschaft sollen staatlichen Schulen finanziell gleichgestellt werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Eltern, die ihr Kleinkind zu Hause betreuen, sollen auch vom Land weiterhin finanzielle Unterst\u00fctzung (\"Th\u00fcringer Erziehungsgeld\") erhalten.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Th\u00fcringen soll die Opfer der SED-Diktatur finanziell st\u00e4rker entsch\u00e4digen.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Bei Landtagswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

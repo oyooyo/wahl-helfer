@@ -1,0 +1,214 @@
+{
+	"name": "B\u00fcrgerschaftswahl Bremen",
+	"parties": [
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "++-~-+--~+++-+--+++----+-+++~-++~+-+--",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "-+~--+--+~++~+--~++--~-+-+-+++-+--+---",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "+---++++-+++~+--++---+++--+--~++~+-+--",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "---+-+--++---++--++----+-+-++--++-+-+-",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "B\u00fcrger in Wut",
+			"positions": "++--+-++--+-+--+++-+~++~+-+~~-++-+-+-+",
+			"short_name": "BIW"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "+-+--++---+-++--++-+-+++-----+++++++-+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "-~-+-+--++~-++++-+-~-+-+---++--++++-++",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "+~~++-~+--+-~--+---~+-+-+-+-+-+--+-+++",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "~~-~+~-+--~+++-+++-+-++-+-+---+-++-+--",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "+-++-+--++-+++++-++----+---+~+-++-+-+-",
+			"short_name": "Die PARTEI"
+		},
+		{
+			"full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+			"positions": "---+-+--+-+--+++-+++---+-+-++++++++--+",
+			"short_name": "Tierschutzpartei"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Die Weser soll f\u00fcr die Containerschifffahrt weiter vertieft werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die Veranstalter von Risikospielen im Profi-Fu\u00dfball sollen sich an den Kosten f\u00fcr Polizeieins\u00e4tze beteiligen m\u00fcssen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "In Bremen und Bremerhaven soll es mehr verkaufsoffene Sonntage geben.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Die M\u00fcllentsorgung soll in Bremen und Bremerhaven wieder in \u00f6ffentlicher Hand sein.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Auch der Besitz geringer Mengen Cannabis soll strafrechtlich verfolgt werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Das Land Bremen soll weiterhin Fl\u00fcchtlinge aufnehmen.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Das Land Bremen soll Genehmigungen f\u00fcr den Einsatz von Lang-Lkw (\"Gigaliner\") erteilen.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung im \u00f6ffentlichen Raum soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "In den bremischen Grundschulen soll es keine Schulnoten geben.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Das Land Bremen soll ein eigenes Programm zur Wiedereingliederung von zur\u00fcckgekehrten IS-K\u00e4mpfern starten.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Die A281 soll zwischen den Anschlussstellen Bremen-Airport-Stadt und Bremen-Kattenturm wie geplant gebaut werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Einzelne Hunderassen sollen weiterhin generell als gef\u00e4hrlich eingestuft werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die verpflichtende Mitgliedschaft in der Arbeitnehmerkammer Bremen soll abgeschafft werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Beratungsangebote f\u00fcr Schwule und Lesben sollen vom Land finanziell gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Der \u00f6ffentliche Personennahverkehr im Land Bremen soll nicht \u00fcber den Verkauf von Fahrscheinen, sondern \u00fcber eine Abgabe finanziert werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Alle Polizeireviere im Land Bremen sollen rund um die Uhr ge\u00f6ffnet sein.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Wenn Bezieherinnen und Bezieher von Arbeitslosengeld II Jobangebote ablehnen, sollen ihnen weiterhin Leistungen gek\u00fcrzt werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Sch\u00fclerinnen und Sch\u00fcler mit und ohne Migrationshintergrund sollen gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Tempo 30 soll auf mehr Stra\u00dfen in Bremen und Bremerhaven gelten.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Im Land Bremen soll es keine Frauenquote f\u00fcr Aufsichtsr\u00e4te \u00f6ffentlicher Unternehmen geben.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Deutsche sollen bei der Vergabe von Sozialwohnungen bevorzugt werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Privatschulen sollen vom Land Bremen finanziell st\u00e4rker unterst\u00fctzt werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Kernbrennstoffe sollen \u00fcber bremische H\u00e4fen umgeschlagen werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen bei der Polizei eingestellt werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Der Unterricht an bremischen Schulen soll sich am traditionellen Familienbild (Vater, Mutter, Kinder) orientieren.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Auch freiberuflich T\u00e4tige (z.B. Steuerberater, Krankengymnasten, Dolmetscher) sollen Gewerbesteuer zahlen m\u00fcssen.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Abgelehnte Asylbewerber sollen konsequent abgeschoben werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Keine milit\u00e4rische Forschung an den bremischen Hochschulen!",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Das Land Bremen soll sich daf\u00fcr einsetzen, dass Privathaushalte auch bei offenen Rechnungen weiterhin mit Strom versorgt werden m\u00fcssen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Das Land Bremen soll verst\u00e4rkt Pflegekr\u00e4fte aus dem Ausland anwerben.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Das gegliederte Schulsystem soll beibehalten werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Projekte gegen Rechtsextremismus sollen weiterhin gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "F\u00fcr alle Kinder bis 14 Jahre soll es einen Rechtsanspruch auf Ganztagsbetreuung geben.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Die Umweltzone in Bremen soll abgeschafft werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "In Bremen soll es Drogenkonsumr\u00e4ume geben.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Mit \u00fcbersch\u00fcssigen Steuereinnahmen sollen vorrangig Schulden getilgt werden.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Das Landesamt f\u00fcr Verfassungsschutz soll aufgel\u00f6st werden.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Das stadtbremische \u00dcberseehafengebiet in Bremerhaven soll an die Stadt Bremerhaven abgegeben werden.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

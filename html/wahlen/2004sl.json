@@ -1,0 +1,124 @@
+{
+	"name": "Landtagswahl Saarland",
+	"parties": [
+		{
+			"full_name": "CDU",
+			"positions": "-+-+-++--+-+--+++-+-+--",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "-+-+--~~-+-+--+++--+-++",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "PDS",
+			"positions": "+-+-+---+-+-++---+-++-+",
+			"short_name": "PDS"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "+-+----+~-+-+--+~+-++--",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+			"positions": "-~+-~--++++-+--~-+-++-~",
+			"short_name": "B\u00fcndnis 90/Die Gr\u00fcnen"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Der Bergbau im Saarland soll erhalten werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die Gewerbesteuer soll gesenkt werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Auf Landes- und Kommunalebene sollen Jugendliche ab 16 Jahre w\u00e4hlen d\u00fcrfen.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Theater und Museen sollen sich st\u00e4rker selbst finanzieren.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Das Landesamt f\u00fcr Verfassungsschutz ist aufzul\u00f6sen.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung auf \u00f6ffentlichen Pl\u00e4tzen!",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Mehr \"Hilfs-Sheriffs\" auf den Stra\u00dfen!",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "In Zukunft soll ein Teil des Unterrichts nachmittags stattfinden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Die Gesamtschule soll fl\u00e4chendeckend eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Das achtj\u00e4hrige Gymnasium soll fortgef\u00fchrt werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Die Grundschulzeit soll auf 6 Jahre erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Der Benimmunterricht soll st\u00e4rker im Unterricht verankert werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die Abschlusspr\u00fcfung an Hauptschulen muss wieder abgeschafft werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Studierende m\u00fcssen alle F\u00e4cher auch im Saarland studieren k\u00f6nnen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Die 40-Stunden-Woche im \u00f6ffentlichen Dienst muss auch f\u00fcr Angestellte eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die Anspr\u00fcche auf Leistungen der Arbeitslosen- und Sozialhilfe sind strenger zu \u00fcberpr\u00fcfen.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Kurzzeit-Ausbildungsg\u00e4nge f\u00fcr praktisch Begabte einrichten!",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Betriebe, die nicht ausbilden, sollen zahlen.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Illegaler Drogenkonsum soll st\u00e4rker bestraft werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Das Saarland soll sich f\u00fcr die Gleichstellung der \"Homo-Ehe\" einsetzen.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Keine Gentechnik in der Landwirtschaft im Saarland!",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Keine weiteren Windparks im Saarland!",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Das Duale System bei der M\u00fcllentsorgung soll abgeschafft werden.",
+			"topic": "Aussage Nr. 22"
+		}
+	]
+}

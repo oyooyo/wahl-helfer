@@ -1,0 +1,224 @@
+{
+	"name": "Landtagswahl Schleswig-Holstein",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "++-+-+-+++-+++-++----+---+-+++--+-----",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "-++--++~~~+++----~-~--++++---+~-~+++++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "--+-+++++-+++-+--+-~+-+++-+--+~--++-+~",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "++-+~+-+---+~+++~~~--+--++~+~~~++~---+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "--+--++++-++-~+~-+-++--++~+--++-+-+-~+",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "S\u00fcdschleswigscher W\u00e4hlerverband",
+			"positions": "-++-+++--~++--++-+-+--+++-+---+-+++~++",
+			"short_name": "SSW"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "--+--++-+-+++-+--+-++-+++-+-+-+--+++++",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "++++-~+~-++-+++~+-++~~---+--++--+-----",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER",
+			"positions": "++++-++-+++++-++++++-----++++--++-++-+",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "++-+--+~+++-~++++-++~+---+++-+-~+--+~+",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "Liberal-Konservative Reformer",
+			"positions": "++-+--+++++-+++++-++++---++++++++-++--",
+			"short_name": "LKR"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "+++--++++-+~-~+----++-++++~-++~+~-+-+-",
+			"short_name": "DIE PARTEI"
+		},
+		{
+			"full_name": "Zukunft. Schleswig-Holstein",
+			"positions": "-++~-++-+++++++~-+~++~-++++++-+~~-+--+",
+			"short_name": "Z.SH"
+		}
+	],
+	"theses": [
+		{
+			"statement": "An allen Grundschulen in Schleswig-Holstein sollen ab der dritten Klasse wieder Schulnoten vergeben werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die feste Fehmarnbeltquerung soll wie geplant gebaut werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Das Land soll finanzielle Anreize schaffen, damit mehr landwirtschaftliche Betriebe auf \u00f6kologische Landwirtschaft umstellen.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Schleswig-Holstein soll abgelehnte Asylbewerberinnen und Asylbewerber aus Afghanistan in ihr Heimatland abschieben.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Kleine Gemeinden in Schleswig-Holstein sollen zusammengelegt werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Das Land soll sich daf\u00fcr einsetzen, dass gleichgeschlechtliche Paare ein gemeinsames Adoptionsrecht erhalten.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Unternehmen, die Auftr\u00e4ge vom Land erhalten, sollen weiterhin den Landesmindestlohn zahlen m\u00fcssen.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Weitere Bahnstrecken sollen an private Betreiber vergeben werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Medizinstudierende, die sich verpflichten sp\u00e4ter als Land\u00e4rzte und Land\u00e4rztinnen zu arbeiten, sollen ein Stipendium vom Land erhalten.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung auf \u00f6ffentlichen Pl\u00e4tzen!",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Landwirtschaftliche Betriebe sollen zu Ma\u00dfnahmen verpflichtet werden (z.B. Bl\u00fchstreifen), die zum Schutz der Bienen beitragen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Gleiche Besoldung f\u00fcr Lehrerinnen und Lehrer aller Schularten!",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Das Land soll Fischerinnen und Fischer, die aufgrund der Fangquoten hohe Verdienstausf\u00e4lle haben, finanziell entsch\u00e4digen.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Die Grunderwerbsteuer soll gesenkt werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Bei Kommunalwahlen in Schleswig-Holstein soll es weiterhin keine Sperrklausel (z.B. F\u00fcnf- oder Dreiprozenth\u00fcrde) geben.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die Bundeswehr soll an Schulen f\u00fcr den Soldatenberuf werben d\u00fcrfen.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Die Schulb\u00fccher in Schleswig-Holstein sollen vorrangig das traditionelle Familienbild (Vater, Mutter, Kind) vermitteln.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Vereine f\u00fcr \"E-Sport\" (Computerspiele) sollen wie Sportvereine vom Land gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Schleswig-Holstein soll sich f\u00fcr eine Begrenzung bei der Fl\u00fcchtlingsaufnahme einsetzen.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Interessenvertreterinnen und -vertreter, die Zugang zum Landtag haben, sollen in einer \u00f6ffentlichen Liste (\"Lobbyregister\") erfasst werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Das Land Schleswig-Holstein soll sich f\u00fcr die Einf\u00fchrung eines bedingungslosen Grundeinkommens einsetzen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Keine Mietpreisbremse in Schleswig-Holstein!",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "In F\u00fchrungsgremien von landeseigenen Unternehmen soll eine Frauenquote gelten.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Alle dauerhaft in Schleswig-Holstein lebenden Ausl\u00e4nderinnen und Ausl\u00e4nder sollen an den Kommunalwahlen teilnehmen d\u00fcrfen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Der Besitz von geringen Mengen Cannabis f\u00fcr den eigenen Bedarf soll erlaubt sein.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Der Mindestabstand von Windkraftanlagen zu Wohngeb\u00e4uden soll vergr\u00f6\u00dfert werden.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Die verpflichtende Mitgliedschaft der Unternehmen in der Industrie- und Handelskammer soll abgeschafft werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Landwirtinnen und Landwirte sollen selbst entscheiden, wie sie die Wallhecken am Feldrand (\"Knick\") beschneiden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "An allen Gymnasien in Schleswig-Holstein soll das Abitur wieder ausschlie\u00dflich nach 9 Jahren (G9) abgelegt werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Haushalts\u00fcbersch\u00fcsse des Landes sollen \u00fcberwiegend zum Schuldenabbau verwendet werden.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "F\u00fcr Stellen im \u00f6ffentlichen Dienst sollen ausschlie\u00dflich anonymisierte Bewerbungsverfahren durchgef\u00fchrt werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Gesch\u00e4fte in Schleswig-Holstein sollen sonntags wieder l\u00e4nger \u00f6ffnen d\u00fcrfen.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "An Hochschulen in Schleswig-Holstein soll f\u00fcr milit\u00e4rische Zwecke geforscht werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "In allen Ver\u00f6ffentlichungen des Landes soll eine geschlechtergerechte Sprache verwendet werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Die Polizistinnen und Polizisten sollen bei Gro\u00dfeins\u00e4tzen weiterhin eine individuelle Kennung tragen m\u00fcssen.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "In Schleswig-Holstein soll der Reformationstag dauerhaft ein gesetzlicher Feiertag sein.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Stra\u00dfenschilder sollen je nach Region auch in D\u00e4nisch, Friesisch oder Plattdeutsch beschriftet sein m\u00fcssen.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Der Zugang zu allen Str\u00e4nden soll geb\u00fchrenfrei sein.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

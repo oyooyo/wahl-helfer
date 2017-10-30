@@ -1,0 +1,234 @@
+{
+	"name": "Landtagswahl Bayern",
+	"parties": [
+		{
+			"full_name": "Christlich-Soziale Union in Bayern e.V.",
+			"positions": "-+++~++++---+-++--+~-+--~-~+-~-++-+~--",
+			"short_name": "CSU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "-+-++~+-+-+-+++++-++++-+-~+-++-+-++-~~",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER Bayern",
+			"positions": "-+-+--+++--++-++-++~++-----+~+++--+---",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "---++-+---++-+~-~-+-+--+~+--+--++++-+~",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "++----+-+-+-+-++-++-+---+--+++-+++-++-",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "---++-+---++-+~-+++++~-+-++-++++-+--++",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "-+-++~++~-----+++~++-+-+--++---+--+--+",
+			"short_name": "\u00d6DP"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "-+++-~-+++-~~--+-+-+-++--+++-+----+~+~",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "-++++--+++-+---+++-+-++--+-+-+----~-++",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "Bayernpartei",
+			"positions": "~+++~-+++~+~--++---+-+~-+-~+++-~-~+---",
+			"short_name": "BP"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "---+~-++----~~~+-+++-+--+-++++++--+++-",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtspartei f\u00fcr mehr Freiheit und Demokratie - DIE FREIHEIT",
+			"positions": "++++-+++++-++-++-+-~-++----+~++~+--++-",
+			"short_name": "DIE FREIHEIT"
+		},
+		{
+			"full_name": "FRAUENLISTE Bayern e.V.",
+			"positions": "-++++++-~-+~+++-+++++~-+-~++++++--+-+~",
+			"short_name": "FRAUENLISTE"
+		},
+		{
+			"full_name": "Partei f\u00fcr Franken",
+			"positions": "-++-+++~++----++---~++~---+++++~~-+-+-",
+			"short_name": "DIE FRANKEN"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "+--++-+---++~-~-~~+~+--+~+--+-~+~+--++",
+			"short_name": "PIRATEN"
+		}
+	],
+	"theses": [
+		{
+			"statement": "In Bayern sollen Gesch\u00e4fte an Werktagen l\u00e4nger ge\u00f6ffnet haben d\u00fcrfen.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "In die Bayerische Verfassung soll eine Schuldenbremse aufgenommen werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Autofahrer aus dem Ausland sollen f\u00fcr die Nutzung deutscher Autobahnen bezahlen.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Bei Neuvermietungen sollen sich Vermieter an regionale Mietobergrenzen halten m\u00fcssen.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Das Land soll die \u00f6kologische Landwirtschaft st\u00e4rker finanziell f\u00f6rdern.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung auf \u00f6ffentlichen Pl\u00e4tzen!",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Alle Kinder sollen ungeachtet ihres kulturellen Hintergrundes gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Auch der Besitz von nur geringen Mengen Cannabis soll strafrechtlich verfolgt werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Die wirtschaftlich st\u00e4rkeren L\u00e4nder sollen weniger an die wirtschaftlich schw\u00e4cheren L\u00e4nder zahlen m\u00fcssen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Der Bau von Minaretten soll verboten werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Bayern soll sich daf\u00fcr einsetzen, dass alle Studierenden BAf\u00f6G unabh\u00e4ngig vom Einkommen ihrer Eltern erhalten k\u00f6nnen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Auch in Bayern soll nach Endlagerst\u00e4tten f\u00fcr Atomm\u00fcll gesucht werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Der Freistaat Bayern soll die Bewerbung M\u00fcnchens f\u00fcr die olympischen Winterspiele 2022 finanziell unterst\u00fctzen.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Einf\u00fchrung einer Frauenquote f\u00fcr F\u00fchrungspositionen im \u00f6ffentlichen Dienst!",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Das Land soll weiterhin Projekte gegen politischen Extremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Das dreigliedrige Schulsystem (Mittelschule, Realschule, Gymnasium) soll erhalten bleiben.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Das Land soll sich daf\u00fcr einsetzen, dass die Verm\u00f6gensteuer wieder erhoben wird.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Keine Solaranlagen auf landwirtschaftlichen Fl\u00e4chen!",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen im Polizeidienst arbeiten.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Keine Privatisierung von Krankenh\u00e4usern!",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Vollst\u00e4ndige Gleichstellung von Ehe und gleichgeschlechtlicher Lebenspartnerschaft.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Abgabe von Entscheidungsbefugnissen an die Europ\u00e4ische Union nur durch Volksentscheid!",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Deutsche sollen bei der Vergabe von Sozialwohnungen bevorzugt werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Bei Landtagswahlen: W\u00e4hlen ab 16!",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Steuerhinterziehung soll weiterhin bei Selbstanzeige straffrei bleiben.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Das Bayerische Landesamt f\u00fcr Verfassungsschutz soll aufgel\u00f6st werden.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Jeder Schulabsolvent soll einen gesetzlichen Anspruch auf einen Ausbildungsplatz haben.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Die finanzielle Unterst\u00fctzung f\u00fcr einkommensschwache Familien (Landeserziehungsgeld) soll beibehalten werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Polizisten und Polizistinnen sollen bei Gro\u00dfeins\u00e4tzen eine gut lesbare, individuelle Kennung tragen m\u00fcssen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Die Stromsteuer soll gesenkt werden.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Das letzte Kindergartenjahr vor der Einschulung soll verpflichtend sein.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Das Land soll weiterhin Kulturprojekte von Migrantinnen und Migranten f\u00f6rdern.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Die Erh\u00f6hung des gesetzlichen Renteneintrittsalters auf 67 Jahre soll beibehalten werden.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Asylbewerber und Asylbewerberinnen sollen eine uneingeschr\u00e4nkte Arbeitserlaubnis erhalten.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Der Schutz der \"stillen Tage\" soll beibehalten werden (Tanzverbot).",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Die dritte Startbahn am M\u00fcnchener Flughafen soll gebaut werden.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Abbau der Verflechtung von Kirche und Staat in Bayern!",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Der Einsatz von Schneekanonen soll in den bayerischen Skigebieten verboten werden.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

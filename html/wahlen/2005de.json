@@ -1,0 +1,152 @@
+{
+	"name": "Bundestagswahl",
+	"parties": [
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "~-+-+-++--+++--+-+-+---+-++-++",
+			"short_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN"
+		},
+		{
+			"full_name": "CDU/CSU",
+			"positions": "-+-+-+-~--+-+-++~-+-~-+-+--+--",
+			"short_name": "CDU/CSU"
+		},
+		{
+			"full_name": "DIE LINKE.PDS",
+			"positions": "+-+~+-++-+-~---+-+-+++-+-++-++",
+			"short_name": "DIE LINKE.PDS"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "-+-++---+--~+---+------+~+-~-+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "--+-+-++-+-+++-+++--+~~~-+-+-+",
+			"short_name": "SPD"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Generelles Tempolimit auf Autobahnen!",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Der K\u00fcndigungsschutz soll gelockert werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Am geplanten Ausstieg aus der Atomenergie soll festgehalten werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Benzinsteuern senken!",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Die T\u00fcrkei soll vollwertiges Mitglied der Europ\u00e4ischen Union werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die Mehrwertsteuer muss erh\u00f6ht werden!",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Einf\u00fchrung eines gesetzlichen Mindestlohns!",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Erh\u00f6hung der Steuern f\u00fcr Spitzenverdiener/innen!",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Das Dosenpfand soll abgeschafft werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Alle B\u00fcrger/innen sollen sich in einer gesetzlichen Krankenkasse versichern m\u00fcssen.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Im Ausland lebende Deutsche sollen in Deutschland Steuern zahlen m\u00fcssen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die europ\u00e4ischen Agrarsubventionen m\u00fcssen deutlich gesenkt werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die gemeinsame europ\u00e4ische Verteidigungspolitik soll ausgebaut werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Die deutsche Steinkohle soll weiter subventioniert werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Die Bundeswehr soll f\u00fcr Aufgaben der inneren Sicherheit verst\u00e4rkt eingesetzt werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Abgeordnete sollen verpflichtet werden, alle ihre Nebeneink\u00fcnfte zu ver\u00f6ffentlichen.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Jedes Kind muss vor der Einschulung einen Sprachtest bestehen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Das Erststudium soll geb\u00fchrenfrei sein.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Bildungspolitik soll ausschlie\u00dflich Angelegenheit der Bundesl\u00e4nder sein.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "BAf\u00f6G sollte unabh\u00e4ngig vom Einkommen der Eltern gezahlt werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Der Staat soll im ersten Jahr der Elternzeit (\"Erziehungsurlaub\") einen Lohnersatz zahlen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Frauen m\u00fcssen auch ohne vorherige Beratung bis zum dritten Monat straffrei abtreiben d\u00fcrfen.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Von allen Straft\u00e4tern/innen sollen die DNA-Daten (\"genetischer Fingerabdruck\") zentral erfasst werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Die Wehrpflicht soll abgeschafft werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung von \u00f6ffentlichen Pl\u00e4tzen!",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Gesetzliche Gleichstellung der \"Homo-Ehe\"!",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Bei Bundestagswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Biometrische Daten (z.B. Fingerabdruck) sollen in den Personalausweis aufgenommen werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Haschisch soll legalisiert werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Volksentscheide auch auf Bundesebene!",
+			"topic": "Aussage Nr. 29"
+		}
+	]
+}

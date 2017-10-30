@@ -1,0 +1,152 @@
+{
+	"name": "Landtagswahl Rheinland-Pfalz",
+	"parties": [
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "~+~----+-++-+-+-+-+-+--+++----",
+			"short_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN"
+		},
+		{
+			"full_name": "CDU",
+			"positions": "--+-+++-+--+-+++++---++---++++",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "~-+++++++~-+-+++-~-+-++---++++",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "+-+-++~----+~+----+~++-~~-++++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "WASG",
+			"positions": "-+-------++-+~+-+-+-+--+++----",
+			"short_name": "WASG"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Zusammenlegung von Rheinland-Pfalz und Saarland!",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Generelles Nachtflugverbot f\u00fcr rheinland-pf\u00e4lzische Flugh\u00e4fen!",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Mehr Landesmittel f\u00fcr medizinische Genforschung!",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Studiengeb\u00fchren ab dem ersten Semester!",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Beibehaltung des Beamtenstatus f\u00fcr Lehrkr\u00e4fte an Schulen!",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Das dreigliedrige Schulsystem (Hauptschule, Realschule, Gymnasium) soll erhalten bleiben.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Einf\u00fchrung des Zentralabiturs in Rheinland-Pfalz!",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "H\u00f6herer Steuerfreibetrag f\u00fcr Betriebe, die ausbilden!",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Die Gewerbesteuer soll abgeschafft werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Ehrenamtliche T\u00e4tigkeiten sollen auf die Rente angerechnet werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "H\u00fcrden f\u00fcr Volksentscheide auf Landesebene senken!",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Der Flughafen Hahn soll weiter ausgebaut werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Mehr Windkraftanlagen in Rheinland-Pfalz!",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Rheinland-Pfalz soll sich f\u00fcr den Ausbau von Autobahnen im Land einsetzen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Die Meisterpr\u00fcfung soll zum Universit\u00e4tsstudium berechtigen.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "An allen Haupt- und Realschulen sollen Abschlusspr\u00fcfungen eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Rauchverbot an rheinland-pf\u00e4lzischen Schulen!",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung auf \u00f6ffentlichen Pl\u00e4tzen!",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Mehr Landesmittel f\u00fcr die \u00f6kologische Landwirtschaft!",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Bereits der Konsum illegaler Drogen soll bestraft werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Landesauftr\u00e4ge sollen nur an Unternehmen vergeben werden, die Tarifl\u00f6hne zahlen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Vor dem Schulbesuch m\u00fcssen alle Kinder einen Sprachtest bestehen.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Keine weiteren Gesamtschulen in Rheinland-Pfalz!",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Lehrerinnen sollen Kopft\u00fccher an Schulen tragen d\u00fcrfen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Verl\u00e4ngerung der gemeinsamen Schulzeit \u00fcber die vierte Klasse hinaus!",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "W\u00e4hlen ab 16 Jahren bei Kommunalwahlen!",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Rheinland-Pfalz soll eine bundesweite Volksz\u00e4hlung unterst\u00fctzen.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Konsequentes Abschieben von ausl\u00e4ndischen Straft\u00e4terinnen und Straft\u00e4tern!",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Hochwasserschutzgebiete sollen landwirtschaftlich genutzt werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Bau einer Br\u00fccke \u00fcber den Rhein zwischen Koblenz und Mainz!",
+			"topic": "Aussage Nr. 29"
+		}
+	]
+}

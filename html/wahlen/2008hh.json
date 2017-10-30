@@ -1,0 +1,152 @@
+{
+	"name": "B\u00fcrgerschaftswahl Hamburg",
+	"parties": [
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "-+-+-~++--+-+-~+-+~++~-+-+---+",
+			"short_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN"
+		},
+		{
+			"full_name": "CDU",
+			"positions": "+-+---+-----~++-+-+--++-+-+-+-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Die Linke",
+			"positions": "-+-+-+-++-+---++-+-++--+++-+-+",
+			"short_name": "Die Linke"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "-~+-+++-++-+-++++~+--+~--++--+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "++++-++---+--+-+-+++---++++--+",
+			"short_name": "SPD"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Auf dem Kiez: Alkoholverbot auf Stra\u00dfen und Pl\u00e4tzen an den Wochenenden!",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die Studiengeb\u00fchren f\u00fcr das Erststudium an den \u00f6ffentlichen Hamburger Hochschulen sollen abgeschafft werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Die Elbe soll f\u00fcr die Schifffahrt vertieft werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Hamburg soll sich f\u00fcr einen bundesweiten, einheitlichen gesetzlichen Mindestlohn einsetzen.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Die \u00f6ffentliche F\u00f6rderung von sozialem Wohnungsbau soll abgeschafft werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Der Besuch einer Kindertagesst\u00e4tte (Kita) soll geb\u00fchrenfrei sein.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Vor der Einschulung: Verpflichtende Sprachtests f\u00fcr alle Kinder!",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Hauptschulen, Realschulen und Gymnasien sollen zu einer gemeinsamen Schulform zusammengelegt werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Gastwirte/-innen sollen selbst \u00fcber ein Rauchverbot in ihren Gastst\u00e4tten entscheiden d\u00fcrfen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Ladenbesitzer/-innen sollen frei die \u00d6ffnungszeiten ihrer Gesch\u00e4fte bestimmen k\u00f6nnen.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Mehr Personal in den Finanz\u00e4mtern f\u00fcr die Steuerpr\u00fcfung von Unternehmen!",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Privatisierung des Hafens: Die Stadt soll weitere Anteile der HHLA an der B\u00f6rse verkaufen.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Einf\u00fchrung einer Maut f\u00fcr Kraftfahrzeuge in der Innenstadt (\"City-Maut\").",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Zur Entlastung der Innenstadt: Bau einer Verbindungsautobahn zwischen A1 und A7 (\"Hafenquerspange\").",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Hamburg soll mit anderen Bundesl\u00e4ndern ein gemeinsames Bundesland bilden (\"Nordstaat\").",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Hamburg soll sich daf\u00fcr einsetzen, dass eingetragene Partnerschaften von Homosexuellen rechtlich der Ehe gleichgestellt werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Das Kohlekraftwerk in Hamburg-Moorburg soll gebaut werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Das Hamburger Stromnetz soll zur\u00fcck in die \u00f6ffentliche Hand!",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Bei der Verteilung \u00f6ffentlicher Gelder sollen private Krankenh\u00e4user den \u00f6ffentlichen gleichgestellt werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Wiedereinf\u00fchrung von Sozialtickets in den \u00f6ffentlichen Nahverkehrsmitteln!",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Alle in Hamburg lebenden Fl\u00fcchtlinge sollen ein dauerhaftes Bleiberecht bekommen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Ein Verbot der Neuverschuldung soll in die Hamburger Verfassung aufgenommen werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Unternehmen sollen mehr Einfluss in den Entscheidungsgremien der Hochschulen haben.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Betriebe, die nicht ausbilden, sollen ausbildende Betriebe finanziell unterst\u00fctzen.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Lehrerinnen und Lehrer sollen weiterhin verbeamtet werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Geb\u00fchrenfreie Bereitstellung von Schulb\u00fcchern an allen Hamburger Schulen!",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Die geschlossene Unterbringung f\u00fcr jugendliche Straft\u00e4ter - wie in der Feuerbergstra\u00dfe - soll weiterhin m\u00f6glich sein.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Kostenlose Nutzung von B\u00fccherhallen!",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung von \u00f6ffentlichen Pl\u00e4tzen soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Das Ergebnis von Volksentscheiden soll f\u00fcr den Hamburger Senat verbindlich sein.",
+			"topic": "Aussage Nr. 29"
+		}
+	]
+}

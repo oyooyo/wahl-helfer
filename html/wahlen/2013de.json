@@ -1,0 +1,299 @@
+{
+	"name": "Bundestagswahl",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands / Christlich-Soziale Union in Bayern e.V.",
+			"positions": "-+-+-+--+---+---+--~~-+-+-~-++-+--++~~",
+			"short_name": "CDU / CSU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "+--++~-~++----+++~-+-++-~++~+++~+-+--+",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "-~-+----+---~-~-++---~+-+~--+~-+++---+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "+-+++-~~++++-~++++-+-+++-+++--+-+++--+",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+-++~-~~++-+--++++-+--+~-+++-~+-+++-~+",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "+-~+~-+++~-+--++++-~~~++-~++--+-+++--+",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "++--+~-+-+++++-+-++-~+-++-++~~++-+++-+",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+			"positions": "+-+++-++++-+--~++--+-++++-++~--+++++-+",
+			"short_name": "Tierschutzpartei"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "-+---+----~-+--++-+-+--~+-+-+--+-+-+++",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "\u00d6kologisch-Demokratische Partei",
+			"positions": "++++---+++-++-++++--~-+++~++-+++~++~-+",
+			"short_name": "\u00d6DP"
+		},
+		{
+			"full_name": "Familien-Partei Deutschlands",
+			"positions": "++++++-+++-++-++++~++~++~-++--++~++--+",
+			"short_name": "FAMILIE"
+		},
+		{
+			"full_name": "B\u00fcndnis 21/RRP",
+			"positions": "+--+++-+++-++-~++----+~-+~+++-+++++--+",
+			"short_name": "B\u00fcndnis 21/RRP"
+		},
+		{
+			"full_name": "RENTNER Partei Deutschland",
+			"positions": "+--+++--++----~++----+~-+-+++-++++++~-",
+			"short_name": "RENTNER"
+		},
+		{
+			"full_name": "Bayernpartei",
+			"positions": "-+--+---+--++--+-+--++-~+-++++-+-+++++",
+			"short_name": "BP"
+		},
+		{
+			"full_name": "Partei Bibeltreuer Christen",
+			"positions": "++-+++--~--~+-~+++--~--~+--+++-+---+-+",
+			"short_name": "PBC"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "++------+-+-+-+++-~~-++~+-+--~-+-++~-+",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "Die Violetten",
+			"positions": "+++++-++++~++-++++-+-+++-+++---++++--+",
+			"short_name": "DIE VIOLETTEN"
+		},
+		{
+			"full_name": "Marxistisch-Leninistische Partei Deutschlands",
+			"positions": "+-+~~-~-++++-+++~--~-+++--++--+-+++--+",
+			"short_name": "MLPD"
+		},
+		{
+			"full_name": "Ab jetzt...Demokratie durch Volksabstimmung",
+			"positions": "++~+++-+~+~~+-~++---~+~~+~++-~++~++~-+",
+			"short_name": "Volksabstimmung"
+		},
+		{
+			"full_name": "Partei f\u00fcr Soziale Gleichheit, Sektion der Vierten Internationale",
+			"positions": "+-+-+-+-+++~-+++-+---+++--++--+-+++--+",
+			"short_name": "PSG"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "--------+--~+--++---+-~-+-+-++-+-+-+~+",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "B\u00fcndnis f\u00fcr Innovation & Gerechtigkeit",
+			"positions": "+--++-+-++-++-+++--~-++--+++-++--++--+",
+			"short_name": "BIG"
+		},
+		{
+			"full_name": "B\u00fcrgerbewegung pro Deutschland",
+			"positions": "+~--++-+--+-+--++++-~+-++-++-+++-+-+-+",
+			"short_name": "pro Deutschland"
+		},
+		{
+			"full_name": "Feministische Partei DIE FRAUEN",
+			"positions": "+-+~+~~+++++-+++~+-+-~++-~++--+-+++-~+",
+			"short_name": "DIE FRAUEN"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER",
+			"positions": "---+++--+---+--+++--~++-+--+++-+~-+--+",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Partei der Nichtw\u00e4hler",
+			"positions": "~-~++~~~~--~~-~~+~-~~~~+~~++~~~~++~-~+",
+			"short_name": "Partei der Nichtw\u00e4hler"
+		},
+		{
+			"full_name": "Partei der Vernunft",
+			"positions": "----------+---------+-------+--+++---+",
+			"short_name": "PARTEI DER VERNUNFT"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "+--++-++++-~-+++++-+-++++-++--~~+++-++",
+			"short_name": "Die PARTEI"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Es soll ein gesetzlicher fl\u00e4chendeckender Mindestlohn eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Eltern, deren Kinder nicht in die Kita gehen, sollen ein Betreuungsgeld erhalten.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Generelles Tempolimit auf Autobahnen!",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Deutschland soll den Euro als W\u00e4hrung behalten.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Der Strompreis soll vom Staat st\u00e4rker reguliert werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung im \u00f6ffentlichen Raum soll ausgebaut werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "In Deutschland soll ein bedingungsloses Grundeinkommen eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Nur \u00f6kologische Landwirtschaft soll finanzielle F\u00f6rderung erhalten.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Alle Kinder sollen ungeachtet ihres kulturellen Hintergrundes gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Der Spitzensteuersatz soll erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Deutschland soll aus der NATO austreten.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Kein Neubau von Kohlekraftwerken!",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die \"Pille danach\" soll rezeptpflichtig bleiben.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Alle Banken in Deutschland sollen verstaatlicht werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Deutschland soll mehr Fl\u00fcchtlinge aufnehmen.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Arbeitnehmerinnen und Arbeitnehmer sollen f\u00fcr die Zeit, in der sie Angeh\u00f6rige pflegen, staatliche Lohnersatzleistungen erhalten.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Verfassungswidrige Parteien sollen weiterhin verboten werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "BAf\u00f6G soll unabh\u00e4ngig vom Einkommen der Eltern gezahlt werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "An allen deutschen Grenzen sollen wieder Einreisekontrollen durchgef\u00fchrt werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "In Aufsichtsr\u00e4ten und Vorst\u00e4nden von Unternehmen soll eine gesetzliche Frauenquote gelten.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Finanzstarke Bundesl\u00e4nder sollen schwache Bundesl\u00e4nder weniger unterst\u00fctzen m\u00fcssen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Das gesetzliche Renteneintrittsalter soll wieder gesenkt werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Der Staat soll im \u00f6ffentlichen Dienst verst\u00e4rkt Menschen mit Migrationshintergrund einstellen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "R\u00fcstungsexporte sollen verboten werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Das Ehegattensplitting soll beibehalten werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Deutschland soll sich f\u00fcr einen Beitritt der T\u00fcrkei zur Europ\u00e4ischen Union einsetzen.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Abgeordnete des Bundestags sollen ihre Nebeneink\u00fcnfte auf den Euro genau offenlegen m\u00fcssen.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Energieintensive Industrien sollen sich st\u00e4rker als bisher an der Finanzierung der Energiewende beteiligen m\u00fcssen.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Hartz-IV-Empf\u00e4ngern und -Empf\u00e4ngerinnen sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie Jobangebote ablehnen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Der Staat soll weiterhin f\u00fcr Religionsgemeinschaften Kirchensteuer einziehen.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Alle B\u00fcrgerinnen und B\u00fcrger sollen in gesetzlichen Krankenkassen versichert sein m\u00fcssen.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "In der Euro-Zone soll jeder Staat alleine f\u00fcr seine Schulden haften.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Auch gleichgeschlechtliche Lebenspartnerschaften sollen ein gemeinsames Adoptionsrecht erhalten.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Keine Speicherung von Kommunikationsdaten (z.B. Telefon, Internet) ohne konkreten Anlass!",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Bei Neuvermietungen soll der Mietpreis nur begrenzt angehoben werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Vollj\u00e4hrige deutsche Staatsangeh\u00f6rige sollen keine weitere Staatsangeh\u00f6rigkeit besitzen d\u00fcrfen.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Die Nutzung von Autobahnen soll kostenpflichtig sein.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Einf\u00fchrung von Volksentscheiden auf Bundesebene!",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

@@ -1,0 +1,157 @@
+{
+	"name": "Abgeordnetenhauswahl Berlin",
+	"parties": [
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+~-+-+-+-+-+~-+-+-+-++~-+-+---",
+			"short_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN"
+		},
+		{
+			"full_name": "CDU",
+			"positions": "+~+~+-+~+----+-~~~-+~-+~-+-+~+",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "DIE LINKE.PDS",
+			"positions": "++-+-+-+---++-+-+-+-++--+-+---",
+			"short_name": "DIE LINKE.PDS"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "+-+-~-+-~-++-+-+-+-~-++-++-~++",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "++++~-~++-----+-----++-+--++--",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "WASG",
+			"positions": "-+-+~+-+~+-++-+-+-++~+--+-+-~-",
+			"short_name": "WASG"
+		}
+	],
+	"theses": [
+		{
+			"statement": "In Berlin sollen die Laden\u00f6ffnungszeiten von Montag bis Sonnabend freigegeben werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die BVG soll Eigentum des Landes Berlin bleiben.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Graffiti-Sprayer/innen m\u00fcssen mit intensiven polizeilichen Ma\u00dfnahmen verfolgt werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Alle Berliner Grundschulen sollen Ganztagsschulen werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Wiedereinf\u00fchrung von Kopfnoten (z.B. Betragen, Flei\u00df) auf Schulzeugnissen!",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "An Berliner Schulen soll das Sitzenbleiben abgeschafft werden!",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Weiterer Ausbau der Berliner Stadtautobahn!",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "In der Innenstadt soll k\u00fcnftig ein Fahrverbot f\u00fcr Dieselfahrzeuge ohne Ru\u00dffilter gelten.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Ausbau der Binnenschifffahrtswege in Berlin!",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Die Gewerbesteuer soll erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Die st\u00e4dtischen Wohnungsbaugesellschaften sollen verkauft werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Kontrollierte Abgabe von \"harten\" Drogen an Schwerstabh\u00e4ngige!",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Berlin soll sich f\u00fcr die Abschaffung der MAE-Stellen (\"1-Euro-Jobs\") einsetzen.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Sch\u00fcler/innen sollen das neu eingef\u00fchrte Pflichtfach Ethik durch das Fach Religion ersetzen k\u00f6nnen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Das Erststudium an den Berliner Hochschulen soll geb\u00fchrenfrei bleiben.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Der U-Bahn-Ausbau soll Vorrang vor dem Ausbau der Stra\u00dfenbahn haben.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "In Berlin sollen weitere Autostra\u00dfen zu Fahrradstra\u00dfen umgebaut werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Vollst\u00e4ndige Privatisierung des landeseigenen Klinikunternehmens \"Vivantes\".",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Im Berliner Senat sollen Frauen und M\u00e4nner zu gleichen Teilen vertreten sein.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "F\u00fcr Kinder ohne ausreichende Deutschkenntnisse soll eine verpflichtende Vorschule eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Berlin soll sich f\u00fcr ein bundesweites Rauchverbot in Kneipen und Restaurants einsetzen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Kennzeichnungspflicht f\u00fcr alle Polizisten/innen (z.B. Namensschilder oder Kennnummern an den Uniformen)!",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Das Land Berlin soll verst\u00e4rkt die Privatschulen f\u00f6rdern.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Wenn Eltern bei Erziehungsproblemen wiederholt die Hilfe des Jugendamtes ablehnen, sollen ihnen staatliche Leistungen gek\u00fcrzt werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Rechtsanspruch auf einen Kita-Platz auch f\u00fcr unter 3-J\u00e4hrige!",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Das dreigliedrige Schulsystem (Hauptschule, Realschule, Gymnasium) soll erhalten bleiben.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Freien Theatern sollen mehr \u00f6ffentliche R\u00e4umlichkeiten kostenfrei zur Verf\u00fcgung gestellt werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Berliner Polizisten/innen sollen als letztes Mittel in Gefahrensituationen gezielt t\u00f6dliche Sch\u00fcsse abgeben d\u00fcrfen.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Die Bezirksb\u00fcrgermeister/innen sollen direkt gew\u00e4hlt werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Der Flughafen Tempelhof soll neben dem Gro\u00dfflughafen Sch\u00f6nefeld (BBI) in Betrieb bleiben.",
+			"topic": "Aussage Nr. 29"
+		}
+	]
+}

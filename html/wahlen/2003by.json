@@ -1,0 +1,112 @@
+{
+	"name": "Landtagswahl Bayern",
+	"parties": [
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "++---+---+-----~---+",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Christlich Soziale Union",
+			"positions": "--+----+----+-++-+--",
+			"short_name": "CSU"
+		},
+		{
+			"full_name": "Freie W\u00e4hler Bayern",
+			"positions": "----+-+---+++--~+-~+",
+			"short_name": "Freie W\u00e4hler Bayern"
+		},
+		{
+			"full_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+			"positions": "++---++-+++-~+--+-~+",
+			"short_name": "B\u00fcndnis 90/Die Gr\u00fcnen"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "+--+++--~-+++-+++~++",
+			"short_name": "FDP"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Die Gemeinschaftsschulzeit soll von vier auf sechs Jahre erh\u00f6ht werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Keine Noten in der Grundschule!",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Das Sozialverhalten der Sch\u00fcler/-innen soll wieder benotet werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Studiengeb\u00fchren an Hochschulen sollen f\u00fcr das Erststudium eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Die gymnasiale Schulzeit soll von neun auf acht Jahre verk\u00fcrzt werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Haschisch und Marihuana sollen legalisiert werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "\u00d6ffentliche Tabak- und Alkoholwerbung muss verboten werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Ausl\u00e4nder/-innen sollen schon bei Verdacht auf terroristische Straftaten ausgewiesen werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Steuerliche Verg\u00fcnstigungen bei Kapital- und Verm\u00f6genseinkommen werden abgeschafft.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Das Wahlalter auf Landes- und Kommunalebene soll auf 16 Jahre gesenkt werden.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Die Beantragung von Volksabstimmungen soll erleichtert werden.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Der Ministerpr\u00e4sident / die Ministerpr\u00e4sidentin soll direkt vom Volk gew\u00e4hlt werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die Bundesl\u00e4nder sollen sich innerhalb der Europ\u00e4ischen Union verst\u00e4rkt selber vertreten.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Die Geschlechtertrennung soll in ausgew\u00e4hlten Schulf\u00e4chern wieder eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Der Bau des Transrapid M\u00fcnchen - M\u00fcnchen/Flughafen soll vorangetrieben werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die bayerischen Flugh\u00e4fen sollen ausgebaut werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Im \u00d6ffentlichen Dienst soll das Renteneintrittsalter heraufgesetzt werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Der Meisterbrief muss Voraussetzung f\u00fcr eine Eigenst\u00e4ndigkeit im Handwerk bleiben.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Jede/r Berufst\u00e4tige muss j\u00e4hrlich eine Weiterbildungsma\u00dfnahme wahrnehmen.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "In den Gemeindeordnungen sollen weitreichende Formen der Mitwirkung Jugendlicher verankert werden.",
+			"topic": "Aussage Nr. 19"
+		}
+	]
+}

@@ -1,0 +1,148 @@
+{
+	"name": "Landtagswahl Schleswig-Holstein",
+	"parties": [
+		{
+			"full_name": "CDU",
+			"positions": "++-~~+++~--+-++--++-+--+-----",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "--~-+-~--+++-+-+~---+-~+-++++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00fcndnis 90 / Die Gr\u00fcnen",
+			"positions": "--++----+++-+--++-~+-++-+++++",
+			"short_name": "Die Gr\u00fcnen"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "~-++++-++--+-++--+-++~-~+-~-~",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "SSW",
+			"positions": "--+++-+-+++----+---+-~+~-++++",
+			"short_name": "SSW"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Der Besitz von illegalen Drogen muss st\u00e4rker verfolgt werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "F\u00fcr die Krankenversicherung soll k\u00fcnftig jede/jeder den gleichen Betrag zahlen (\"Kopfpauschale\").",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Fl\u00e4chendeckende Sprachkurse f\u00fcr ausl\u00e4ndische Mitb\u00fcrger/innen sollen vom Land geb\u00fchrenfrei angeboten werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Mehr Landesmittel f\u00fcr die Jugendverb\u00e4nde.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Lehrpl\u00e4ne f\u00fcr Kinderg\u00e4rten!",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Die Gliederung des Schulsystems in Haupt-, Realschule und Gymnasium soll erhalten bleiben.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Verbot von Kopft\u00fcchern bei Lehrerinnen in \u00f6ffentlichen Schulen!",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Einf\u00fchrung einheitlicher Abschlusspr\u00fcfungen f\u00fcr die jeweiligen Schularten!",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Das Schulfach \"Wirtschaft und Politik\" soll Pflicht ab Klassenstufe 5 werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Gemeinsame Schulzeit f\u00fcr alle bis zur Klasse neun.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Das erste Studium soll geb\u00fchrenfrei bleiben.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Wir brauchen eine feste Fehmarn-Belt-Querung!",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Keine Verl\u00e4ngerung der A 20 (\"Ostseeautobahn\") in Schleswig-Holstein.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Ausbau regionaler Flugh\u00e4fen in Schleswig-Holstein!",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Dreispuriger Ausbau der A 7 bis zur d\u00e4nischen Grenze.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Das Land darf Auftr\u00e4ge nur an Unternehmen vergeben, die ihre Mitarbeiter/innen nach Tarif bezahlen.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Betriebe, die keine Ausbildungspl\u00e4tze anbieten, m\u00fcssen eine Abgabe zahlen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "V\u00f6llige Freigabe der Laden\u00f6ffnungszeiten in Schleswig-Holstein.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Geschlossene Unterbringung f\u00fcr jugendliche Mehrfacht\u00e4ter/innen!",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Keine Ausweitung der Video-\u00dcberwachung von \u00f6ffentlichen Pl\u00e4tzen!",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "H\u00e4rtere Strafen f\u00fcr Graffiti-Sprayer/innen!",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Cannabis soll legalisiert werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Lehrer/innen sollen nicht mehr verbeamtet werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Die Landkreise und kreisfreien St\u00e4dte in Schleswig-Holstein m\u00fcssen erhalten bleiben - keine Zusammenlegung.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Bei Landtags- und Kommunalwahlen: Stimmabgabe per Internet erm\u00f6glichen!",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Bei Landtagswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Mehr Landesmittel f\u00fcr erneuerbare Energie.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Naturschutzgebiete ausweiten!",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Schleswig-Holstein soll auf Atomkraftwerke vollst\u00e4ndig verzichten.",
+			"topic": "Aussage Nr. 28"
+		}
+	]
+}

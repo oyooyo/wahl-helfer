@@ -1,0 +1,140 @@
+{
+	"name": "Landtagswahl Sachsen",
+	"parties": [
+		{
+			"full_name": "SPD",
+			"positions": "+---~+-+-++~+++-+++++--+++~",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "CDU",
+			"positions": "-++~+-+-~--+-----+--++-+---",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+			"positions": "+~---++~-+--+++--+-+--+-++-",
+			"short_name": "B\u00fcndnis 90/Die Gr\u00fcnen"
+		},
+		{
+			"full_name": "PDS",
+			"positions": "+----++--+++-++-~+++--+-+++",
+			"short_name": "PDS"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "-++++-+++-~+++~++-+++--+++-",
+			"short_name": "FDP"
+		}
+	],
+	"theses": [
+		{
+			"statement": "S\u00e4chsische Betriebe, die nicht ausbilden, sollen eine Abgabe zahlen.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Langzeitarbeitslose sollen zu gemeinn\u00fctzigen Arbeiten verpflichtet werden k\u00f6nnen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Freiere Regelungen f\u00fcr die Wirtschaftsregion Sachsen, z.B. bei L\u00f6hnen, Arbeitszeit und K\u00fcndigungsschutz.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Der Einfluss der Gewerkschaften muss zur\u00fcckgedr\u00e4ngt werden.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Das Ladenschlussgesetz soll abgeschafft werden.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Wir brauchen in Sachsen gesetzlich festgelegte Mindestl\u00f6hne.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Die Neuverschuldung Sachsens muss strikt begrenzt werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Opernh\u00e4user und Theater sollen sich st\u00e4rker privat finanzieren.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Verst\u00e4rkte Privatisierung von Verkehrsprojekten (z.B. Br\u00fccken- oder Tunnelbau).",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Genver\u00e4nderte Pflanzen haben auf Sachsens Feldern nichts zu suchen.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Verbindliche Obergrenzen f\u00fcr M\u00fcllgeb\u00fchren.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Keine weiteren Windr\u00e4der in Sachsen!",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Schulen sollen ihre Lehrer/innen selbst ausw\u00e4hlen und bezahlen k\u00f6nnen.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Eltern sollten die Grundschule f\u00fcr ihr Kind frei aussuchen k\u00f6nnen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Landesweite Einf\u00fchrung von Ganztagsschulen.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Schulnoten bereits ab der 1. Schulklasse!",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Einschulung bereits mit 5 Jahren.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Schulabgang nur mit Schulabschluss!",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Kostenlose Kinderbetreuungsangebote f\u00fcr alle!",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Homosexuelle sollen ihre Lebenspartnerschaften auch in Sachsen auf dem Standesamt eintragen lassen k\u00f6nnen.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Mehr Video\u00fcberwachung von \u00f6ffentlichen Pl\u00e4tzen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Die Kosten f\u00fcr den staatlichen Polizeischutz bei Demonstrationen sollen die Veranstalter selbst tragen.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Cannabis soll legalisiert werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Es soll h\u00e4rter gegen Graffiti-Sprayer vorgegangen werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Auf Landesebene: Wahlrecht ab 16!",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Erleichterung von Volksbegehren auf Landesebene.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Der/Die Ministerpr\u00e4sident/in soll vom Volk direkt gew\u00e4hlt werden.",
+			"topic": "Aussage Nr. 26"
+		}
+	]
+}

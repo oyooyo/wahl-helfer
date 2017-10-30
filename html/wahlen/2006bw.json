@@ -1,0 +1,152 @@
+{
+	"name": "Landtagswahl Baden-W\u00fcrttemberg",
+	"parties": [
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "--++~+--+---+--++--+++++++-+++",
+			"short_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN"
+		},
+		{
+			"full_name": "CDU",
+			"positions": "-+--+-+--++~+-+--+------+-~-+-",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "++-~+-+-++-++--~-+-~--~--++--+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "~-++++--+++-++-++-+-++++~+--++",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "WASG",
+			"positions": "--++-+-++++--+-++-+++~++++-+++",
+			"short_name": "WASG"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Die Flugh\u00e4fen in Baden-W\u00fcrttemberg sollen ausgebaut werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Die Laufzeiten der Kernkraftwerke sollen verl\u00e4ngert werden.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Gentechnikfreie Lebensmittel sollen in Baden-W\u00fcrttemberg ein Qualit\u00e4tssiegel bekommen.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Mehr Landesmittel f\u00fcr die AIDS-Aufkl\u00e4rung!",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Graffiti-Sprayen soll als Straftat eingestuft werden, nicht blo\u00df als Ordnungswidrigkeit.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Das Erststudium soll geb\u00fchrenfrei bleiben!",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Die Universit\u00e4ten sollen sich alle ihre Studierenden selbst aussuchen d\u00fcrfen.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Wiedereinf\u00fchrung des neunj\u00e4hrigen Gymnasiums!",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Neue Lehrkr\u00e4fte sollen nicht mehr verbeamtet werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Verbindliche Sprachtests f\u00fcr alle Kinder vor der Einschulung!",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Landeszusch\u00fcsse zum Kindergeld f\u00fcr Alleinerziehende!",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Bei Neueinstellungen soll der K\u00fcndigungsschutz gelockert werden.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Weiterer Personalabbau in Ministerien und Landesverwaltungen!",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Das Land soll sich f\u00fcr die Einf\u00fchrung einer Verm\u00f6genssteuer einsetzen.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Bei allen Straftaten sollen die DNA-Daten der T\u00e4ter/innen erfasst und gespeichert werden.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Die Verlagerung des G\u00fcterverkehrs auf die Schiene soll vom Land st\u00e4rker finanziell gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Das Land soll Fahrkarten f\u00fcr Auszubildende, Sch\u00fcler/innen und Studierende st\u00e4rker finanziell f\u00f6rdern.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Das dreigliedrige Schulsystem (Hauptschule, Realschule, Gymnasium) soll erhalten bleiben.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Zur Vorbereitung auf die Grundschule soll das letzte Kindergartenjahr verpflichtend sein.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Keine Video\u00fcberwachung auf \u00f6ffentlichen Pl\u00e4tzen!",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Bei Landtagswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "An Schulen soll der Verkauf von \"Junk-Food\" (Cola, Chips, Schokoriegel u.a.) vom Land verboten werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Das Land soll die kontrollierte Abgabe des Ersatzstoffes Methadon an Heroinabh\u00e4ngige ausbauen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Legebatterien in der H\u00fchnerhaltung verbieten!",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Die Lkw-Maut soll auf Ausweichstrecken in Baden-W\u00fcrttemberg ausgedehnt werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Die Schulpflicht soll auch f\u00fcr Kinder von Asylbewerbern und -bewerberinnen sowie Fl\u00fcchtlingen gelten.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Die betriebliche Mitbestimmung soll eingeschr\u00e4nkt werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Bei Landtagswahlen sollen auch Nicht-EU-B\u00fcrger/innen w\u00e4hlen d\u00fcrfen.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Im Umkreis von Schulen sollen keine Zigarettenautomaten aufgestellt werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Volksentscheide auf Landesebene erleichtern!",
+			"topic": "Aussage Nr. 29"
+		}
+	]
+}

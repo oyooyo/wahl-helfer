@@ -1,0 +1,214 @@
+{
+	"name": "Landtagswahl Niedersachsen",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands in Niedersachsen",
+			"positions": "~+---+-++++-+-++-+-+-+--+++---++-+-+-+",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "+---+~-~+++++-+-++--~-+-+-~+-+~+++-++-",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "~++--+~++++-+-++-+-~----++----++++---+",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+--++-+-++--~++-+---+-+++--+~+~+-++~+-",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "DIE LINKE. Niedersachsen",
+			"positions": "+--++---+--+-++-+---+-+++--+-+-+-++-+-",
+			"short_name": "DIE LINKE."
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "+----+~+-~~+++-++++~+++--~-++~-----~-~",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER Niedersachsen",
+			"positions": "+----+++++++++~+++--+-+-+-+++++++----+",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Partei Bibeltreuer Christen",
+			"positions": "-----+-++~++++++-+--++~++-++-~++--~++-",
+			"short_name": "PBC"
+		},
+		{
+			"full_name": "B\u00fcndnis 21/RRP",
+			"positions": "+----+++++~~+++++---+-+++-++~+++------",
+			"short_name": "B\u00fcndnis 21/RRP"
+		},
+		{
+			"full_name": "DIE FREIHEIT - B\u00fcrgerrechtspartei f\u00fcr mehr Freiheit und Demokratie",
+			"positions": "+----++~+++~+-~+++--+---~+~++-+++----+",
+			"short_name": "DIE FREIHEIT Niedersachsen"
+		},
+		{
+			"full_name": "Piratenpartei Niedersachsen",
+			"positions": "+-~+--+++~-+-++++~--+-+++--+++~+~+-~+~",
+			"short_name": "PIRATEN"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Der Salzstock Gorleben soll kein Atomm\u00fcll-Endlager werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Das Erststudium soll weiterhin geb\u00fchrenpflichtig sein.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Die Laden\u00f6ffnungszeiten an Sonntagen sollen in Niedersachsen ausgeweitet werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "An nieders\u00e4chsischen Schulen: \"Sitzenbleiben\" abschaffen!",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "In Unternehmen mit Landesbeteiligung (z. B. Volkswagen, Salzgitter AG) soll eine Frauenquote in F\u00fchrungspositionen gelten.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "Kriminelle Jugendliche sollen bei einer Verurteilung auf Bew\u00e4hrung auch f\u00fcr kurze Zeit inhaftiert werden k\u00f6nnen (\"Warnschussarrest\").",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Keine weiteren Landesmittel f\u00fcr die Landesbank (\"Nord/LB\")!",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Die neue Bahnstrecke (\"Y-Trasse\") zwischen Hannover, Bremen und Hamburg soll gebaut werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Das Land soll weiterhin Projekte gegen Rechtsextremismus f\u00f6rdern.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "In Waldgebieten sollen keine Fl\u00e4chen f\u00fcr Windkraftanlagen ausgewiesen werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Hartz-IV-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie ein Jobangebot ablehnen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Die kommunale Grundversorgung (Gas, Wasser, Strom und Abfall) soll ausschlie\u00dflich in \u00f6ffentlicher Hand sein.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Konfessioneller Religionsunterricht soll weiterhin an allen nieders\u00e4chsischen Schulen angeboten werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Die Zuzahlung f\u00fcr verschreibungspflichtige Medikamente soll abgeschafft werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Mehr Menschen mit Migrationshintergrund sollen im Polizeidienst arbeiten.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Das Land Niedersachsen soll ab dem Jahr 2017 keine neuen Schulden mehr machen d\u00fcrfen.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Niedersachsen soll sich f\u00fcr einen fl\u00e4chendeckenden gesetzlichen Mindestlohn einsetzen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Die K\u00fcstenautobahn A20 soll fertiggestellt werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "Kindergeld soll nur an deutsche Familien ausgezahlt werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Die F\u00f6rderung von Gas aus Gesteinsschichten (\"Fracking\") soll erlaubt sein.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Zusammenlegung von Kreisen und Gemeinden nur durch B\u00fcrgerentscheide!",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Eltern, die ihre Kinder ausschlie\u00dflich zu Hause erziehen, sollen eine finanzielle Unterst\u00fctzung (\"Betreuungsgeld\") erhalten.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Alle B\u00fcrger und B\u00fcrgerinnen sollen in gesetzlichen Krankenkassen versichert sein m\u00fcssen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Die gemeinsame Grundschulzeit soll \u00fcber das vierte Jahr hinaus ausgeweitet werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Das Land soll Projekte zur Integration von Menschen mit Migrationshintergrund f\u00f6rdern.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "In Niedersachsen sollen weiterhin Kohlekraftwerke gebaut werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Der Alkoholkonsum auf \u00f6ffentlichen Pl\u00e4tzen soll weiter eingeschr\u00e4nkt werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Schulb\u00fccher sollen allen nieders\u00e4chsischen Sch\u00fclerinnen und Sch\u00fclern kostenlos zur Verf\u00fcgung gestellt werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Niedersachsen soll sich daf\u00fcr einsetzen, dass religi\u00f6se Beschneidung von minderj\u00e4hrigen Jungen unter Strafe gestellt wird.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Auch Freiberufler (z. B. Rechtsanw\u00e4lte und \u00c4rzte) sollen Gewerbesteuer zahlen.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Im Profi-Fu\u00dfball sollen die Veranstalter an den Kosten f\u00fcr Polizei-Eins\u00e4tze beteiligt werden.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Sch\u00fclerinnen und Sch\u00fcler sollen ungeachtet ihres kulturellen Hintergrundes gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "Die Elbe in Niedersachsen soll f\u00fcr gro\u00dfe Containerschiffe weiter vertieft werden.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Sportvereine, die sich gegen Diskriminierung von Homosexuellen engagieren, sollen durch das Land st\u00e4rker gef\u00f6rdert werden.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Der Besitz von Waffen soll besteuert werden.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Veranstaltungen der Landesregierung sollen weiterhin von Unternehmen gesponsert werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Bei Landtagswahlen: W\u00e4hlen ab 16 Jahren!",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Die Kennzeichnung von Pferden mit Brandzeichen soll weiterhin erlaubt sein.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}

@@ -1,0 +1,157 @@
+{
+	"name": "Europawahl",
+	"parties": [
+		{
+			"full_name": "CDU",
+			"positions": "---+++-+~-+~~~~--~-~+++++++~--",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "CSU",
+			"positions": "---+++~++-+---------+-+-+~++--",
+			"short_name": "CSU"
+		},
+		{
+			"full_name": "SPD",
+			"positions": "~-+~+~~+~-+-~+~---+++++--++~~-",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+			"positions": "+-+---+~-+--~++~-~++~+---++~~-",
+			"short_name": "B\u00fcndnis 90/Die Gr\u00fcnen"
+		},
+		{
+			"full_name": "FDP",
+			"positions": "~++-~-+++-++---~+--+-+~~+++~--",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "PDS",
+			"positions": "+++-+-+--~--++++-++++-------++",
+			"short_name": "PDS"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Die T\u00fcrkei soll in die EU aufgenommen werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Arbeitssuchende aus den neuen Mitgliedsl\u00e4ndern sollen ohne \u00dcbergangsfrist in allen EU-Staaten arbeiten d\u00fcrfen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Es sollen EU-weite Volksentscheide eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Die christlich-abendl\u00e4ndische Kultur muss das Fundament Europas sein.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Nationale Parlamente m\u00fcssen wieder mehr Einfluss in der Europ\u00e4ischen Union erhalten.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "In der europ\u00e4ischen Verfassung sollte ein Gottesbezug verankert werden.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "Die deutsche Bev\u00f6lkerung soll in einer Volksabstimmung \u00fcber die neue EU-Verfassung entscheiden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Verst\u00f6\u00dfe gegen den Europ\u00e4ischen Stabilit\u00e4tspakt sollen strikt bestraft werden.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Die Beitragszahlungen Deutschlands an die EU m\u00fcssen gesenkt werden.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Anstelle der nationalen Beitr\u00e4ge darf die EU eine eigene Steuer erheben.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Aktive Arbeitsmarktpolitik ist eine nationale Aufgabe, keine Aufgabe der EU.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Freie Marktwirtschaft ist die beste Strategie gegen Arbeitslosigkeit.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Die Mehrwertsteuer soll EU-weit vereinheitlicht werden.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Soziale Mindeststandards wie Mindestl\u00f6hne sollen EU-weit eingef\u00fchrt werden.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Absolutes Werbeverbot f\u00fcr Tabakprodukte.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Der Transport von Atomm\u00fcll zwischen den EU-Staaten muss verboten werden.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "Die Wasserversorgung soll privatisiert werden.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Die EU soll sich aktiv gegen Kurzstreckenfl\u00fcge einsetzen.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "EU-weiter Ausstieg aus der Atomenergie.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Wir brauchen einheitliche Bildungsstandards innerhalb der EU.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Jede Form von Klonforschung soll verboten werden.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "EU-Green-Card f\u00fcr hochqualifizierte Fachkr\u00e4fte.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Biometrische Daten (Fingerabdr\u00fccke u.a.) sollen von allen Einwohner/innen der EU in den Ausweispapieren erfasst werden.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Alle Flugzeuge, die in der EU landen oder starten, sollen von bewaffnetem Sicherheitspersonal begleitet werden.",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Personenbezogene Daten sollen zur EU-weiten Verbrechensbek\u00e4mpfung an einer zentralen Stelle gesammelt werden.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "Es muss ein gemeinsamer Grenzschutz der EU eingerichtet werden.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Bei der Verfolgung von Kriminellen d\u00fcrfen nationale Polizisten/innen \u00fcber die EU-Binnengrenzen hinweg t\u00e4tig werden.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Entwicklungshilfe erhalten nur Staaten, welche die Menschenrechte konsequent beachten.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "Die EU darf keine milit\u00e4rischen Mittel zur Konfliktl\u00f6sung einsetzen.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Die NATO ist entbehrlich f\u00fcr die Sicherheit und Stabilit\u00e4t in Europa.",
+			"topic": "Aussage Nr. 29"
+		}
+	]
+}

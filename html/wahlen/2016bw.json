@@ -1,0 +1,259 @@
+{
+	"name": "Landtagswahl Baden-W\u00fcrttemberg",
+	"parties": [
+		{
+			"full_name": "Christlich Demokratische Union Deutschlands",
+			"positions": "-+-+-+++~+-++++-+----++++--+-----+-+--",
+			"short_name": "CDU"
+		},
+		{
+			"full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+			"positions": "+-+-++~-+++-+--+~--~+-+-+~+-++-++-++-+",
+			"short_name": "GR\u00dcNE"
+		},
+		{
+			"full_name": "Sozialdemokratische Partei Deutschlands",
+			"positions": "+-+-~++-+++-++-----++~+-+~+-++--++++-+",
+			"short_name": "SPD"
+		},
+		{
+			"full_name": "Freie Demokratische Partei",
+			"positions": "++-+--+--+--+-+-+---+-~++--++--~-+-+-~",
+			"short_name": "FDP"
+		},
+		{
+			"full_name": "DIE LINKE",
+			"positions": "+-+-++--+-+~++-+---++-+-+++-++-++-++++",
+			"short_name": "DIE LINKE"
+		},
+		{
+			"full_name": "Piratenpartei Deutschland",
+			"positions": "+-+-+---+~+++~-+~-~~+-+-+++~-~-++-++++",
+			"short_name": "PIRATEN"
+		},
+		{
+			"full_name": "DIE REPUBLIKANER",
+			"positions": "~+-+--++++-+-++++~---+-+-+-+--~--+----",
+			"short_name": "REP"
+		},
+		{
+			"full_name": "Nationaldemokratische Partei Deutschlands",
+			"positions": "-+-++-++++++-+++++-------+++-+---+----",
+			"short_name": "NPD"
+		},
+		{
+			"full_name": "\u00d6kologisch - Demokratische Partei / Familie und Umwelt",
+			"positions": "--~-++++++++++-+---++++-+++-+++-++++-+",
+			"short_name": "\u00d6DP"
+		},
+		{
+			"full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+			"positions": "++-++---++++++++-+-+-++-++++-+++-+++++",
+			"short_name": "Die PARTEI"
+		},
+		{
+			"full_name": "B\u00fcrgerrechtsbewegung Solidarit\u00e4t",
+			"positions": "-+-----+~~--++-+--+~+~--~-+~+++-+-~+--",
+			"short_name": "B\u00fcSo"
+		},
+		{
+			"full_name": "Deutsche Kommunistische Partei",
+			"positions": "+-+-++--+-++++-+--+++-+-+++-++-++-++++",
+			"short_name": "DKP"
+		},
+		{
+			"full_name": "Allianz f\u00fcr Fortschritt und Aufbruch",
+			"positions": "-+-+--++++-++++-+-+--+-++-----+~-+~+--",
+			"short_name": "ALFA"
+		},
+		{
+			"full_name": "Allianz f\u00fcr Menschenrechte, Tier- und Naturschutz",
+			"positions": "--~-+~+-+~+~++-+---++++-++++-++++-++++",
+			"short_name": "Tierschutzallianz"
+		},
+		{
+			"full_name": "Alternative f\u00fcr Deutschland",
+			"positions": "~+-++-++++~-++++++---+-+-+-+---~-+-+--",
+			"short_name": "AfD"
+		},
+		{
+			"full_name": "B\u00fcndnis C - Christen f\u00fcr Deutschland - AUF&PBC",
+			"positions": "-~~-+-+++++-+++++-~--+--+-+---+-++-+--",
+			"short_name": "B\u00fcndnis C"
+		},
+		{
+			"full_name": "DIE RECHTE",
+			"positions": "~--++-++++++-+++++---+~--+++-----++---",
+			"short_name": "DIE RECHTE"
+		},
+		{
+			"full_name": "FREIE W\u00c4HLER",
+			"positions": "---+--+-++++++~++----+-+~+-++-+--~++~-",
+			"short_name": "FREIE W\u00c4HLER"
+		},
+		{
+			"full_name": "Menschliche Welt f\u00fcr das Wohl und Gl\u00fccklich-Sein aller",
+			"positions": "--+-++-~+++-++-+---+~-+-+~+-~++~+~++~~",
+			"short_name": "MENSCHLICHE WELT"
+		},
+		{
+			"full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+			"positions": "--~-++--+~++++-+--~++-+-+++--++++-++++",
+			"short_name": "Tierschutzpartei"
+		}
+	],
+	"theses": [
+		{
+			"statement": "Das Verbot, nach 22 Uhr Alkohol zu verkaufen, soll abgeschafft werden.",
+			"topic": "Aussage Nr. 0"
+		},
+		{
+			"statement": "Es soll weniger Fl\u00e4chen in Baden-W\u00fcrttemberg geben, auf denen Windkraftanlagen gebaut werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 1"
+		},
+		{
+			"statement": "Die Gemeinschaftsschulen in Baden-W\u00fcrttemberg sollen ausgebaut werden.",
+			"topic": "Aussage Nr. 2"
+		},
+		{
+			"statement": "Das Land soll Fl\u00fcchtlingen verst\u00e4rkt Sachleistungen statt Geldleistungen geben.",
+			"topic": "Aussage Nr. 3"
+		},
+		{
+			"statement": "Das Land soll vorrangig \u00f6kologische Landwirtschaft f\u00f6rdern.",
+			"topic": "Aussage Nr. 4"
+		},
+		{
+			"statement": "F\u00fcr F\u00fchrungspositionen in Landesbeh\u00f6rden und landeseigenen Betrieben soll eine Frauenquote gelten.",
+			"topic": "Aussage Nr. 5"
+		},
+		{
+			"statement": "In die Landesverfassung soll ein Verbot der Neuverschuldung (\"Schuldenbremse\") aufgenommen werden.",
+			"topic": "Aussage Nr. 6"
+		},
+		{
+			"statement": "Die Schulen sollen in erster Linie das traditionelle Familienbild (Vater, Mutter, Kinder) vermitteln.",
+			"topic": "Aussage Nr. 7"
+		},
+		{
+			"statement": "Die Abgeordneten des Landtags sollen ihre Nebeneink\u00fcnfte vollst\u00e4ndig ver\u00f6ffentlichen m\u00fcssen.",
+			"topic": "Aussage Nr. 8"
+		},
+		{
+			"statement": "Das Land soll abgelehnte Asylbewerberinnen und -bewerber konsequent abschieben.",
+			"topic": "Aussage Nr. 9"
+		},
+		{
+			"statement": "Das Land soll einen gr\u00f6\u00dferen Anteil des Verkehrshaushalts f\u00fcr den Ausbau des Radwegenetzes bereitstellen.",
+			"topic": "Aussage Nr. 10"
+		},
+		{
+			"statement": "Das letzte Kindergartenjahr vor der Einschulung soll verpflichtend sein.",
+			"topic": "Aussage Nr. 11"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll Projekte zur Integration von Migrantinnen und Migranten f\u00f6rdern.",
+			"topic": "Aussage Nr. 12"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll Medizinstudierende finanziell unterst\u00fctzen, die sich verpflichten nach dem Studium im l\u00e4ndlichen Raum zu arbeiten.",
+			"topic": "Aussage Nr. 13"
+		},
+		{
+			"statement": "Asylbewerberinnen und Asylbewerber sollen sich nur in dem Landkreis aufhalten d\u00fcrfen, in dem sie untergebracht sind.",
+			"topic": "Aussage Nr. 14"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll sich f\u00fcr den Stopp der Verhandlungen \u00fcber das transatlantische Freihandelsabkommen (TTIP) einsetzen.",
+			"topic": "Aussage Nr. 15"
+		},
+		{
+			"statement": "An den Hochschulen des Landes soll zu milit\u00e4rischen Zwecken geforscht werden d\u00fcrfen.",
+			"topic": "Aussage Nr. 16"
+		},
+		{
+			"statement": "Wohngeld soll ausschlie\u00dflich an Deutsche gezahlt werden.",
+			"topic": "Aussage Nr. 17"
+		},
+		{
+			"statement": "In Baden-W\u00fcrttemberg sollen radioaktive Abf\u00e4lle aus Kernkraftwerken anderer Bundesl\u00e4nder zwischengelagert werden.",
+			"topic": "Aussage Nr. 18"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll sich f\u00fcr die Einf\u00fchrung einer Verm\u00f6genssteuer einsetzen.",
+			"topic": "Aussage Nr. 19"
+		},
+		{
+			"statement": "Bei Kommunalwahlen sollen alle dauerhaft in Baden-W\u00fcrttemberg wohnenden Ausl\u00e4nderinnen und Ausl\u00e4nder w\u00e4hlen d\u00fcrfen.",
+			"topic": "Aussage Nr. 20"
+		},
+		{
+			"statement": "Die Video\u00fcberwachung auf Stra\u00dfen und Pl\u00e4tzen soll ausgeweitet werden.",
+			"topic": "Aussage Nr. 21"
+		},
+		{
+			"statement": "Jede Schule in Baden-W\u00fcrttemberg muss in der Lage sein, Kinder mit Behinderungen aufzunehmen.",
+			"topic": "Aussage Nr. 22"
+		},
+		{
+			"statement": "Keine Mietpreisbremse in baden-w\u00fcrttembergischen St\u00e4dten und Gemeinden!",
+			"topic": "Aussage Nr. 23"
+		},
+		{
+			"statement": "Baden-W\u00fcrttemberg soll Projekte gegen Rechtsextremismus weiterhin f\u00f6rdern.",
+			"topic": "Aussage Nr. 24"
+		},
+		{
+			"statement": "F\u00fcr Sch\u00fcler und Sch\u00fclerinnen soll es ein entgeltfreies \u00d6PNV-Ticket geben.",
+			"topic": "Aussage Nr. 25"
+		},
+		{
+			"statement": "Leiharbeiterinnen und Leiharbeiter sollen vom ersten Arbeitstag an mindestens den gleichen Lohn erhalten wie regul\u00e4r Besch\u00e4ftigte.",
+			"topic": "Aussage Nr. 26"
+		},
+		{
+			"statement": "Die Steuer auf den Erwerb von Grundst\u00fccken soll gesenkt werden.",
+			"topic": "Aussage Nr. 27"
+		},
+		{
+			"statement": "An allen staatlichen Schulen in Baden-W\u00fcrttemberg soll islamischer Religionsunterricht angeboten werden.",
+			"topic": "Aussage Nr. 28"
+		},
+		{
+			"statement": "Das Land soll jedem Schulabsolventen und jeder Schulabsolventin aus Baden-W\u00fcrttemberg einen Ausbildungsplatz garantieren.",
+			"topic": "Aussage Nr. 29"
+		},
+		{
+			"statement": "Bei Risikospielen im Profi-Fu\u00dfball sollen sich die Veranstalter an den Kosten f\u00fcr Polizeieins\u00e4tze beteiligen m\u00fcssen.",
+			"topic": "Aussage Nr. 30"
+		},
+		{
+			"statement": "Der Anbau von Cannabis zum Eigenbedarf soll erlaubt werden.",
+			"topic": "Aussage Nr. 31"
+		},
+		{
+			"statement": "F\u00fcr Integrationspolitik soll es auf Landesebene weiterhin ein eigenst\u00e4ndiges Ministerium geben.",
+			"topic": "Aussage Nr. 32"
+		},
+		{
+			"statement": "Hartz-IV-Empf\u00e4ngerinnen und -Empf\u00e4ngern sollen weiterhin Leistungen gek\u00fcrzt werden, wenn sie Jobangebote ablehnen.",
+			"topic": "Aussage Nr. 33"
+		},
+		{
+			"statement": "Polizistinnen und Polizisten sollen bei Gro\u00dfeins\u00e4tzen eine anonymisierte individuelle Kennung tragen m\u00fcssen.",
+			"topic": "Aussage Nr. 34"
+		},
+		{
+			"statement": "Sch\u00fclerinnen und Sch\u00fcler mit und ohne Migrationshintergrund sollen weiterhin gemeinsam unterrichtet werden.",
+			"topic": "Aussage Nr. 35"
+		},
+		{
+			"statement": "Das Tanzverbot an \"stillen Tagen\" (z.B. Karfreitag, Volkstrauertag) soll abgeschafft werden.",
+			"topic": "Aussage Nr. 36"
+		},
+		{
+			"statement": "Das Wahlalter bei Landtagswahlen soll auf 16 Jahre gesenkt werden.",
+			"topic": "Aussage Nr. 37"
+		}
+	]
+}
