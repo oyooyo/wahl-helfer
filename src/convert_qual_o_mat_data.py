@@ -43,7 +43,7 @@ def convert_data(data):
 	return {
 		'name': data['overview']['title'],
 		'theses': [{
-			'topic': 'Aussage Nr. {id}'.format(id = statement['id']),
+			'topic': 'Aussage Nr. {id}'.format(id = (statement['id'] + 1)),
 			'statement': statement['text'],
 		} for statement in data['statements']],
 		'parties': [{
