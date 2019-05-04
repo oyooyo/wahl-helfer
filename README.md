@@ -21,6 +21,7 @@ If there should be a relevant amount of interest in *Wahl-Helfer*, this might so
 ## Elections
 
 *Wahl-Helfer* currently supports the following election(s):
+- [Europawahl 2019](https://oyooyo.github.io/wahl-helfer/html/wahl-helfer.html?wahl=europawahl2019)
 - [Bundestagswahl 2017](https://oyooyo.github.io/wahl-helfer/html/wahl-helfer.html?wahl=2017de)
 - [Landtagswahl Nordrhein-Westfalen 2017](https://oyooyo.github.io/wahl-helfer/html/wahl-helfer.html?wahl=2017nrw)
 - [Landtagswahl Schleswig-Holstein 2017](https://oyooyo.github.io/wahl-helfer/html/wahl-helfer.html?wahl=2017sh)
