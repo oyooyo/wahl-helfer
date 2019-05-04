@@ -1,0 +1,359 @@
+{
+  "name": "Europawahl 2019",
+  "theses": [
+    {
+      "topic": "EU-weite B\u00fcrgerentscheide",
+      "statement": "Es sollen EU-weite verbindliche B\u00fcrgerentscheide eingef\u00fchrt werden."
+    },
+    {
+      "topic": "CO2-Aussto\u00df",
+      "statement": "Die EU soll sich h\u00f6here Ziele zur Reduzierung des CO2-Aussto\u00dfes setzen."
+    },
+    {
+      "topic": "Europ\u00e4ische Armee",
+      "statement": "Die EU-Mitgliedsstaaten sollen eine gemeinsame Armee aufbauen."
+    },
+    {
+      "topic": "Landwirtschaftsf\u00f6rderung",
+      "statement": "Die Europ\u00e4ische Union soll vorrangig Bio-Landwirtschaft f\u00f6rdern."
+    },
+    {
+      "topic": "Nationale W\u00e4hrung",
+      "statement": "Deutschland soll an Stelle des Euro wieder eine nationale W\u00e4hrung einf\u00fchren."
+    },
+    {
+      "topic": "Seenotrettung im Mittelmeer",
+      "statement": "Die EU soll private Seenotrettungsinitiativen im Mittelmeer unterst\u00fctzen."
+    },
+    {
+      "topic": "Finanztransaktionssteuer",
+      "statement": "Auf den Handel mit Finanzprodukten (z.B. Aktien) soll eine Steuer erhoben werden."
+    },
+    {
+      "topic": "Gentechnisch ver\u00e4nderte Pflanzen",
+      "statement": "Der Anbau von gentechnisch ver\u00e4nderten Pflanzen soll in der EU erlaubt sein."
+    },
+    {
+      "topic": "Sozialleistungen in der EU",
+      "statement": "EU-B\u00fcrgerinnen und -B\u00fcrger, die in ein anderes EU-Land ziehen, sollen dort nur eingeschr\u00e4nkt Sozialleistungen erhalten."
+    },
+    {
+      "topic": "Stimmabgabe bei der Europawahl",
+      "statement": "EU-B\u00fcrgerinnen und -B\u00fcrger sollen bei der Europawahl ihre Stimme auch f\u00fcr Parteien aus anderen Mitgliedsstaaten abgeben d\u00fcrfen."
+    },
+    {
+      "topic": "Europ\u00e4ische Entwicklungshilfe",
+      "statement": "Die EU soll mehr Geld f\u00fcr die Entwicklungshilfe bereitstellen."
+    },
+    {
+      "topic": "Fluggastdaten",
+      "statement": "Die EU-Mitgliedsstaaten sollen weiterhin Daten von Flugg\u00e4sten speichern m\u00fcssen."
+    },
+    {
+      "topic": "Mindestlohn",
+      "statement": "Die EU soll sich f\u00fcr die Einf\u00fchrung eines nationalen Mindestlohns in allen Mitgliedsstaaten einsetzen."
+    },
+    {
+      "topic": "Fl\u00fcchtlingsabkommen mit der T\u00fcrkei",
+      "statement": "Die EU soll am Fl\u00fcchtlingsabkommen mit der T\u00fcrkei festhalten."
+    },
+    {
+      "topic": "Frauenquote",
+      "statement": "In der EU soll es f\u00fcr Aufsichtsr\u00e4te von Unternehmen eine verbindliche Frauenquote geben."
+    },
+    {
+      "topic": "Austritt aus der EU",
+      "statement": "Deutschland soll aus der Europ\u00e4ischen Union austreten."
+    },
+    {
+      "topic": "Atomkraftwerke",
+      "statement": "In anderen EU-Staaten sollen weiterhin Atomkraftwerke betrieben werden d\u00fcrfen."
+    },
+    {
+      "topic": "Zuwanderung von Fachkr\u00e4ften",
+      "statement": "Die Europ\u00e4ische Union soll Zuwanderung von Fachkr\u00e4ften aus Nicht-EU-L\u00e4ndern f\u00f6rdern."
+    },
+    {
+      "topic": "Presse- und Medienfreiheit",
+      "statement": "Die EU soll Mitgliedsstaaten finanziell bestrafen, die die Presse- und Medienfreiheit verletzen."
+    },
+    {
+      "topic": "Reduzierung der Regionalf\u00f6rderung",
+      "statement": "Die finanziellen Hilfen f\u00fcr wirtschaftlich schw\u00e4chere Regionen in der EU sollen reduziert werden."
+    },
+    {
+      "topic": "Tierversuche",
+      "statement": "In der medizinischen Forschung sollen Tierversuche weiterhin erlaubt sein."
+    },
+    {
+      "topic": "Europol",
+      "statement": "Die europ\u00e4ische Polizeibeh\u00f6rde Europol soll weitere Kompetenzen erhalten."
+    },
+    {
+      "topic": "Mindestsatz f\u00fcr Besteuerung",
+      "statement": "F\u00fcr die Besteuerung von Unternehmen soll es einen EU-weiten Mindestsatz geben."
+    },
+    {
+      "topic": "Gleichgeschlechtliche Ehe",
+      "statement": "Die EU soll sich daf\u00fcr einsetzen, dass alle Mitgliedsstaaten die gleichgeschlechtliche Ehe einf\u00fchren."
+    },
+    {
+      "topic": "EU-Regeln zur Staatsverschuldung",
+      "statement": "Mitgliedsstaaten, die die EU-Regeln zur Begrenzung der Staatsverschuldung verletzen, sollen konsequent bestraft werden."
+    },
+    {
+      "topic": "Lkw-Maut auf Fernstra\u00dfen",
+      "statement": "In allen Mitgliedsstaaten soll eine Lkw-Maut auf Fernstra\u00dfen eingef\u00fchrt werden."
+    },
+    {
+      "topic": "Christliche Wertegemeinschaft",
+      "statement": "Die Europ\u00e4ische Union soll sich als christliche Wertegemeinschaft verstehen."
+    },
+    {
+      "topic": "Verstaatlichung der Banken",
+      "statement": "Alle Banken sollen verstaatlicht werden."
+    },
+    {
+      "topic": "Migration \u00fcber das Mittelmeer",
+      "statement": "Alle Asylsuchenden, die versuchen \u00fcber das Mittelmeer in die EU zu gelangen, sollen in ihre Heimatl\u00e4nder zur\u00fcckgef\u00fchrt werden."
+    },
+    {
+      "topic": "Abbau der Russland-Sanktionen",
+      "statement": "Die EU soll ihre Sanktionen gegen Russland abbauen."
+    },
+    {
+      "topic": "Steuer auf Plastikverpackungen",
+      "statement": "In allen EU-Mitgliedsstaaten sollen Plastikverpackungen besteuert werden."
+    },
+    {
+      "topic": "Initiativen gegen Antisemitismus",
+      "statement": "In der EU sollen Initiativen gegen Antisemitismus finanziell unterst\u00fctzt werden."
+    },
+    {
+      "topic": "Au\u00dfenpolitische Entscheidungen",
+      "statement": "Bei au\u00dfenpolitischen Entscheidungen der EU soll h\u00e4ufiger mit Mehrheit statt einstimmig entschieden werden k\u00f6nnen."
+    },
+    {
+      "topic": "Verteilung von Asylsuchenden",
+      "statement": "Asylsuchende sollen in der EU proportional auf die Mitgliedsstaaten verteilt werden."
+    },
+    {
+      "topic": "Fischfangmenge",
+      "statement": "Die Fangmengen f\u00fcr die europ\u00e4ische Fischerei sollen st\u00e4rker begrenzt werden."
+    },
+    {
+      "topic": "Grenzkontrollen innerhalb der EU",
+      "statement": "Es sollen wieder dauerhafte Grenzkontrollen zwischen den Mitgliedsstaaten der EU stattfinden."
+    },
+    {
+      "topic": "Europ\u00e4ischer Bundesstaat",
+      "statement": "Die EU soll sich langfristig zu einem europ\u00e4ischen Bundesstaat entwickeln."
+    },
+    {
+      "topic": "W\u00e4hlen ab 16",
+      "statement": "Jugendliche sollen ab 16 Jahren bei der Europawahl w\u00e4hlen d\u00fcrfen."
+    }
+  ],
+  "parties": [
+    {
+      "short_name": "CDU / CSU",
+      "full_name": "Christlich Demokratische Union Deutschlands / Christlich-Soziale Union in Bayern e.V.",
+      "positions": "-~+~--+~+-++-+~-~++-++~~+-+-~-~++++---"
+    },
+    {
+      "short_name": "SPD",
+      "full_name": "Sozialdemokratische Partei Deutschlands",
+      "positions": "++++-++--++~+-+--++-++++~+---+-++++-++"
+    },
+    {
+      "short_name": "GR\u00dcNE",
+      "full_name": "B\u00dcNDNIS 90/DIE GR\u00dcNEN",
+      "positions": "++-+-++--++-+-+--++--+++~+----+++++-++"
+    },
+    {
+      "short_name": "DIE LINKE",
+      "full_name": "DIE LINKE",
+      "positions": "++-+-++---+-+-+--~+-~-++-+-+-+++-++--+"
+    },
+    {
+      "short_name": "AfD",
+      "full_name": "Alternative f\u00fcr Deutschland",
+      "positions": "----+-~++--~---++--++---+-+-++~~---+--"
+    },
+    {
+      "short_name": "FDP",
+      "full_name": "Freie Demokratische Partei",
+      "positions": "~-+--~-+++~--+--+++~++-~+------+++~-+-"
+    },
+    {
+      "short_name": "FREIE W\u00c4HLER",
+      "full_name": "FREIE W\u00c4HLER",
+      "positions": "+++~--+-+-++-+---++--+-~+++-+--+-+----"
+    },
+    {
+      "short_name": "PIRATEN",
+      "full_name": "Piratenpartei Deutschland",
+      "positions": "++-+-++--++-+----++-+-++------+++++-++"
+    },
+    {
+      "short_name": "Tierschutzpartei",
+      "full_name": "PARTEI MENSCH UMWELT TIERSCHUTZ",
+      "positions": "++++-++--++~+-+--~+--~++~~-~-~+++-+-~+"
+    },
+    {
+      "short_name": "NPD",
+      "full_name": "Nationaldemokratische Partei Deutschlands",
+      "positions": "---++-+-+--+---+~--+-+----+-+++---++--"
+    },
+    {
+      "short_name": "FAMILIE",
+      "full_name": "Familien-Partei Deutschlands",
+      "positions": "+~+~-++-+-+++-~---+-~++-+++--++++++--+"
+    },
+    {
+      "short_name": "\u00d6DP",
+      "full_name": "\u00d6kologisch-Demokratische Partei",
+      "positions": "++-+-++-~-+-+~---~+--++~++~--+++-++--+"
+    },
+    {
+      "short_name": "Die PARTEI",
+      "full_name": "Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative",
+      "positions": "++-+-++-+-+-+-+--++---++++---++++++-++"
+    },
+    {
+      "short_name": "Volksabstimmung",
+      "full_name": "Ab jetzt...Demokratie durch Volksabstimmung - Politik f\u00fcr die Menschen",
+      "positions": "+-~++-+~-~-~---~~--+~~+-+-+-+++-~-++~-"
+    },
+    {
+      "short_name": "BP",
+      "full_name": "Bayernpartei",
+      "positions": "+~+-+-+-+-+--+--~-+~----+-~-++-~+-~---"
+    },
+    {
+      "short_name": "DKP",
+      "full_name": "Deutsche Kommunistische Partei",
+      "positions": "++-++++--~+-+-~+----+-++---+-+-+-++--+"
+    },
+    {
+      "short_name": "MLPD",
+      "full_name": "Marxistisch-Leninistische Partei Deutschlands",
+      "positions": "++-~~++--+~-+-~~--+-+-++-+-+-+++~-+-~+"
+    },
+    {
+      "short_name": "SGP",
+      "full_name": "Sozialistische Gleichheitspartei, Vierte Internationale",
+      "positions": "++-+-+++-+--+-----+-+-++---+-+-+--+--+"
+    },
+    {
+      "short_name": "TIERSCHUTZ hier!",
+      "full_name": "Aktion Partei f\u00fcr Tierschutz - DAS ORIGINAL",
+      "positions": "+---+---~----+--+--~------+--++---++--"
+    },
+    {
+      "short_name": "Tierschutzallianz",
+      "full_name": "Allianz f\u00fcr Menschenrechte, Tier- und Naturschutz",
+      "positions": "++~+-~+-~~+-~~+--~+--+++~+~--+++-++-~+"
+    },
+    {
+      "short_name": "B\u00fcndnis C",
+      "full_name": "B\u00fcndnis C - Christen f\u00fcr Deutschland",
+      "positions": "+--+----~-+-----+--++-~-+-+-~~++--+---"
+    },
+    {
+      "short_name": "BIG",
+      "full_name": "B\u00fcndnis f\u00fcr Innovation & Gerechtigkeit",
+      "positions": "-+++-++-+++-+++--++--++-++---++++-+-~+"
+    },
+    {
+      "short_name": "BGE",
+      "full_name": "B\u00fcndnis Grundeinkommen - Die Grundeinkommenspartei",
+      "positions": "++-+-++--++-~-~--~+-~-++-+---++++~+-++"
+    },
+    {
+      "short_name": "DIE DIREKTE!",
+      "full_name": "Demokratie DIREKT!",
+      "positions": "++-+-++-~~+-+-+--++~-~~+++~--++~~+++-+"
+    },
+    {
+      "short_name": "DiEM25",
+      "full_name": "Demokratie in Europa - DiEM25",
+      "positions": "++++-++--++-+-+--++-~~++~+-~-~+++++-++"
+    },
+    {
+      "short_name": "III. Weg",
+      "full_name": "DER DRITTE WEG",
+      "positions": "---++-+-+---+--+~--+-----+-+++~---++--"
+    },
+    {
+      "short_name": "Die Grauen",
+      "full_name": "Die Grauen - F\u00fcr alle Generationen",
+      "positions": "++++--+-~-~++++---++++++++~~+++~~+++-+"
+    },
+    {
+      "short_name": "DIE RECHTE",
+      "full_name": "DIE RECHTE - Partei f\u00fcr Volksabstimmung, Souver\u00e4nit\u00e4t und Heimatschutz",
+      "positions": "---~+-+-+---+--++--+~---+-~~++----++-+"
+    },
+    {
+      "short_name": "DIE VIOLETTEN",
+      "full_name": "Die Violetten",
+      "positions": "++~+~++--++-+-+---+---+++~---++~+++--~"
+    },
+    {
+      "short_name": "LIEBE",
+      "full_name": "Europ\u00e4ische Partei LIEBE",
+      "positions": "++++-++--++-+++-+++--+-++++-+-++++-+++"
+    },
+    {
+      "short_name": "DIE FRAUEN",
+      "full_name": "Feministische Partei DIE FRAUEN",
+      "positions": "++-+-++--~+-+-+---+---++-+-~-+++~-+-~+"
+    },
+    {
+      "short_name": "Graue Panther",
+      "full_name": "Graue Panther",
+      "positions": "++++--+-+-++++----++-~+++++-+++-+++---"
+    },
+    {
+      "short_name": "LKR",
+      "full_name": "LKR - Bernd Lucke und die Liberal-Konservativen Reformer",
+      "positions": "++-+-~+~+-++-+--+++-+++-+++--+++--+---"
+    },
+    {
+      "short_name": "MENSCHLICHE WELT",
+      "full_name": "Menschliche Welt - f\u00fcr das Wohl und Gl\u00fccklichsein aller",
+      "positions": "++-+-++~+-+-+~+-------+--+---++++~+-~+"
+    },
+    {
+      "short_name": "NL",
+      "full_name": "Neue Liberale - Die Sozialliberalen",
+      "positions": "++++-++~-++-+----++-++++-+----++++~-++"
+    },
+    {
+      "short_name": "\u00d6koLinX",
+      "full_name": "\u00d6kologische Linke",
+      "positions": "++-+-++--++-+~+--++-~-++~+-+-~++-++--+"
+    },
+    {
+      "short_name": "Die Humanisten",
+      "full_name": "Partei der Humanisten",
+      "positions": "-++---~+-++-+~--+++-+++++------+++~-++"
+    },
+    {
+      "short_name": "PARTEI F\u00dcR DIE TIERE",
+      "full_name": "PARTEI F\u00dcR DIE TIERE DEUTSCHLAND",
+      "positions": "++~+~~~-~-+~~~~~~~~~-~+~~+-~~~+~~~++~+"
+    },
+    {
+      "short_name": "Gesundheitsforschung",
+      "full_name": "Partei f\u00fcr Gesundheitsforschung",
+      "positions": "~~~~~~~~~~~~~~~~~~~~+~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "short_name": "Volt",
+      "full_name": "Volt Deutschland",
+      "positions": "-+++-+++-++-+~+-+++-++++-+----+++++-++"
+    }
+  ]
+}
